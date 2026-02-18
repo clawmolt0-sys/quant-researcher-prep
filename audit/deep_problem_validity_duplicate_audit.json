@@ -1,0 +1,1209 @@
+{
+  "total": 1674,
+  "exact_duplicate_statement_groups": [],
+  "exact_duplicate_group_count": 0,
+  "near_duplicate_pairs_top": [
+    [
+      0.875,
+      1236,
+      1671,
+      "Dice Delight",
+      "Dice Delight Dilemma"
+    ],
+    [
+      0.875,
+      1236,
+      1592,
+      "Dice Delight",
+      "Dice Delight Value"
+    ],
+    [
+      0.8571428571428571,
+      1379,
+      1617,
+      "Dice Duel",
+      "Dice Duel Balance"
+    ],
+    [
+      0.8571428571428571,
+      1302,
+      1379,
+      "Dice Duel Dollars",
+      "Dice Duel"
+    ],
+    [
+      0.8571428571428571,
+      1259,
+      1379,
+      "Dice Duel Dilemma",
+      "Dice Duel"
+    ],
+    [
+      0.8571428571428571,
+      1257,
+      1379,
+      "Dice Duel Dominance",
+      "Dice Duel"
+    ],
+    [
+      0.8571428571428571,
+      1220,
+      1379,
+      "Dice Duel Choice",
+      "Dice Duel"
+    ],
+    [
+      0.8571428571428571,
+      1197,
+      1379,
+      "Dice Duel Dynamics",
+      "Dice Duel"
+    ],
+    [
+      0.8,
+      1212,
+      1258,
+      "Dice Deja Vu",
+      "Dice Deja Vu 2"
+    ],
+    [
+      0.7777777777777778,
+      1592,
+      1671,
+      "Dice Delight Value",
+      "Dice Delight Dilemma"
+    ],
+    [
+      0.75,
+      1602,
+      1604,
+      "Dice Gamble Quest",
+      "Dice Gamble Dilemma"
+    ],
+    [
+      0.75,
+      1368,
+      1604,
+      "Dice Gamble Spread",
+      "Dice Gamble Dilemma"
+    ],
+    [
+      0.75,
+      1368,
+      1602,
+      "Dice Gamble Spread",
+      "Dice Gamble Quest"
+    ],
+    [
+      0.75,
+      1355,
+      1513,
+      "Dice Strategy Duel",
+      "Dice Strategy Quest"
+    ],
+    [
+      0.75,
+      1302,
+      1617,
+      "Dice Duel Dollars",
+      "Dice Duel Balance"
+    ],
+    [
+      0.75,
+      1259,
+      1617,
+      "Dice Duel Dilemma",
+      "Dice Duel Balance"
+    ],
+    [
+      0.75,
+      1259,
+      1302,
+      "Dice Duel Dilemma",
+      "Dice Duel Dollars"
+    ],
+    [
+      0.75,
+      1257,
+      1617,
+      "Dice Duel Dominance",
+      "Dice Duel Balance"
+    ],
+    [
+      0.75,
+      1257,
+      1302,
+      "Dice Duel Dominance",
+      "Dice Duel Dollars"
+    ],
+    [
+      0.75,
+      1257,
+      1259,
+      "Dice Duel Dominance",
+      "Dice Duel Dilemma"
+    ],
+    [
+      0.75,
+      1220,
+      1617,
+      "Dice Duel Choice",
+      "Dice Duel Balance"
+    ],
+    [
+      0.75,
+      1220,
+      1302,
+      "Dice Duel Choice",
+      "Dice Duel Dollars"
+    ],
+    [
+      0.75,
+      1220,
+      1259,
+      "Dice Duel Choice",
+      "Dice Duel Dilemma"
+    ],
+    [
+      0.75,
+      1220,
+      1257,
+      "Dice Duel Choice",
+      "Dice Duel Dominance"
+    ],
+    [
+      0.75,
+      1205,
+      1604,
+      "Dice Gamble Quandary",
+      "Dice Gamble Dilemma"
+    ],
+    [
+      0.75,
+      1205,
+      1602,
+      "Dice Gamble Quandary",
+      "Dice Gamble Quest"
+    ],
+    [
+      0.75,
+      1205,
+      1368,
+      "Dice Gamble Quandary",
+      "Dice Gamble Spread"
+    ],
+    [
+      0.75,
+      1197,
+      1617,
+      "Dice Duel Dynamics",
+      "Dice Duel Balance"
+    ],
+    [
+      0.75,
+      1197,
+      1302,
+      "Dice Duel Dynamics",
+      "Dice Duel Dollars"
+    ],
+    [
+      0.75,
+      1197,
+      1259,
+      "Dice Duel Dynamics",
+      "Dice Duel Dilemma"
+    ],
+    [
+      0.75,
+      1197,
+      1257,
+      "Dice Duel Dynamics",
+      "Dice Duel Dominance"
+    ],
+    [
+      0.75,
+      1197,
+      1220,
+      "Dice Duel Dynamics",
+      "Dice Duel Choice"
+    ],
+    [
+      0.6666666666666666,
+      1556,
+      1667,
+      "Coin Flip Alchemy",
+      "Coin Flip Dynamics"
+    ],
+    [
+      0.6666666666666666,
+      1515,
+      1667,
+      "Coin Flip Balance",
+      "Coin Flip Dynamics"
+    ],
+    [
+      0.6666666666666666,
+      1515,
+      1556,
+      "Coin Flip Balance",
+      "Coin Flip Alchemy"
+    ],
+    [
+      0.6666666666666666,
+      1414,
+      1667,
+      "Coin Flip Faceoff",
+      "Coin Flip Dynamics"
+    ],
+    [
+      0.6666666666666666,
+      1414,
+      1556,
+      "Coin Flip Faceoff",
+      "Coin Flip Alchemy"
+    ],
+    [
+      0.6666666666666666,
+      1414,
+      1515,
+      "Coin Flip Faceoff",
+      "Coin Flip Balance"
+    ],
+    [
+      0.6666666666666666,
+      1377,
+      1667,
+      "Coin Flip Synchronicity",
+      "Coin Flip Dynamics"
+    ],
+    [
+      0.6666666666666666,
+      1377,
+      1556,
+      "Coin Flip Synchronicity",
+      "Coin Flip Alchemy"
+    ],
+    [
+      0.6666666666666666,
+      1377,
+      1515,
+      "Coin Flip Synchronicity",
+      "Coin Flip Balance"
+    ],
+    [
+      0.6666666666666666,
+      1377,
+      1414,
+      "Coin Flip Synchronicity",
+      "Coin Flip Faceoff"
+    ],
+    [
+      0.6666666666666666,
+      1265,
+      1667,
+      "Coin Flip Quartet",
+      "Coin Flip Dynamics"
+    ],
+    [
+      0.6666666666666666,
+      1265,
+      1556,
+      "Coin Flip Quartet",
+      "Coin Flip Alchemy"
+    ],
+    [
+      0.6666666666666666,
+      1265,
+      1515,
+      "Coin Flip Quartet",
+      "Coin Flip Balance"
+    ],
+    [
+      0.6666666666666666,
+      1265,
+      1414,
+      "Coin Flip Quartet",
+      "Coin Flip Faceoff"
+    ],
+    [
+      0.6666666666666666,
+      1265,
+      1377,
+      "Coin Flip Quartet",
+      "Coin Flip Synchronicity"
+    ],
+    [
+      0.6666666666666666,
+      1236,
+      1650,
+      "Dice Delight",
+      "Dice Dilemma Delight"
+    ],
+    [
+      0.6666666666666666,
+      1236,
+      1475,
+      "Dice Delight",
+      "Dice Divisors Delight"
+    ],
+    [
+      0.6666666666666666,
+      1236,
+      1433,
+      "Dice Delight",
+      "Dice Gamble Worth"
+    ],
+    [
+      0.6666666666666666,
+      1236,
+      1375,
+      "Dice Delight",
+      "Dice Ladder Expectation"
+    ],
+    [
+      0.6666666666666666,
+      1226,
+      1417,
+      "Coin Toss Parity",
+      "Coin Toss Puzzle"
+    ],
+    [
+      0.6666666666666666,
+      1222,
+      1667,
+      "Coin Flip Paradox",
+      "Coin Flip Dynamics"
+    ],
+    [
+      0.6666666666666666,
+      1222,
+      1556,
+      "Coin Flip Paradox",
+      "Coin Flip Alchemy"
+    ],
+    [
+      0.6666666666666666,
+      1222,
+      1515,
+      "Coin Flip Paradox",
+      "Coin Flip Balance"
+    ],
+    [
+      0.6666666666666666,
+      1222,
+      1414,
+      "Coin Flip Paradox",
+      "Coin Flip Faceoff"
+    ],
+    [
+      0.6666666666666666,
+      1222,
+      1377,
+      "Coin Flip Paradox",
+      "Coin Flip Synchronicity"
+    ],
+    [
+      0.6666666666666666,
+      1222,
+      1265,
+      "Coin Flip Paradox",
+      "Coin Flip Quartet"
+    ],
+    [
+      0.6666666666666666,
+      1219,
+      1490,
+      "Card Flip Gambit",
+      "Card Flip Maximizer"
+    ],
+    [
+      0.6666666666666666,
+      1101,
+      1236,
+      "Dice Duality Delight",
+      "Dice Delight"
+    ],
+    [
+      0.625,
+      1379,
+      1604,
+      "Dice Duel",
+      "Dice Gamble Dilemma"
+    ],
+    [
+      0.625,
+      1379,
+      1602,
+      "Dice Duel",
+      "Dice Gamble Quest"
+    ],
+    [
+      0.625,
+      1379,
+      1581,
+      "Dice Duel",
+      "Dice Bet Dilemma"
+    ],
+    [
+      0.625,
+      1379,
+      1513,
+      "Dice Duel",
+      "Dice Strategy Quest"
+    ],
+    [
+      0.625,
+      1379,
+      1401,
+      "Dice Duel",
+      "Dice Divisor Duel"
+    ],
+    [
+      0.625,
+      1368,
+      1379,
+      "Dice Gamble Spread",
+      "Dice Duel"
+    ],
+    [
+      0.625,
+      1355,
+      1379,
+      "Dice Strategy Duel",
+      "Dice Duel"
+    ],
+    [
+      0.625,
+      1205,
+      1379,
+      "Dice Gamble Quandary",
+      "Dice Duel"
+    ]
+  ],
+  "near_duplicate_pair_count_est": 68,
+  "vague_candidates_top": [
+    [
+      4,
+      1050,
+      "Linear Regression Assumptions",
+      "- Explain the assumptions in linear regression."
+    ],
+    [
+      4,
+      1035,
+      "Assumptions in Linear Regression",
+      "What are the assumptions underlying linear regression models? Explain why each of these assumptions is important for the validity of the model and the accuracy of the results."
+    ],
+    [
+      4,
+      978,
+      "Basic Assumptions of Linear Regression",
+      "Discuss the basic assumptions of linear regression."
+    ],
+    [
+      4,
+      964,
+      "Project-Specific Questions",
+      "Discuss questions related to your specific work or research projects, with a focus on explaining methods and results."
+    ],
+    [
+      4,
+      852,
+      "Assumptions of Linear Regression",
+      "What are the assumptions of linear regression?"
+    ],
+    [
+      4,
+      662,
+      "Python: Numpy Array vs. List",
+      "What are the key differences between a NumPy array and a standard Python list? Discuss aspects like memory usage, performance, and functionality."
+    ],
+    [
+      3,
+      1081,
+      "Second Round",
+      "- How do you generate a normal distribution from a uniform[0,1] distribution?\n    \n- What is the probability of \\(X > 0\\) and \\(Y > X\\), where \\(X\\) and \\(Y\\) are iid standard normals?\n    \n- Given \\(n\\) uniform distribu"
+    ],
+    [
+      3,
+      980,
+      "How Monte Carlo Works and Variance Reduction",
+      "Explain how the Monte Carlo method works and discuss techniques to reduce variance. (Hint: Relate to relevant project experience.)"
+    ],
+    [
+      3,
+      968,
+      "Differences Between L1 and L2 Regularization",
+      "How do L1 and L2 regularizations differ? How do the resulting coefficients differ? Why might we prefer coefficients with small absolute values?"
+    ],
+    [
+      3,
+      886,
+      "Brownian Motion",
+      "- What is Brownian motion and what are its basic assumptions?\n    \n- What is the joint probability distribution of Brownian motion?"
+    ],
+    [
+      3,
+      733,
+      "Identifying the Expert in a Group",
+      "You have 10 experts voting on a binary event. One expert is always correct, while the others vote randomly. How many mistakes can you make before identifying the correct expert? \n\n**Answer**: Use a probabilistic model ba"
+    ],
+    [
+      3,
+      653,
+      "Linear Regression: R-squared Properties",
+      "What is the definition of $R^2$? Is $R^2$ always non-negative in a linear regression model? What if the model is fitted without an intercept term?"
+    ],
+    [
+      3,
+      652,
+      "Stochastic Processes and Sampling",
+      "This section covers a discussion on advanced topics.\n(a) What are the key properties of a standard Brownian motion? What is its probability density function?\n(b) For a Brownian bridge, what are its mean and variance?\n(c)"
+    ],
+    [
+      3,
+      566,
+      "Case Study: MVO from a Linear Algebra Perspective",
+      "Discuss Mean-Variance Optimization (MVO) for portfolios from a linear algebra perspective. What are the inputs and outputs? How do you solve the constrained optimization problem?"
+    ],
+    [
+      3,
+      520,
+      "Machine Learning General Questions",
+      "(a) How does PCA work? If you add a feature to your dataset, how does the variance explained by the first principal component change?\n(b) Compare Random Forest and Gradient Boosting. Why can't you use strong learners in "
+    ],
+    [
+      3,
+      500,
+      "Finance and Trading Questions",
+      "(a) Discuss execution risk in pairs trading.\n(b) What are potential issues with estimating correlation using high-frequency data?\n(c) How can you neutralize an alpha strategy against a set of risk factors?\n(d) In portfol"
+    ],
+    [
+      3,
+      464,
+      "Linear Regression Concepts",
+      "Discuss the assumptions of linear regression and the issue of collinearity. How does collinearity affect the model's coefficients, their variance, and their interpretation?"
+    ],
+    [
+      3,
+      448,
+      "Duplicate Data Points Impact on Regression",
+      "Statistics: Data Issues in Regression. When performing a linear regression, how would you handle the issue of duplicate data points in your dataset? Discuss the potential impact on model parameters and performance metric"
+    ],
+    [
+      3,
+      404,
+      "Statistics: OLS assumptions",
+      "Statistics: OLS assumptions. Discuss the assumptions of the Ordinary Least Squares (OLS) model and their geometric meaning."
+    ],
+    [
+      3,
+      381,
+      "Linear Regression Assumptions and Violations",
+      "Statistics: Assumptions and issues in Linear Regression. (a) What are the assumptions of the classic Linear Regression model? (b) Does multicollinearity bias the coefficient estimates? (c) How does heteroskedasticity aff"
+    ],
+    [
+      3,
+      213,
+      "Gradient Clipping: Why and How",
+      "Explain gradient clipping in the context of training neural networks. What problem does it solve, and what are the two main approaches?"
+    ],
+    [
+      3,
+      129,
+      "Black-Scholes Assumptions",
+      "List the key assumptions of the Black-Scholes model. For each, explain how it fails in practice and what the consequence is."
+    ],
+    [
+      3,
+      96,
+      "Linear Regression Assumptions and Violations",
+      "State the five classical assumptions of OLS linear regression ($Y = X\\beta + \\epsilon$). For each, explain what happens when it is violated and how to detect/fix it."
+    ]
+  ],
+  "vague_candidate_count_est": 23,
+  "bullet_collection_candidates_top": [
+    [
+      72,
+      29,
+      723,
+      "Random Walk on a Circle",
+      "Consider a random walk on the boundary of a circle centered at the origin. You return to the starting point after $n$ steps. Each step is random and traverses to a point on the boundary.\n\nYou are asked to find the expected number of intersections created by th"
+    ],
+    [
+      26,
+      81,
+      733,
+      "Identifying the Expert in a Group",
+      "You have 10 experts voting on a binary event. One expert is always correct, while the others vote randomly. How many mistakes can you make before identifying the correct expert? \n\n**Answer**: Use a probabilistic model based on the experts' predictions over mul"
+    ],
+    [
+      14,
+      2,
+      1030,
+      "Statistics Questions",
+      "1. **Linear Regression Assumptions:**\n   - Linearity: The relationship between the dependent and independent variables is linear.\n   - Independence: Observations are independent of each other.\n   - Homoscedasticity: Constant variance of the error terms.\n   - N"
+    ],
+    [
+      10,
+      3,
+      713,
+      "Coin Flip Probability",
+      "### Part 1: Even vs Odd Number of Heads\n\n    \n- You have a fair coin and you flip it 10 times. What is the probability that you obtain an even number of heads versus an odd number of heads?\n    \n- **Hint**: Use the binomial probability mass function to evaluat"
+    ],
+    [
+      10,
+      0,
+      770,
+      "Palindrome Pairs (LeetCode 336)",
+      "**Problem Statement:**\n\nYou are given a list of unique words. Find all the pairs of distinct indices $(i, j)$ in the given list such that the concatenation of the two words, i.e., `words[i] + words[j]`, is a palindrome.\n\n**Example:**\n\n    \n- **Input:** `[\"abcd"
+    ],
+    [
+      10,
+      0,
+      496,
+      "List of LeetCode Coding Problems",
+      "Be prepared for a variety of LeetCode problems, often with a quantitative or statistical flavor. Commonly cited problems include:\n\n    \n- LC 23: Merge K Sorted Lists\n    \n- LC 42: Trapping Rain Water (and variations)\n    \n- LC 53: Maximum Subarray\n    \n- LC 20"
+    ],
+    [
+      8,
+      6,
+      1085,
+      "Second Round: Fixed Income Analyst",
+      "- You have two dice: one regular and one blank. You can paint any numbers on the blank die so that the sum of both dice gives a uniform distribution over the integers 1 through 12.\n    \n- Solve the Josephus problem.\n    \n- Linear Regression: What happens to \\("
+    ],
+    [
+      8,
+      6,
+      1081,
+      "Second Round",
+      "- How do you generate a normal distribution from a uniform[0,1] distribution?\n    \n- What is the probability of \\(X > 0\\) and \\(Y > X\\), where \\(X\\) and \\(Y\\) are iid standard normals?\n    \n- Given \\(n\\) uniform distributions, find the expectation of \\(X_{(n)}"
+    ],
+    [
+      8,
+      0,
+      1076,
+      "Paper Sheets",
+      "Given a rectangular sheet with dimensions \\( h \\times w \\), where \\( h \\) is the height and \\( w \\) is the width, the goal is to fold the sheet so that its dimensions become \\( h1 \\times w1 \\) in the minimum number of moves. The sheet can only be folded parall"
+    ],
+    [
+      8,
+      0,
+      1071,
+      "ATM Queue Problem",
+      "Given an integer array `amount` of length \\( n \\). Each `amount[i]` represents the amount of money required by person \\( i \\). There are \\( n \\) people numbered 1 through \\( n \\) standing in an ATM queue in increasing order. A person can withdraw at most \\( k "
+    ],
+    [
+      8,
+      0,
+      1060,
+      "Wine Dataset",
+      "The dataset challenge involves working with the Wine dataset. This dataset can be found on Google and includes various features related to different types of wines. Typically, the dataset includes attributes such as:\n\n- **Chemical Properties**: Various measure"
+    ],
+    [
+      8,
+      0,
+      738,
+      "Coding and System Design Challenges",
+      "Each problem involves a 1-hour interview session using CoderPad. You are expected to write test cases and run them successfully.\n\n### Phone Interviews\n\n    \n- **Phone 1:** Implement an order matching system with specific conditions.\n    \n- **Phone 2:** Solve L"
+    ],
+    [
+      7,
+      6,
+      876,
+      "Optimization and Regression Questions",
+      "- Given $\\min_A \\sum_i (x_i - A)^2$, what is $A$?\n    \n- Given $\\min_A \\sum_i |x_i - A|$, what is $A$ and why?\n    \n- For the model $Y_i = x_i' \\beta$, with loss function $L = \\sum_i (Y_i - x_i' \\beta)^2$:\n    \n        \n- What is $\\beta$?\n        \n- What if $X"
+    ],
+    [
+      7,
+      0,
+      689,
+      "Math, Data, and Coding Round Problems",
+      "1. Maths round:\n    \n        \n- A combinatorics problem.\n        \n- A Bayesian probability problem.\n        \n- Several questions related to Ordinary Least Squares (OLS).\n        \n- LeetCode 169 (Majority Element), with an $O(1)$ space complexity constraint.\n  "
+    ],
+    [
+      6,
+      5,
+      736,
+      "OLS and Regularization Questions",
+      "Answer the following questions related to OLS and regularization:\n\n    \n- What is a p-value?\n    \n- Briefly explain what OLS (Ordinary Least Squares) means.\n    \n- What is the loss function for OLS?\n    \n- What is the purpose of regularization, and how is it a"
+    ],
+    [
+      6,
+      1,
+      1031,
+      "Second Round Questions",
+      "1. **Project Discussion:**\n   - The interviewer focused heavily on niche aspects of your project, which might indicate a specific area of interest or expertise.\n\n2. **Programming Task:**\n   - **Problem Statement:** Given a list of integers, compute the maximum"
+    ],
+    [
+      6,
+      1,
+      1020,
+      "Clock Hands Meeting Problem",
+      "Consider a clock. How many times in 24 hours do the minute and hour hands overlap?\n\n### Solution\n\nThe hour and minute hands start overlapping at 00:00. For each hour, the minute hands catch up to the hour hand slightly faster than one full hour. Over 24 hours:"
+    ],
+    [
+      6,
+      1,
+      1018,
+      "Mean, Mode, and Median of Random Digit Product",
+      "Three numbers are generated independently and identically distributed from the set \\(\\{0, \\ldots, 9\\}\\). What is the mean, mode, and median of their product? Also, provide a 90\\% confidence interval.\n\n### Solution\n\n1. *Mean Calculation*:\n\n   Since the numbers "
+    ],
+    [
+      6,
+      0,
+      771,
+      "Word Break II (LeetCode 140)",
+      "**Problem Statement:**\n\nGiven a string `s` and a dictionary of strings `wordDict`, add spaces in `s` to construct a sentence where each word is a valid dictionary word. Return all such possible sentences in any order.\n\nNote that the same word in the dictionary"
+    ],
+    [
+      6,
+      0,
+      734,
+      "Order Management API",
+      "Implement the following APIs to manage a sequence of orders, where each order has a unique identifier and a quantity:\n\n    \n- `Put(unique\\_id, quantity)`: Add the order with the given unique ID and quantity to the sequence.\n    \n- `Delete(unique\\_id)`: Remove "
+    ],
+    [
+      5,
+      8,
+      884,
+      "Statistics / Data Science Questions",
+      "- Ridge regression: What preprocessing is needed? Are the residuals orthogonal to the predicted values?\n    \n- Given $\\text{Corr}(Y, X_1) > 0$, $\\text{Corr}(Y, X_2) = 0$, and $\\text{Corr}(X_1, X_2) > 0$, consider two regressions: $Y = aX_1 + \\epsilon$ and $Y ="
+    ],
+    [
+      5,
+      5,
+      1083,
+      "Risk Preference / KellyÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Criterion",
+      "- Given a toy game with positive expected value that can be played infinitely, there are two strategies \\(A\\) and \\(B\\) with different risk preferences. Which one is better? (Hint: Kelly's criterion)\n        \n            \n- Follow-up: How is Kelly's criterion "
+    ],
+    [
+      5,
+      5,
+      777,
+      "Correlation and Linear Regression with Different Samples",
+      "You have 10,000 observations split into 7,000 and 3,000 groups.\n\n    \n- For the 7,000 observations, you use them as test samples, fit a linear regression, and the correlation between $\\hat{y}$ and $y$ is 0.2.\n    \n- For the 3,000 observations, you fit another "
+    ],
+    [
+      5,
+      5,
+      518,
+      "Probability and Option Payoff Questions",
+      "(a) Roll a 10-sided die and a 20-sided die. What's the probability the 10-sided die's outcome is greater?\n(b) What is the expected number of rolls of an 8-sided die to get two 8s in a row?\n(c) In a best-of-7 series where both teams have a 50% chance of winning"
+    ],
+    [
+      5,
+      1,
+      701,
+      "System Design and Algorithm Problems",
+      "1. Data processing design: For data in CSV files, how would you design a backend system for efficient storage and querying?\n\n2. Two simple Breadth-First Search (BFS) problems.\n\n3. A modified version of LeetCode's \"Minimum Window Substring\" problem.\n\n4. Impleme"
+    ],
+    [
+      5,
+      0,
+      769,
+      "Can I Win (LeetCode 464)",
+      "**Problem Statement:**\n\nIn the \"Can I Win\" game, two players take turns choosing a number from 1 to $maxChoosableInteger$. Each chosen number is removed from the pool, and the goal is to reach or exceed a target total. The player who achieves or exceeds the ta"
+    ],
+    [
+      4,
+      6,
+      883,
+      "Probability Questions",
+      "- How to uniformly sample from the surface of a 3D ball?\n    \n- How to randomly sample a permutation from $N$ numbers? What about randomly sampling a combination of $K$ numbers ($K \\leq N$)? Follow-up: What if the input is given as a stream, i.e., sampling in "
+    ],
+    [
+      4,
+      5,
+      520,
+      "Machine Learning General Questions",
+      "(a) How does PCA work? If you add a feature to your dataset, how does the variance explained by the first principal component change?\n(b) Compare Random Forest and Gradient Boosting. Why can't you use strong learners in boosting?\n(c) Why do we use non-linear a"
+    ],
+    [
+      4,
+      3,
+      946,
+      "Inline Median Computation",
+      "Given a stream of continuously generated numbers, determine an approximate median:\n\n    \n- Q1: Can this algorithm compute the exact median?\n    \n- Q2: What should be returned as the final output?\n    \n- Q3: Determine the percentiles $x$ and $y$ such that the o"
+    ],
+    [
+      4,
+      3,
+      885,
+      "Finance / Trading Questions",
+      "- When executing trades for two stocks, what if one trade gets filled but the other cannot?\n    \n- Discuss potential issues with estimating correlation using high-frequency data.\n    \n- Given a set of risk factors, how would you neutralize your alpha against t"
+    ],
+    [
+      4,
+      3,
+      500,
+      "Finance and Trading Questions",
+      "(a) Discuss execution risk in pairs trading.\n(b) What are potential issues with estimating correlation using high-frequency data?\n(c) How can you neutralize an alpha strategy against a set of risk factors?\n(d) In portfolio optimization, how do you avoid breaki"
+    ],
+    [
+      4,
+      2,
+      948,
+      "Dice Games in a Casino",
+      "- Game 1: You have two dice. Toss them, calculate the product of the results, and receive a payout equal to the product.\n    \n- Game 2: You have one die. Toss it, calculate the square of the result, and receive a payout equal to the square.\n\nQuestions:\n\n    \n-"
+    ],
+    [
+      4,
+      1,
+      882,
+      "LeetCode 239 and Coding Questions",
+      "- Merge $K$ sorted lists.\n    \n- Find the length of the longest increasing subsequence.\n    \n- Compute running stock age (Hint: Use a monotonic stack).\n    \n- There are $N$ lanes, each containing only one trophy, located $K$ steps away (unknown $K$). What is y"
+    ],
+    [
+      4,
+      1,
+      702,
+      "LeetCode Variants and Classics",
+      "1. A variation of LeetCode 77 (Combinations): In the generated list of combinations, no two items can have the same starting letter.\n\n2. Given a string of '0's and '1's, where '0' represents -1 and '1' represents +1, find the contiguous subarray with the large"
+    ],
+    [
+      4,
+      0,
+      712,
+      "Hypothesis Testing on M\\&M Taste Prediction",
+      "A person claims to be able to determine the color of M\\&M candies by taste alone. The person correctly guesses the color in 40 out of 100 trials. You are asked to evaluate whether this person's claim is credible.\n\n    \n- Formulate a hypothesis test to determin"
+    ],
+    [
+      4,
+      0,
+      695,
+      "Calculus, Linear Algebra, and Fibonacci Implementation",
+      "1. A probability problem that reduces to calculating a surface area via integration after setting up a coordinate system.\n\n2. A linear algebra question: Given $n$ random variables with equal pairwise correlation, find the range of the correlation and provide a"
+    ],
+    [
+      4,
+      0,
+      688,
+      "Jump Trading Final Round Problems",
+      "1. A game theory problem involving two players: determine the winning strategy and calculate various expected values.\n\n2. A geometry/probability problem: a shaded region is defined on a graph. Calculate the probability of a random event falling into this regio"
+    ],
+    [
+      3,
+      5,
+      1058,
+      "Geometric Interpretation of Regression Methods",
+      "- **Linear Regression**: What is the geometric interpretation of linear regression in terms of vector spaces and projection?\n- **Lasso Regression**: How does Lasso regression relate to the geometric concept of sparsity? Does Lasso regression always have a uniq"
+    ],
+    [
+      3,
+      5,
+      652,
+      "Stochastic Processes and Sampling",
+      "This section covers a discussion on advanced topics.\n(a) What are the key properties of a standard Brownian motion? What is its probability density function?\n(b) For a Brownian bridge, what are its mean and variance?\n(c) Can Markov Chain Monte Carlo (MCMC) met"
+    ],
+    [
+      3,
+      4,
+      1086,
+      "Coin Streak Length Correlation",
+      "Suppose youÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢re given a coin that comes up heads with probability $p$. You toss it repeatedly. A *streak* is a series of one or more consecutive heads or tails; let $M$ and $N$ be the lengths of the first and second streaks respectively.  \n\n- W"
+    ],
+    [
+      3,
+      4,
+      747,
+      "Coin Flipping Questions",
+      "- (2.1) You have a fair coin. What is the probability of getting an even number of heads when flipping the coin 10 times? What is the probability of getting an odd number of heads?\n    \n    \n- (2.2) Suppose you flip a coin (without knowing if it is fair or not"
+    ],
+    [
+      3,
+      4,
+      737,
+      "Open-ended Questions",
+      "- Suppose a futures exchange provides you with data that has a guaranteed delay of 500ms. How would you handle this issue?\n    \n- If you have an improvement to an existing trading strategy, how would you convince your colleagues that your modification is effec"
+    ],
+    [
+      3,
+      4,
+      699,
+      "Optimal Stopping, LeetCode, and Brain Teaser",
+      "1. Optimal stopping problem: Given $n$ i.i.d. random variables from $U[0,1]$, revealed one by one. You must accept or reject each one as it appears. Once rejected, you cannot go back; once accepted, the game ends. What is the optimal strategy to maximize the s"
+    ],
+    [
+      3,
+      3,
+      1051,
+      "Handling Missing Data and Outliers",
+      "- **Handling Missing Data**: Why is it often preferable to drop rows with missing values during preprocessing?\n- **Finding Outliers**: What methods can be used to identify outliers in a dataset?\n- **Normalization**: How can you normalize data, and what are the"
+    ],
+    [
+      3,
+      3,
+      887,
+      "Differences Between Ridge and Lasso Regression",
+      "- What are the differences between Ridge and Lasso regression?\n    \n- What are the optimal solution formulas for each?\n    \n- When should you use Ridge, and when should you use Lasso?"
+    ],
+    [
+      3,
+      3,
+      863,
+      "Expected Rolls with a Fair Six-Sided Die",
+      "- What is the expected number of rolls to get the first 6?\n    \n- What is the expected number of rolls to get every number?\n    \n- What is the expected number of rolls to get every number twice? (Provide a range if needed)"
+    ],
+    [
+      3,
+      3,
+      498,
+      "Advanced Regression Topics",
+      "(a) For Ridge regression, what data preprocessing is necessary? Are the residuals orthogonal to the predicted values?\n(b) Given Corr(Y, X1) > 0, Corr(Y, X2) = 0, Corr(X1, X2) > 0. Compare the coefficients of X1 in the regressions Y ~ X1 and Y ~ X1 + X2.\n(c) Ex"
+    ],
+    [
+      3,
+      2,
+      1055,
+      "Options Fundamentals",
+      "- What are the two assumptions of the Black-Scholes-Merton (BSM) model?\n    \n- Define vega and gamma.\n    \n- You sold a straddle at \\$20 premium. If the stock's volatility moves slightly, will you make or lose money at maturity?"
+    ],
+    [
+      3,
+      2,
+      875,
+      "Linear Regression Questions",
+      "- Derive the formula for the least squares estimation in linear regression.\n    \n- What is bias in the context of linear regression?\n    \n- For one-dimensional data $X$ and $Y$, consider two regressions: $Y = W_1 X$ and $X = W_2 Y$. What is the relationship be"
+    ],
+    [
+      3,
+      2,
+      208,
+      "Arbitrage in Betting Markets",
+      "Three bookmakers offer the following odds on a tennis match between Player A and Player B:\n- Bookmaker 1: A wins at 2.1, B wins at 1.8\n- Bookmaker 2: A wins at 1.9, B wins at 2.0\n- Bookmaker 3: A wins at 2.2, B wins at 1.7\n\nIs there an arbitrage opportunity? I"
+    ],
+    [
+      3,
+      1,
+      541,
+      "System Design and Multithreading Questions",
+      "(a) You are given a binary matrix where a \"duck\" shape is represented by 1s. Given a starting point inside the duck, write a multithreaded algorithm to flip all 1s inside the duck to 0s.\n(b) How would you optimize a Fibonacci function for sparse, random inputs"
+    ],
+    [
+      3,
+      0,
+      646,
+      "Order Probabilities and Expectations for I.I.D. Variables",
+      "Let $X_1, X_2, \\dots$ be a sequence of i.i.d. random variables from a continuous distribution. \n(a) Compute $P(X_1 < X_2)$. \n(b) Compute $P(X_{10} = \\min\\{X_9, X_{10}, X_{11}\\})$. \n(c) Find the expected index $i > 1$ of the first variable $X_i$ such that $X_i "
+    ],
+    [
+      2,
+      5,
+      696,
+      "Linear Algebra: Rotation Operator",
+      "1. A linear operator $A$ rotates any vector in $\\mathbb{R}^3$ by 180 degrees around an axis defined by the unit vector $[a, b, c]$. Find the matrix representation of $A$.\n\n2. What are the properties of this matrix $A$? (e.g., Is it symmetric? Does $A^2=I$? Is "
+    ],
+    [
+      0,
+      5,
+      371,
+      "Bayesian Coin Selection After Observing Heads",
+      "Bayesian inference: Biased coins and betting. You have two coins. The first coin has a 2/3 probability of heads, and the second has a 1/3 probability of heads. We randomly pick one coin and flip it 3 times, resulting in 3 heads. (a) What is the probability tha"
+    ],
+    [
+      0,
+      5,
+      252,
+      "Regularized regression:",
+      "Regularized regression:  \n(1) Does Elastic Net yield dense or sparse solutions? Why?  \n(2) Does Lasso have a unique solution? How about Elastic Net?  \n(3) Compare Lasso vs.\\ Elastic Net, with pros and cons.  \n(4) When should we use Lasso, Ridge, Elastic Net, o"
+    ],
+    [
+      0,
+      4,
+      453,
+      "Symmetry in Simple Linear Regression",
+      "Statistics: Symmetry in Linear Regression. (a) In simple linear regression, what is the relationship between the R-squared from regressing Y on X and the R-squared from regressing X on Y? (b) What is the relationship between their slope coefficients? Are they "
+    ],
+    [
+      0,
+      4,
+      398,
+      "Airbnb Price Rationality Case Study",
+      "Case study: Airbnb price rationality. (a) How would you determine if an Airbnb host's listed price is reasonable? What features would you need? (b) A problem is that some listings have very few ratings. How would you incorporate or handle the ratings feature? "
+    ],
+    [
+      0,
+      4,
+      381,
+      "Linear Regression Assumptions and Violations",
+      "Statistics: Assumptions and issues in Linear Regression. (a) What are the assumptions of the classic Linear Regression model? (b) Does multicollinearity bias the coefficient estimates? (c) How does heteroskedasticity affect the coefficient estimates? (d) What "
+    ],
+    [
+      0,
+      4,
+      380,
+      "Random Forest and Bagging Variance Reduction",
+      "Machine learning: Random Forest and Bagging. (a) What is a Random Forest? How does it differ from a single Decision Tree? (b) What is Bagging? (c) Why does incorporating random feature selection at each split help reduce the variance of the model?"
+    ],
+    [
+      0,
+      4,
+      356,
+      "Multicollinearity in House Price Regression",
+      "Statistics: Modeling house prices with multicollinearity. (a) You want to model New York house prices using two variables: total area and number of bathrooms. In a linear regression model, what sign (positive or negative) do you expect for the coefficients of "
+    ],
+    [
+      0,
+      4,
+      250,
+      "Highly Correlated Variables in OLS and Regularization",
+      "(1) For OLS, if two variables have correlation $0.999$, what happens to their regression coefficients? How do Lasso and Ridge behave? In practice, how to decide which variable to keep?  \n(2) For OLS, what happens if you add noise to $x$? Explain intuitively an"
+    ],
+    [
+      0,
+      3,
+      408,
+      "Sharpe Ratio Aggregation and Annualization",
+      "Quantitative finance: Sharpe Ratio concepts. (a) What is the range of the combined Sharpe ratio of ten different models? (b) How do you convert a daily Sharpe ratio to an annual Sharpe ratio? (c) Why might the actual annualized performance differ from the theo"
+    ],
+    [
+      0,
+      3,
+      397,
+      "Estimation with Equicorrelated Normal Samples",
+      "Statistics: Estimation with equicorrelated normal samples. You have $n$ samples from a normal distribution $N(\\mu, 1)$, but they are not i.i.d. The correlation matrix has off-diagonal elements that are all equal to a constant $r$. (a) How would you estimate $\\"
+    ],
+    [
+      0,
+      3,
+      387,
+      "House Price Feature Sign and Collinearity",
+      "Open-ended: House price prediction model. You want to estimate house prices using apartment size and the number of bathrooms as features. (a) What sign do you expect for the coefficients of these variables in a linear regression? (b) If two variables in a line"
+    ],
+    [
+      0,
+      3,
+      386,
+      "OLS Regression of X on Y vs Y on X",
+      "Statistics: OLS regression of X on Y vs. Y on X. Consider two OLS regressions: $Y \\sim X$ and $X \\sim Y$. (a) How are the estimated slope coefficients ($\\beta_{Y|X}$ and $\\beta_{X|Y}$) and the coefficients of determination ($R^2$) related? (b) Which regression"
+    ],
+    [
+      0,
+      3,
+      355,
+      "Annualized Sharpe Ratio with Autocorrelation",
+      "Quantitative finance: Annualized Sharpe Ratio. (a) A daily log return has mean $\\mu$ and standard deviation $\\sigma$. What is the annualized Sharpe Ratio? (b) If the daily log return has an autocorrelation of $\\rho$, what is the Sharpe Ratio if we use the week"
+    ],
+    [
+      0,
+      3,
+      205,
+      "Betting Game: Optimal Strategy with Dice",
+      "You roll a fair six-sided die. Before seeing the result, you can bet any amount $b \\geq 0$ from your bankroll of $100. If the die shows 4, 5, or 6, you win $b$ (net gain $b$). If it shows 1, 2, or 3, you lose $b$. You play this game exactly once. What bet size"
+    ],
+    [
+      0,
+      3,
+      153,
+      "Futures Exchange Data Feed Delay",
+      "A futures exchange provides two data feeds: a fast direct feed (arriving at time $t$) and a slower consolidated feed (arriving at time $t + \\delta$, where $\\delta \\sim \\text{Exp}(\\lambda)$ with mean 50 microseconds). You observe a price change on the fast feed"
+    ],
+    [
+      0,
+      3,
+      92,
+      "R-Squared Properties Under Transformation",
+      "Consider the simple linear regression $Y = \\alpha + \\beta X + \\epsilon$. (a) If you multiply all $X$ values by a constant $c \\neq 0$, what happens to $R^2$? (b) If you add a constant $k$ to all $Y$ values? (c) If you add a new predictor that is perfectly colli"
+    ],
+    [
+      0,
+      2,
+      429,
+      "Convergence in Probability vs Almost Sure",
+      "Probability theory: Modes of convergence. (a) What is the definition of convergence in probability? (b) What is the definition of almost sure convergence? (c) Give a classic counterexample of a sequence of random variables that converges in probability but doe"
+    ],
+    [
+      0,
+      2,
+      370,
+      "Expected Payoff of Max Difference of Dice",
+      "Game theory: Expected payoff and die choice. (a) We play a game where you roll a fair die to get number $X$, and I roll a fair die to get number $Y$. Your payoff is $\\max(X-Y, 0)$. Give an 80\\% confidence interval for how much you would pay to play this game. "
+    ],
+    [
+      0,
+      2,
+      366,
+      "Fibonacci Staircase Climbing Complexity",
+      "Algorithm: Fibonacci stairs and complexity analysis. (a) Find the number of ways to climb $n$ stairs where each step can be 1 or 2 stairs. (b) What is the time complexity of computing this number, $f(n)$, using the recursive formula $f(n) = f(n-1) + f(n-2)$? ("
+    ],
+    [
+      0,
+      1,
+      647,
+      "Effect of Duplicating Data on Regression Statistics",
+      "You are given a dataset of $(x,y)$ pairs. A new dataset is created by duplicating every pair. If you run a simple linear regression, how do the following statistics change compared to the regression on the original dataset: (a) the estimated slope coefficient,"
+    ],
+    [
+      0,
+      1,
+      400,
+      "Linear Recurrence via Matrix Exponentiation",
+      "Coding: Efficiently computing a linear recurrence. Consider the recurrence relation $f(n) = 2f(n-1) + f(n-2)$. (a) Write a recursive function to compute $f(n)$. Analyze its time complexity. (b) Optimize the function using memoization (dynamic programming). Wha"
+    ],
+    [
+      0,
+      1,
+      91,
+      "OLS vs Ridge vs Lasso Regression",
+      "You are building a factor model for stock returns with $p = 200$ factors and $n = 500$ observations. (a) Derive the OLS estimator and explain when it fails. (b) Write down the Ridge regression objective and its closed-form solution. Show that Ridge is equivale"
+    ],
+    [
+      0,
+      1,
+      87,
+      "Regression with Duplicated Data",
+      "You run an OLS regression $Y = X\\beta + \\epsilon$ on $n$ data points and obtain coefficient estimates $\\hat{\\beta}$ with standard errors $\\text{SE}(\\hat{\\beta})$. Now you duplicate the entire dataset (so you have $2n$ observations, each original point appearin"
+    ],
+    [
+      0,
+      0,
+      673,
+      "C++: Advanced Language Features",
+      "Explain the usage and purpose of the following C++ keywords and concepts: (a) `const` in various contexts (pointers, member functions, etc.), (b) `mutable`, (c) function pointers, and (d) `static` (for variables and member functions)."
+    ],
+    [
+      0,
+      0,
+      534,
+      "Machine Learning Concepts",
+      "Explain the following concepts: (a) The difference between Gradient Boosting and Random Forests. (b) The intuition behind batch normalization in deep learning. (c) The intuition behind using momentum in stochastic gradient descent."
+    ],
+    [
+      0,
+      0,
+      447,
+      "Data Analysis Challenge with Interpolation",
+      "Coding and Data Analysis Challenge. You are given a dataset in a DataFrame. (a) Implement linear interpolation for missing values. (b) Perform exploratory data analysis on the data. (c) Build a regression model to predict a target variable, justifying your cho"
+    ],
+    [
+      0,
+      0,
+      444,
+      "Bayesian Methods and Overfitting Prevention",
+      "Machine Learning: General Discussion. Discuss general machine learning concepts, including: (a) How Bayesian methods can be applied in machine learning. (b) Various techniques to avoid overfitting. (c) Different types of error measures and their suitability fo"
+    ],
+    [
+      0,
+      0,
+      364,
+      "Confidence Interval Estimation Game",
+      "Estimation game: Confidence intervals. Provide a 90\\% confidence interval for the following quantities: (a) The square root of 700. (b) The maximum number of hits in a Ping-Pong game. (c) The maximum number of push-ups a person can do in 24 hours."
+    ],
+    [
+      0,
+      0,
+      312,
+      "Coin parity: With 4 fair coins, probability of exactly 2 heads and of an even number of heads",
+      "Coin parity: With 4 fair coins, probability of exactly 2 heads and of an even number of heads. Generalize to (a) 4 coins, (b) 9 coins, (c) any odd $n$, (d) any even $n$."
+    ],
+    [
+      0,
+      0,
+      263,
+      "Even Number of Heads Probability",
+      "Even-head probabilities: (a) 4 coins, (b) 9 coins, (c) odd number of coins, (d) even number of coins."
+    ]
+  ],
+  "bullet_collection_count_est": 83
+}

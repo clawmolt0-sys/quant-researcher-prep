@@ -1,0 +1,6352 @@
+{
+  "multi_question_bundle": [
+    {
+      "id": 87,
+      "title": "Regression with Duplicated Data"
+    },
+    {
+      "id": 91,
+      "title": "OLS vs Ridge vs Lasso Regression"
+    },
+    {
+      "id": 92,
+      "title": "R-Squared Properties Under Transformation"
+    },
+    {
+      "id": 153,
+      "title": "Futures Exchange Data Feed Delay"
+    },
+    {
+      "id": 205,
+      "title": "Betting Game: Optimal Strategy with Dice"
+    },
+    {
+      "id": 250,
+      "title": "Highly Correlated Variables in OLS and Regularization"
+    },
+    {
+      "id": 252,
+      "title": "Regularized regression:"
+    },
+    {
+      "id": 263,
+      "title": "Even Number of Heads Probability"
+    },
+    {
+      "id": 312,
+      "title": "Coin parity: With 4 fair coins, probability of exactly 2 heads and of an even number of heads"
+    },
+    {
+      "id": 355,
+      "title": "Annualized Sharpe Ratio with Autocorrelation"
+    },
+    {
+      "id": 356,
+      "title": "Multicollinearity in House Price Regression"
+    },
+    {
+      "id": 364,
+      "title": "Confidence Interval Estimation Game"
+    },
+    {
+      "id": 366,
+      "title": "Fibonacci Staircase Climbing Complexity"
+    },
+    {
+      "id": 370,
+      "title": "Expected Payoff of Max Difference of Dice"
+    },
+    {
+      "id": 371,
+      "title": "Bayesian Coin Selection After Observing Heads"
+    },
+    {
+      "id": 380,
+      "title": "Random Forest and Bagging Variance Reduction"
+    },
+    {
+      "id": 381,
+      "title": "Linear Regression Assumptions and Violations"
+    },
+    {
+      "id": 386,
+      "title": "OLS Regression of X on Y vs Y on X"
+    },
+    {
+      "id": 387,
+      "title": "House Price Feature Sign and Collinearity"
+    },
+    {
+      "id": 397,
+      "title": "Estimation with Equicorrelated Normal Samples"
+    },
+    {
+      "id": 398,
+      "title": "Airbnb Price Rationality Case Study"
+    },
+    {
+      "id": 400,
+      "title": "Linear Recurrence via Matrix Exponentiation"
+    },
+    {
+      "id": 408,
+      "title": "Sharpe Ratio Aggregation and Annualization"
+    },
+    {
+      "id": 429,
+      "title": "Convergence in Probability vs Almost Sure"
+    },
+    {
+      "id": 444,
+      "title": "Bayesian Methods and Overfitting Prevention"
+    },
+    {
+      "id": 447,
+      "title": "Data Analysis Challenge with Interpolation"
+    },
+    {
+      "id": 453,
+      "title": "Symmetry in Simple Linear Regression"
+    },
+    {
+      "id": 496,
+      "title": "List of LeetCode Coding Problems"
+    },
+    {
+      "id": 498,
+      "title": "Advanced Regression Topics"
+    },
+    {
+      "id": 500,
+      "title": "Finance and Trading Questions"
+    },
+    {
+      "id": 518,
+      "title": "Probability and Option Payoff Questions"
+    },
+    {
+      "id": 520,
+      "title": "Machine Learning General Questions"
+    },
+    {
+      "id": 534,
+      "title": "Machine Learning Concepts"
+    },
+    {
+      "id": 541,
+      "title": "System Design and Multithreading Questions"
+    },
+    {
+      "id": 646,
+      "title": "Order Probabilities and Expectations for I.I.D. Variables"
+    },
+    {
+      "id": 647,
+      "title": "Effect of Duplicating Data on Regression Statistics"
+    },
+    {
+      "id": 652,
+      "title": "Stochastic Processes and Sampling"
+    },
+    {
+      "id": 673,
+      "title": "C++: Advanced Language Features"
+    },
+    {
+      "id": 688,
+      "title": "Jump Trading Final Round Problems"
+    },
+    {
+      "id": 689,
+      "title": "Math, Data, and Coding Round Problems"
+    },
+    {
+      "id": 695,
+      "title": "Calculus, Linear Algebra, and Fibonacci Implementation"
+    },
+    {
+      "id": 696,
+      "title": "Linear Algebra: Rotation Operator"
+    },
+    {
+      "id": 699,
+      "title": "Optimal Stopping, LeetCode, and Brain Teaser"
+    },
+    {
+      "id": 701,
+      "title": "System Design and Algorithm Problems"
+    },
+    {
+      "id": 702,
+      "title": "LeetCode Variants and Classics"
+    },
+    {
+      "id": 712,
+      "title": "Hypothesis Testing on M\\&M Taste Prediction"
+    },
+    {
+      "id": 713,
+      "title": "Coin Flip Probability"
+    },
+    {
+      "id": 723,
+      "title": "Random Walk on a Circle"
+    },
+    {
+      "id": 733,
+      "title": "Identifying the Expert in a Group"
+    },
+    {
+      "id": 734,
+      "title": "Order Management API"
+    },
+    {
+      "id": 736,
+      "title": "OLS and Regularization Questions"
+    },
+    {
+      "id": 737,
+      "title": "Open-ended Questions"
+    },
+    {
+      "id": 738,
+      "title": "Coding and System Design Challenges"
+    },
+    {
+      "id": 747,
+      "title": "Coin Flipping Questions"
+    },
+    {
+      "id": 769,
+      "title": "Can I Win (LeetCode 464)"
+    },
+    {
+      "id": 770,
+      "title": "Palindrome Pairs (LeetCode 336)"
+    },
+    {
+      "id": 771,
+      "title": "Word Break II (LeetCode 140)"
+    },
+    {
+      "id": 777,
+      "title": "Correlation and Linear Regression with Different Samples"
+    },
+    {
+      "id": 876,
+      "title": "Optimization and Regression Questions"
+    },
+    {
+      "id": 882,
+      "title": "LeetCode 239 and Coding Questions"
+    },
+    {
+      "id": 883,
+      "title": "Probability Questions"
+    },
+    {
+      "id": 884,
+      "title": "Statistics / Data Science Questions"
+    },
+    {
+      "id": 885,
+      "title": "Finance / Trading Questions"
+    },
+    {
+      "id": 946,
+      "title": "Inline Median Computation"
+    },
+    {
+      "id": 948,
+      "title": "Dice Games in a Casino"
+    },
+    {
+      "id": 1018,
+      "title": "Mean, Mode, and Median of Random Digit Product"
+    },
+    {
+      "id": 1020,
+      "title": "Clock Hands Meeting Problem"
+    },
+    {
+      "id": 1030,
+      "title": "Statistics Questions"
+    },
+    {
+      "id": 1031,
+      "title": "Second Round Questions"
+    },
+    {
+      "id": 1058,
+      "title": "Geometric Interpretation of Regression Methods"
+    },
+    {
+      "id": 1060,
+      "title": "Wine Dataset"
+    },
+    {
+      "id": 1071,
+      "title": "ATM Queue Problem"
+    },
+    {
+      "id": 1076,
+      "title": "Paper Sheets"
+    },
+    {
+      "id": 1081,
+      "title": "Second Round"
+    },
+    {
+      "id": 1083,
+      "title": "Risk Preference / KellyÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Criterion"
+    },
+    {
+      "id": 1085,
+      "title": "Second Round: Fixed Income Analyst"
+    },
+    {
+      "id": 1086,
+      "title": "Coin Streak Length Correlation"
+    }
+  ],
+  "vague_prompt": [
+    {
+      "id": 96,
+      "title": "Linear Regression Assumptions and Violations"
+    },
+    {
+      "id": 129,
+      "title": "Black-Scholes Assumptions"
+    },
+    {
+      "id": 213,
+      "title": "Gradient Clipping: Why and How"
+    },
+    {
+      "id": 404,
+      "title": "Statistics: OLS assumptions"
+    },
+    {
+      "id": 419,
+      "title": "Hash Table Implementation and Collision Resolution"
+    },
+    {
+      "id": 464,
+      "title": "Linear Regression Concepts"
+    },
+    {
+      "id": 566,
+      "title": "Case Study: MVO from a Linear Algebra Perspective"
+    },
+    {
+      "id": 592,
+      "title": "Reinforcement Learning: Q-Learning vs. Policy Gradients"
+    },
+    {
+      "id": 662,
+      "title": "Python: Numpy Array vs. List"
+    },
+    {
+      "id": 852,
+      "title": "Assumptions of Linear Regression"
+    },
+    {
+      "id": 865,
+      "title": "Kernel Methods and Gaussian Processes"
+    },
+    {
+      "id": 886,
+      "title": "Brownian Motion"
+    },
+    {
+      "id": 938,
+      "title": "Linear Regression Analysis"
+    },
+    {
+      "id": 964,
+      "title": "Project-Specific Questions"
+    },
+    {
+      "id": 978,
+      "title": "Basic Assumptions of Linear Regression"
+    },
+    {
+      "id": 980,
+      "title": "How Monte Carlo Works and Variance Reduction"
+    },
+    {
+      "id": 1035,
+      "title": "Assumptions in Linear Regression"
+    },
+    {
+      "id": 1050,
+      "title": "Linear Regression Assumptions"
+    }
+  ],
+  "tags_missing": [
+    {
+      "id": 221,
+      "title": "Factor Neutralization for Alpha Signals"
+    },
+    {
+      "id": 222,
+      "title": "Alpha Factor Screening Strategy"
+    },
+    {
+      "id": 225,
+      "title": "Coding: Merge intervals"
+    },
+    {
+      "id": 228,
+      "title": "Decreasing Uniform Sequence Properties"
+    },
+    {
+      "id": 231,
+      "title": "Simulating Fair Coin from Biased Coin"
+    },
+    {
+      "id": 232,
+      "title": "Counting Integer Partitions with Ordering"
+    },
+    {
+      "id": 234,
+      "title": "Round-Robin Tournament Point Distribution"
+    },
+    {
+      "id": 235,
+      "title": "There are $N$ identical bins and $m$ distinct balls"
+    },
+    {
+      "id": 236,
+      "title": "There is a black box containing $K$ dollars"
+    },
+    {
+      "id": 237,
+      "title": "Find the second-largest number in an array using the minimum number of comparisons"
+    },
+    {
+      "id": 244,
+      "title": "Nearest Neighbor Distance in Unit Ball"
+    },
+    {
+      "id": 246,
+      "title": "Expected Time Between Supervisor Referrals"
+    },
+    {
+      "id": 247,
+      "title": "Random Seating Displacement Problem"
+    },
+    {
+      "id": 253,
+      "title": "Find the smallest and largest integer whose digits multiply to 10000"
+    },
+    {
+      "id": 255,
+      "title": "A box contains 4 blue balls and 3 red balls"
+    },
+    {
+      "id": 256,
+      "title": "Compare the expectations:"
+    },
+    {
+      "id": 257,
+      "title": "Pick numbers from 1 to 30, all pairwise coprime, maximizing their sum"
+    },
+    {
+      "id": 262,
+      "title": "Smallest integer whose digits multiply to 96"
+    },
+    {
+      "id": 263,
+      "title": "Even Number of Heads Probability"
+    },
+    {
+      "id": 264,
+      "title": "Three six-sided dice vs"
+    },
+    {
+      "id": 265,
+      "title": "What is the first date (YYYY:MM:DD) after today where all 8 digits are distinct?"
+    },
+    {
+      "id": 267,
+      "title": "Two dice game: You see one die, opponent sees the other"
+    },
+    {
+      "id": 268,
+      "title": "Four players roll 30-sided dice (all distinct)"
+    },
+    {
+      "id": 269,
+      "title": "Cumulative Sum Game Avoiding Perfect Squares"
+    },
+    {
+      "id": 271,
+      "title": "R-Squared Range in Multiple Regression"
+    },
+    {
+      "id": 272,
+      "title": "Errors-in-Variables Attenuation Bias"
+    },
+    {
+      "id": 279,
+      "title": "Give an example of dependent but uncorrelated random variables"
+    },
+    {
+      "id": 282,
+      "title": "Feasible Range of Third Pairwise Correlation"
+    },
+    {
+      "id": 284,
+      "title": "Define the ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œmeanÃƒÂ¢Ã¢â€šÂ¬Ã‚Â of a set of clock times (on $S^1$) robustly"
+    },
+    {
+      "id": 287,
+      "title": "Integer addition and multiplication on decimal strings using only single-digit add/multiply oracles"
+    },
+    {
+      "id": 291,
+      "title": "Linear MMSE estimator"
+    },
+    {
+      "id": 297,
+      "title": "League Point Allocation and Team Count"
+    },
+    {
+      "id": 298,
+      "title": "Distributing Balls into Identical Bins"
+    },
+    {
+      "id": 299,
+      "title": "Competing Exponential Arrivals with Referrals"
+    },
+    {
+      "id": 305,
+      "title": "Digit Product Puzzles for Target Values"
+    },
+    {
+      "id": 308,
+      "title": "Comparing Die Roll Square, Product, and Median"
+    },
+    {
+      "id": 314,
+      "title": "Find the first future date (YYYY:MM:DD) with 8 pairwise distinct digits"
+    },
+    {
+      "id": 316,
+      "title": "Two-Dice Sealed-Bid Game Strategy"
+    },
+    {
+      "id": 320,
+      "title": "Mutual Nearest Neighbors on the Unit Interval"
+    },
+    {
+      "id": 321,
+      "title": "Random matrices: $A$ is $n\\times n$ with i"
+    },
+    {
+      "id": 322,
+      "title": "Two Urns Drawing Until Empty"
+    },
+    {
+      "id": 325,
+      "title": "Random Number Generator Without Replacement"
+    },
+    {
+      "id": 331,
+      "title": "Causal ROI Modeling from Payment Data"
+    },
+    {
+      "id": 332,
+      "title": "City Rent Prediction with NLP Features"
+    },
+    {
+      "id": 333,
+      "title": "Bike Sharing Demand Forecasting Case Study"
+    },
+    {
+      "id": 339,
+      "title": "Twitter-Based Stock Prediction Features"
+    },
+    {
+      "id": 341,
+      "title": "Stock Price Lookup Game Design"
+    },
+    {
+      "id": 344,
+      "title": "House Price Prediction Machine Learning Pipeline"
+    },
+    {
+      "id": 346,
+      "title": "Case study: New York house price modeling"
+    },
+    {
+      "id": 347,
+      "title": "Large Number Arithmetic with Strings"
+    },
+    {
+      "id": 351,
+      "title": "List of LeetCode problems"
+    },
+    {
+      "id": 352,
+      "title": "Stock Prediction via Twitter Sentiment Analysis"
+    },
+    {
+      "id": 357,
+      "title": "Humidity Query with Closest Prior Timestamp"
+    },
+    {
+      "id": 361,
+      "title": "Open-Ended Modeling Strategy Discussion"
+    },
+    {
+      "id": 364,
+      "title": "Confidence Interval Estimation Game"
+    },
+    {
+      "id": 365,
+      "title": "Python: Numpy array vs"
+    },
+    {
+      "id": 378,
+      "title": "Balls of Three Colors Combination Count"
+    },
+    {
+      "id": 383,
+      "title": "Coding: Merge sorted array"
+    },
+    {
+      "id": 384,
+      "title": "Pandas Grouped Mean and Weighted Mean"
+    },
+    {
+      "id": 385,
+      "title": "Onsite Data Analysis Project Case Study"
+    },
+    {
+      "id": 388,
+      "title": "Coding: String multiplication"
+    },
+    {
+      "id": 393,
+      "title": "Mathematical proof"
+    },
+    {
+      "id": 394,
+      "title": "Python Hashable Objects and Custom Classes"
+    },
+    {
+      "id": 395,
+      "title": "Python: '\\_\\_new\\_\\_' vs"
+    },
+    {
+      "id": 398,
+      "title": "Airbnb Price Rationality Case Study"
+    },
+    {
+      "id": 399,
+      "title": "Statistics: Confidence intervals for logistic regression parameters"
+    },
+    {
+      "id": 405,
+      "title": "Coding: Find next palindrome"
+    },
+    {
+      "id": 411,
+      "title": "Coding: Diophantine equation"
+    },
+    {
+      "id": 412,
+      "title": "Case study: Predicting Citi Bike distribution"
+    },
+    {
+      "id": 415,
+      "title": "Case study: Airbnb pricing model"
+    },
+    {
+      "id": 416,
+      "title": "General Prediction Modeling Process"
+    },
+    {
+      "id": 417,
+      "title": "Coding: Pandas data processing"
+    },
+    {
+      "id": 418,
+      "title": "CS fundamentals: TreeMap vs"
+    },
+    {
+      "id": 420,
+      "title": "CS fundamentals: Thread vs"
+    },
+    {
+      "id": 421,
+      "title": "CS fundamentals: Design patterns"
+    },
+    {
+      "id": 430,
+      "title": "Citi Bike Availability Forecasting"
+    },
+    {
+      "id": 431,
+      "title": "Coding: Wildcard matching"
+    },
+    {
+      "id": 437,
+      "title": "Finance: FX contract volatility"
+    },
+    {
+      "id": 439,
+      "title": "Linear Interpolation with Edge Cases"
+    },
+    {
+      "id": 444,
+      "title": "Bayesian Methods and Overfitting Prevention"
+    },
+    {
+      "id": 447,
+      "title": "Data Analysis Challenge with Interpolation"
+    },
+    {
+      "id": 448,
+      "title": "Duplicate Data Points Impact on Regression"
+    },
+    {
+      "id": 449,
+      "title": "Bash Script for Phone Number Extraction"
+    },
+    {
+      "id": 450,
+      "title": "Alternative Data Analysis for Retail Performance"
+    },
+    {
+      "id": 452,
+      "title": "Profitable Taxi Route Prediction Model"
+    },
+    {
+      "id": 465,
+      "title": "Two Pointers (Coding Problem)"
+    },
+    {
+      "id": 472,
+      "title": "OLS Slopes of Y~X vs X~Y"
+    },
+    {
+      "id": 475,
+      "title": "Design Tic-Tac-Toe (Coding Problem)"
+    },
+    {
+      "id": 491,
+      "title": "Square Root of a Float (Coding Problem)"
+    },
+    {
+      "id": 494,
+      "title": "Edit Distance (Coding Problem)"
+    },
+    {
+      "id": 515,
+      "title": "Correlation of a Sum"
+    },
+    {
+      "id": 517,
+      "title": "Expected Adjacent Different Color Cards"
+    },
+    {
+      "id": 519,
+      "title": "Loss Functions and Estimators"
+    },
+    {
+      "id": 522,
+      "title": "Maximum Points in an Angle (Geometric Algorithm)"
+    },
+    {
+      "id": 523,
+      "title": "Combinatorics: Stars and Bars"
+    },
+    {
+      "id": 526,
+      "title": "Generate Permutations and Combinations (Coding Problem)"
+    },
+    {
+      "id": 528,
+      "title": "Two Envelopes Paradox"
+    },
+    {
+      "id": 530,
+      "title": "Case Study: Experiment Design for Policy Impact"
+    },
+    {
+      "id": 535,
+      "title": "Case Study: Feature Selection with Many Features"
+    },
+    {
+      "id": 537,
+      "title": "Maximum Product Cutting (Coding Problem)"
+    },
+    {
+      "id": 547,
+      "title": "Card Game Probability"
+    },
+    {
+      "id": 550,
+      "title": "24 Game (Coding Problem)"
+    },
+    {
+      "id": 552,
+      "title": "Generate Balanced Parentheses (Coding Problem)"
+    },
+    {
+      "id": 562,
+      "title": "Case Study: Mining Credit Card Data"
+    },
+    {
+      "id": 563,
+      "title": "Regression with Leverage Points"
+    },
+    {
+      "id": 567,
+      "title": "Egg Dropping Puzzle (Dynamic Programming)"
+    },
+    {
+      "id": 570,
+      "title": "Generate 1-7 from 1-5 Random Generator"
+    },
+    {
+      "id": 571,
+      "title": "Decode Number String (Coding Problem)"
+    },
+    {
+      "id": 577,
+      "title": "Auction Theory Bidding Strategy"
+    },
+    {
+      "id": 578,
+      "title": "Two Sum Count (Coding Problem)"
+    },
+    {
+      "id": 580,
+      "title": "Deliver N Numbers as 1"
+    },
+    {
+      "id": 586,
+      "title": "Blind Coin Flipping Puzzle"
+    },
+    {
+      "id": 587,
+      "title": "Pairwise vs. Joint Independence"
+    },
+    {
+      "id": 588,
+      "title": "Integral of a Gaussian"
+    },
+    {
+      "id": 589,
+      "title": "Sum of Powers"
+    },
+    {
+      "id": 596,
+      "title": "Regression: Features vs. Data Points"
+    },
+    {
+      "id": 599,
+      "title": "Finance: Backtesting and Transaction Costs"
+    },
+    {
+      "id": 601,
+      "title": "Coding: Median of Two Sorted Arrays"
+    },
+    {
+      "id": 608,
+      "title": "Coding: K-th Most Frequent Number"
+    },
+    {
+      "id": 609,
+      "title": "C++ unordered_map Default Value Behavior"
+    },
+    {
+      "id": 610,
+      "title": "Coding: Numbers with Distinct Digits"
+    },
+    {
+      "id": 616,
+      "title": "Python Fundamentals"
+    },
+    {
+      "id": 618,
+      "title": "C++: Initializing Reference Members"
+    },
+    {
+      "id": 619,
+      "title": "Coding: Reverse Words in a String"
+    },
+    {
+      "id": 625,
+      "title": "Coding: Count of Target in Sorted Array"
+    },
+    {
+      "id": 629,
+      "title": "Puzzle: Balance Scale and Weights"
+    },
+    {
+      "id": 632,
+      "title": "Puzzle: Non-standard Dice Sum"
+    },
+    {
+      "id": 633,
+      "title": "Probability: Random Partitioning Game"
+    },
+    {
+      "id": 634,
+      "title": "Coding: Database Outer Join"
+    },
+    {
+      "id": 641,
+      "title": "C++: Compiler-Generated Class Methods"
+    },
+    {
+      "id": 642,
+      "title": "Math: Riccati Differential Equation"
+    },
+    {
+      "id": 649,
+      "title": "Coding: Reverse Polish to Infix Notation"
+    },
+    {
+      "id": 650,
+      "title": "Coding: Optimal Task Scheduling"
+    },
+    {
+      "id": 653,
+      "title": "Linear Regression: R-squared Properties"
+    },
+    {
+      "id": 656,
+      "title": "C++: Virtual Destructors"
+    },
+    {
+      "id": 658,
+      "title": "C++: Pointer and Const Correctness"
+    },
+    {
+      "id": 660,
+      "title": "Linear Regression: R-squared with Multiple Predictors"
+    },
+    {
+      "id": 662,
+      "title": "Python: Numpy Array vs. List"
+    },
+    {
+      "id": 673,
+      "title": "C++: Advanced Language Features"
+    },
+    {
+      "id": 676,
+      "title": "Algorithm: 3-Sum Problem"
+    },
+    {
+      "id": 679,
+      "title": "C++: Vector Reallocation"
+    },
+    {
+      "id": 680,
+      "title": "Probability: Coupon Collector's Problem"
+    },
+    {
+      "id": 683,
+      "title": "Markov Chains: Coin Flipping Robot"
+    },
+    {
+      "id": 700,
+      "title": "Machine Learning System Design"
+    },
+    {
+      "id": 704,
+      "title": "Combinatorics Problem in Math Round"
+    },
+    {
+      "id": 709,
+      "title": "Maximum Subarray from 0/1 String"
+    },
+    {
+      "id": 715,
+      "title": "Expected Number of Runs in a Card Deck"
+    },
+    {
+      "id": 721,
+      "title": "Expected Number of Sequences"
+    },
+    {
+      "id": 724,
+      "title": "Expected Number of People Taller than the First Person"
+    },
+    {
+      "id": 727,
+      "title": "Expected Number of Handshakes"
+    },
+    {
+      "id": 735,
+      "title": "Memory Management Pool"
+    },
+    {
+      "id": 741,
+      "title": "Default Argument in Python Functions"
+    },
+    {
+      "id": 745,
+      "title": "Expected Number of Ascending Selections"
+    },
+    {
+      "id": 749,
+      "title": "Sum of Dice Faces until First 1 Appears"
+    },
+    {
+      "id": 752,
+      "title": "Reversi (Flip Chess)"
+    },
+    {
+      "id": 756,
+      "title": "Data Aggregation in a Pandas DataFrame"
+    },
+    {
+      "id": 757,
+      "title": "Counting Squares from Grid Points"
+    },
+    {
+      "id": 758,
+      "title": "Expectation of Max and Min of Dice Throws"
+    },
+    {
+      "id": 764,
+      "title": "Card Game Simulation"
+    },
+    {
+      "id": 765,
+      "title": "Expected Sum of Dice Rolls"
+    },
+    {
+      "id": 768,
+      "title": "Basketball Throws and Success Rate"
+    },
+    {
+      "id": 769,
+      "title": "Can I Win (LeetCode 464)"
+    },
+    {
+      "id": 770,
+      "title": "Palindrome Pairs (LeetCode 336)"
+    },
+    {
+      "id": 771,
+      "title": "Word Break II (LeetCode 140)"
+    },
+    {
+      "id": 776,
+      "title": "Effects of Duplicating Dataset on Regression Statistics"
+    },
+    {
+      "id": 778,
+      "title": "Changes in $R^2$ with Additional Variables"
+    },
+    {
+      "id": 793,
+      "title": "Difference Between Numpy Arrays and Python Lists"
+    },
+    {
+      "id": 797,
+      "title": "Stock Trading LeetCode Problems"
+    },
+    {
+      "id": 798,
+      "title": "Python and C++ Keywords"
+    },
+    {
+      "id": 800,
+      "title": "Independence and Regression"
+    },
+    {
+      "id": 807,
+      "title": "Multicollinearity in Linear Regression"
+    },
+    {
+      "id": 808,
+      "title": "Disadvantage of Push Back in a Vector"
+    },
+    {
+      "id": 809,
+      "title": "Coupon Collection Problem"
+    },
+    {
+      "id": 829,
+      "title": "Decomposing an Integer"
+    },
+    {
+      "id": 830,
+      "title": "Integer Part of Cube Root"
+    },
+    {
+      "id": 837,
+      "title": "Dice Strategy and Expected Value"
+    },
+    {
+      "id": 839,
+      "title": "(Coding): Shortest Path with Limited Bad Edges"
+    },
+    {
+      "id": 841,
+      "title": "Coin Flip Sequence and Rewards"
+    },
+    {
+      "id": 843,
+      "title": "Strategy for Re-Flipping Coins"
+    },
+    {
+      "id": 844,
+      "title": "Estimate Fair Price Interval"
+    },
+    {
+      "id": 845,
+      "title": "Market Making and Fair Price Guessing"
+    },
+    {
+      "id": 846,
+      "title": "Calculating the Fair Price"
+    },
+    {
+      "id": 847,
+      "title": "Confidence Interval Based on Calculations"
+    },
+    {
+      "id": 852,
+      "title": "Assumptions of Linear Regression"
+    },
+    {
+      "id": 853,
+      "title": "Negative $R^2$ in Linear Regression"
+    },
+    {
+      "id": 856,
+      "title": "Machine Learning Algorithms Follow-Up"
+    },
+    {
+      "id": 860,
+      "title": "Least Squares Solution in Linear Regression"
+    },
+    {
+      "id": 863,
+      "title": "Expected Rolls with a Fair Six-Sided Die"
+    },
+    {
+      "id": 867,
+      "title": "Rademacher Complexity"
+    },
+    {
+      "id": 871,
+      "title": "Relationship Between $R^2$ and Features in a Model"
+    },
+    {
+      "id": 873,
+      "title": "Z-Score Calculation for Stock Data"
+    },
+    {
+      "id": 875,
+      "title": "Linear Regression Questions"
+    },
+    {
+      "id": 878,
+      "title": "Implement a Class with Save and Query Functions"
+    },
+    {
+      "id": 879,
+      "title": "Dealer Selection for Trading Swaps"
+    },
+    {
+      "id": 881,
+      "title": "Expected Number of Flips for Consecutive Heads"
+    },
+    {
+      "id": 888,
+      "title": "American Options Execution"
+    },
+    {
+      "id": 894,
+      "title": "Coding - 24 Game"
+    },
+    {
+      "id": 895,
+      "title": "Fair Game with a Biased Coin"
+    },
+    {
+      "id": 899,
+      "title": "Encryption and Decryption Problem"
+    },
+    {
+      "id": 904,
+      "title": "Number of Islands (LeetCode 200)"
+    },
+    {
+      "id": 906,
+      "title": "Data Analysis with High Dimensionality"
+    },
+    {
+      "id": 908,
+      "title": "Issues with $L_0$ Regularization"
+    },
+    {
+      "id": 909,
+      "title": "Feature Selection in $L_1$ vs. $L_2$ Regularization"
+    },
+    {
+      "id": 910,
+      "title": "Light Switch Problem"
+    },
+    {
+      "id": 911,
+      "title": "Network Architecture Question"
+    },
+    {
+      "id": 912,
+      "title": "LeetCode 200 with Modified Definition of Islands"
+    },
+    {
+      "id": 914,
+      "title": "K-th Most Frequent Number in a List"
+    },
+    {
+      "id": 916,
+      "title": "C++ Unordered Map Behavior"
+    },
+    {
+      "id": 917,
+      "title": "Distinct Digits Problem"
+    },
+    {
+      "id": 925,
+      "title": "Tuple vs. List"
+    },
+    {
+      "id": 926,
+      "title": "Generators in Python"
+    },
+    {
+      "id": 927,
+      "title": "Maximum Product of Three Numbers"
+    },
+    {
+      "id": 929,
+      "title": "Trading Signals to Actual Trades"
+    },
+    {
+      "id": 931,
+      "title": "Expected Tosses for Three Heads in a Row"
+    },
+    {
+      "id": 932,
+      "title": "Lion and Meat Problem"
+    },
+    {
+      "id": 933,
+      "title": "Strategy with a Fair 6-Sided Die"
+    },
+    {
+      "id": 934,
+      "title": "Bugs on a 1-Meter Bar"
+    },
+    {
+      "id": 935,
+      "title": "Super Egg Drop Problem"
+    },
+    {
+      "id": 939,
+      "title": "Chocolate Game Strategy"
+    },
+    {
+      "id": 942,
+      "title": "Finance Interest Justification"
+    },
+    {
+      "id": 943,
+      "title": "Rearrange Sequence to Avoid Adjacent Repeats"
+    },
+    {
+      "id": 948,
+      "title": "Dice Games in a Casino"
+    },
+    {
+      "id": 952,
+      "title": "Minimization Problem with Squared Differences"
+    },
+    {
+      "id": 954,
+      "title": "Class for Points in 2D Space"
+    },
+    {
+      "id": 955,
+      "title": "Maximum Points in a Given Angle"
+    },
+    {
+      "id": 956,
+      "title": "Stars and Bars Problem"
+    },
+    {
+      "id": 958,
+      "title": "Impact of Doubling Data Points in Linear Regression"
+    },
+    {
+      "id": 959,
+      "title": "Handling Delayed Data in Regression"
+    },
+    {
+      "id": 961,
+      "title": "Precision and Recall"
+    },
+    {
+      "id": 962,
+      "title": "Common Regression Issues"
+    },
+    {
+      "id": 963,
+      "title": "Dynamic Programming and DFS Problems"
+    },
+    {
+      "id": 964,
+      "title": "Project-Specific Questions"
+    },
+    {
+      "id": 966,
+      "title": "Poor Model Performance on Testing Data"
+    },
+    {
+      "id": 967,
+      "title": "Poor Performance Despite Cross-Validation"
+    },
+    {
+      "id": 968,
+      "title": "Differences Between L1 and L2 Regularization"
+    },
+    {
+      "id": 969,
+      "title": "Poor Model Performance Overall"
+    },
+    {
+      "id": 970,
+      "title": "Dealing with Large Independent Noise"
+    },
+    {
+      "id": 971,
+      "title": "Advantages of Median Regression"
+    },
+    {
+      "id": 973,
+      "title": "Non-Linearity in Data"
+    },
+    {
+      "id": 977,
+      "title": "Coding - LeetCode 121 Stock Price"
+    },
+    {
+      "id": 978,
+      "title": "Basic Assumptions of Linear Regression"
+    },
+    {
+      "id": 982,
+      "title": "Generating Random Numbers with Uniform Replacement"
+    },
+    {
+      "id": 983,
+      "title": "Find the Median of Two Sorted Arrays"
+    },
+    {
+      "id": 987,
+      "title": "Newton's Method for Square Root Calculation"
+    },
+    {
+      "id": 988,
+      "title": "Maximum Rope Cutting"
+    },
+    {
+      "id": 995,
+      "title": "System Design for Storing Market Data"
+    },
+    {
+      "id": 999,
+      "title": "Card Betting Problem"
+    },
+    {
+      "id": 1001,
+      "title": "Coin Toss Game"
+    },
+    {
+      "id": 1002,
+      "title": "Coin Toss Winning Probabilities"
+    },
+    {
+      "id": 1006,
+      "title": "Fair Value of Land"
+    },
+    {
+      "id": 1018,
+      "title": "Mean, Mode, and Median of Random Digit Product"
+    },
+    {
+      "id": 1022,
+      "title": "Marble Piles Strategy Game"
+    },
+    {
+      "id": 1029,
+      "title": "Coding Question"
+    },
+    {
+      "id": 1035,
+      "title": "Assumptions in Linear Regression"
+    },
+    {
+      "id": 1037,
+      "title": "Convergence of Series"
+    },
+    {
+      "id": 1042,
+      "title": "LeetCode 121: Best Time to Buy and Sell Stock"
+    },
+    {
+      "id": 1048,
+      "title": "Linear Regression Transformation"
+    },
+    {
+      "id": 1050,
+      "title": "Linear Regression Assumptions"
+    },
+    {
+      "id": 1051,
+      "title": "Handling Missing Data and Outliers"
+    },
+    {
+      "id": 1052,
+      "title": "Overfitting in Machine Learning Models"
+    },
+    {
+      "id": 1054,
+      "title": "Counting Solutions to \\( x + y + z = N \\)"
+    },
+    {
+      "id": 1060,
+      "title": "Wine Dataset"
+    },
+    {
+      "id": 1061,
+      "title": "Estimating Parameter of Uniform Distribution"
+    },
+    {
+      "id": 1063,
+      "title": "Linear Regression Parameters"
+    },
+    {
+      "id": 1065,
+      "title": "LeetCode Problems"
+    },
+    {
+      "id": 1067,
+      "title": "Expected Time for All Ants to Fall Off"
+    },
+    {
+      "id": 1069,
+      "title": "LeetCode Problem 1143"
+    },
+    {
+      "id": 1074,
+      "title": "Expected Number of Arrangements"
+    },
+    {
+      "id": 1076,
+      "title": "Paper Sheets"
+    },
+    {
+      "id": 1079,
+      "title": "Second Round: Probability and Finance Questions"
+    },
+    {
+      "id": 1084,
+      "title": "Coding: Classic Buy/Sell Stocks Problem"
+    },
+    {
+      "id": 1093,
+      "title": "Prime Rollout Probability"
+    },
+    {
+      "id": 1094,
+      "title": "Three Dice Tango"
+    },
+    {
+      "id": 1095,
+      "title": "Correlation Quest"
+    },
+    {
+      "id": 1096,
+      "title": "Dice Chase Duo"
+    },
+    {
+      "id": 1097,
+      "title": "Spending Showdown"
+    },
+    {
+      "id": 1098,
+      "title": "Noodle Knot Loop"
+    },
+    {
+      "id": 1099,
+      "title": "Die Divergence Delight"
+    },
+    {
+      "id": 1100,
+      "title": "Factorial Count Quest"
+    },
+    {
+      "id": 1101,
+      "title": "Dice Duality Delight"
+    },
+    {
+      "id": 1102,
+      "title": "Digit Multiplier Quest"
+    },
+    {
+      "id": 1103,
+      "title": "Path Puzzle Paths"
+    },
+    {
+      "id": 1104,
+      "title": "Charmed Circlets"
+    },
+    {
+      "id": 1105,
+      "title": "Hidden Expectation"
+    },
+    {
+      "id": 1106,
+      "title": "Whispering Sequence"
+    },
+    {
+      "id": 1107,
+      "title": "Covariance Quest"
+    },
+    {
+      "id": 1108,
+      "title": "Risky Coin Wager"
+    },
+    {
+      "id": 1109,
+      "title": "Orderly Coin Dance"
+    },
+    {
+      "id": 1110,
+      "title": "Random Triangle Quest"
+    },
+    {
+      "id": 1111,
+      "title": "Big Mac Math"
+    },
+    {
+      "id": 1112,
+      "title": "Cone Zone Chance"
+    },
+    {
+      "id": 1113,
+      "title": "Eggsplosive Heights"
+    },
+    {
+      "id": 1114,
+      "title": "Even Leapways Challenge"
+    },
+    {
+      "id": 1115,
+      "title": "Odd Coin Flips"
+    },
+    {
+      "id": 1116,
+      "title": "Chance Snip Spread"
+    },
+    {
+      "id": 1117,
+      "title": "Median Quest"
+    },
+    {
+      "id": 1118,
+      "title": "Chordal Quadrilateral Chance"
+    },
+    {
+      "id": 1119,
+      "title": "Cube Quest"
+    },
+    {
+      "id": 1120,
+      "title": "Graph Safari Quest"
+    },
+    {
+      "id": 1121,
+      "title": "Match Madness"
+    },
+    {
+      "id": 1122,
+      "title": "Dice Delta Dance"
+    },
+    {
+      "id": 1123,
+      "title": "Dice Triad Triumph"
+    },
+    {
+      "id": 1124,
+      "title": "Sphere Triangle Maximization"
+    },
+    {
+      "id": 1125,
+      "title": "Coin Chase Duel"
+    },
+    {
+      "id": 1126,
+      "title": "Logarithmic Growth Twist"
+    },
+    {
+      "id": 1127,
+      "title": "Odd Chase Quest"
+    },
+    {
+      "id": 1128,
+      "title": "Permutation Swap Chaos"
+    },
+    {
+      "id": 1129,
+      "title": "Quadrant Surprise"
+    },
+    {
+      "id": 1130,
+      "title": "Digit Deluge"
+    },
+    {
+      "id": 1131,
+      "title": "Parity Coin Flip Enigma"
+    },
+    {
+      "id": 1132,
+      "title": "Card Chaos"
+    },
+    {
+      "id": 1133,
+      "title": "Unstable Timing Challenge"
+    },
+    {
+      "id": 1134,
+      "title": "Chance Meeting"
+    },
+    {
+      "id": 1135,
+      "title": "Triad Prime Hunt"
+    },
+    {
+      "id": 1136,
+      "title": "Stairway Sprint"
+    },
+    {
+      "id": 1137,
+      "title": "Odds Alchemy"
+    },
+    {
+      "id": 1138,
+      "title": "Heart Value Quest"
+    },
+    {
+      "id": 1139,
+      "title": "Infinite Sons Paradox"
+    },
+    {
+      "id": 1140,
+      "title": "Binary Factorial Fade"
+    },
+    {
+      "id": 1141,
+      "title": "Inner Circle Chance"
+    },
+    {
+      "id": 1142,
+      "title": "Tardy Pair Probability"
+    },
+    {
+      "id": 1143,
+      "title": "Pirate Diplomacy"
+    },
+    {
+      "id": 1144,
+      "title": "Dice Redux Quandary"
+    },
+    {
+      "id": 1145,
+      "title": "Dice Face Chase"
+    },
+    {
+      "id": 1146,
+      "title": "Area Gamble"
+    },
+    {
+      "id": 1147,
+      "title": "Square Expectation Quest"
+    },
+    {
+      "id": 1148,
+      "title": "Coin Conundrum"
+    },
+    {
+      "id": 1149,
+      "title": "Threshold Quest"
+    },
+    {
+      "id": 1150,
+      "title": "Duo Draw Drama"
+    },
+    {
+      "id": 1151,
+      "title": "Sum of Slopes"
+    },
+    {
+      "id": 1152,
+      "title": "Colorful Circle Conundrum"
+    },
+    {
+      "id": 1153,
+      "title": "Adjacent Ones Hunt"
+    },
+    {
+      "id": 1154,
+      "title": "Fishy Triples Conundrum"
+    },
+    {
+      "id": 1155,
+      "title": "Logs and Logic"
+    },
+    {
+      "id": 1156,
+      "title": "Disk Center Drift"
+    },
+    {
+      "id": 1157,
+      "title": "Triple Ring Toss"
+    },
+    {
+      "id": 1158,
+      "title": "Triple Six Quest"
+    },
+    {
+      "id": 1159,
+      "title": "Change Conundrum"
+    },
+    {
+      "id": 1160,
+      "title": "Jug Puzzle Quest"
+    },
+    {
+      "id": 1161,
+      "title": "Bowls of Destiny"
+    },
+    {
+      "id": 1162,
+      "title": "Royal Race Earnings"
+    },
+    {
+      "id": 1163,
+      "title": "Counting Ones Challenge"
+    },
+    {
+      "id": 1164,
+      "title": "Lunar Launch"
+    },
+    {
+      "id": 1165,
+      "title": "Dice Battle Royale"
+    },
+    {
+      "id": 1166,
+      "title": "Platform Plunge"
+    },
+    {
+      "id": 1167,
+      "title": "Min Sequence Magic"
+    },
+    {
+      "id": 1168,
+      "title": "Sum Shuffle"
+    },
+    {
+      "id": 1169,
+      "title": "Dice Dilemma Dee"
+    },
+    {
+      "id": 1170,
+      "title": "Brownian Escape"
+    },
+    {
+      "id": 1171,
+      "title": "Hallway Toggle Tango"
+    },
+    {
+      "id": 1172,
+      "title": "Bus Wait Paradox"
+    },
+    {
+      "id": 1173,
+      "title": "Endless Square Roots"
+    },
+    {
+      "id": 1174,
+      "title": "Hopping Odyssey"
+    },
+    {
+      "id": 1175,
+      "title": "Canoe Clock Conundrum"
+    },
+    {
+      "id": 1176,
+      "title": "Ramen Loops Counting"
+    },
+    {
+      "id": 1177,
+      "title": "Million Hunt Challenge"
+    },
+    {
+      "id": 1178,
+      "title": "Dice Dilemma Dance"
+    },
+    {
+      "id": 1179,
+      "title": "Dice Coin Cascade"
+    },
+    {
+      "id": 1180,
+      "title": "Triangular Ant Trek"
+    },
+    {
+      "id": 1181,
+      "title": "Penny Payout Puzzle"
+    },
+    {
+      "id": 1182,
+      "title": "Dice Reimagined"
+    },
+    {
+      "id": 1183,
+      "title": "Win Margin Battle"
+    },
+    {
+      "id": 1184,
+      "title": "Cubicle Crawl Quest"
+    },
+    {
+      "id": 1185,
+      "title": "Correlated Contrasts"
+    },
+    {
+      "id": 1186,
+      "title": "Lucky Six Hunt"
+    },
+    {
+      "id": 1187,
+      "title": "Windy Pedal Puzzle"
+    },
+    {
+      "id": 1188,
+      "title": "Squad Showdown Chance"
+    },
+    {
+      "id": 1189,
+      "title": "Odd Faces Quest"
+    },
+    {
+      "id": 1190,
+      "title": "Height Harmony"
+    },
+    {
+      "id": 1191,
+      "title": "Option Magic"
+    },
+    {
+      "id": 1192,
+      "title": "Corner Cube Conundrum"
+    },
+    {
+      "id": 1193,
+      "title": "Last Number Standing"
+    },
+    {
+      "id": 1194,
+      "title": "Sum Pair Puzzle"
+    },
+    {
+      "id": 1195,
+      "title": "Boundary Roulette"
+    },
+    {
+      "id": 1196,
+      "title": "Red Black Showdown"
+    },
+    {
+      "id": 1197,
+      "title": "Dice Duel Dynamics"
+    },
+    {
+      "id": 1198,
+      "title": "Dark Deck Dilemma"
+    },
+    {
+      "id": 1199,
+      "title": "Dice Parity Quest"
+    },
+    {
+      "id": 1200,
+      "title": "Hefty Hundred Showdown"
+    },
+    {
+      "id": 1201,
+      "title": "Urn Flip Payout"
+    },
+    {
+      "id": 1202,
+      "title": "Ball Color Parade"
+    },
+    {
+      "id": 1203,
+      "title": "Walkway Luck"
+    },
+    {
+      "id": 1204,
+      "title": "Charred Pancake Puzzle"
+    },
+    {
+      "id": 1205,
+      "title": "Dice Gamble Quandary"
+    },
+    {
+      "id": 1206,
+      "title": "Hidden Heads Hunt"
+    },
+    {
+      "id": 1207,
+      "title": "Melon Weight Mystery"
+    },
+    {
+      "id": 1208,
+      "title": "Color Code Quest"
+    },
+    {
+      "id": 1209,
+      "title": "Top Spot Quest"
+    },
+    {
+      "id": 1210,
+      "title": "Coin Gambit Showdown"
+    },
+    {
+      "id": 1211,
+      "title": "Maximus Expectatus"
+    },
+    {
+      "id": 1212,
+      "title": "Dice Deja Vu"
+    },
+    {
+      "id": 1213,
+      "title": "Double Trouble Regression"
+    },
+    {
+      "id": 1214,
+      "title": "Dice Dominance"
+    },
+    {
+      "id": 1215,
+      "title": "Coin Stratagem"
+    },
+    {
+      "id": 1216,
+      "title": "Diophantine Dance"
+    },
+    {
+      "id": 1217,
+      "title": "Trailing Zeros Quest"
+    },
+    {
+      "id": 1218,
+      "title": "Dice Correlation Quest"
+    },
+    {
+      "id": 1219,
+      "title": "Card Flip Gambit"
+    },
+    {
+      "id": 1220,
+      "title": "Dice Duel Choice"
+    },
+    {
+      "id": 1221,
+      "title": "Prime Roll Showdown"
+    },
+    {
+      "id": 1222,
+      "title": "Coin Flip Paradox"
+    },
+    {
+      "id": 1223,
+      "title": "Heads Prediction Puzzle"
+    },
+    {
+      "id": 1224,
+      "title": "Color Match Munch"
+    },
+    {
+      "id": 1225,
+      "title": "Light Isolation Puzzle"
+    },
+    {
+      "id": 1226,
+      "title": "Coin Toss Parity"
+    },
+    {
+      "id": 1227,
+      "title": "Roll Dollar Deeds"
+    },
+    {
+      "id": 1228,
+      "title": "Doubled Data Dilemma"
+    },
+    {
+      "id": 1229,
+      "title": "Bill Breaker Challenge"
+    },
+    {
+      "id": 1230,
+      "title": "Heads Streak Quest"
+    },
+    {
+      "id": 1231,
+      "title": "River Rush Riddle"
+    },
+    {
+      "id": 1232,
+      "title": "Dice Surpass"
+    },
+    {
+      "id": 1233,
+      "title": "Birthday Paradox Maximization"
+    },
+    {
+      "id": 1234,
+      "title": "Bearly Catching Five"
+    },
+    {
+      "id": 1235,
+      "title": "Interval Tango"
+    },
+    {
+      "id": 1236,
+      "title": "Dice Delight"
+    },
+    {
+      "id": 1237,
+      "title": "Triple Entanglement"
+    },
+    {
+      "id": 1238,
+      "title": "Fives Roulette"
+    },
+    {
+      "id": 1239,
+      "title": "Passenger Puzzle Roll"
+    },
+    {
+      "id": 1240,
+      "title": "Bacterial Roulette"
+    },
+    {
+      "id": 1241,
+      "title": "Lantern Bridge Dash"
+    },
+    {
+      "id": 1242,
+      "title": "Timewarp Call Option"
+    },
+    {
+      "id": 1243,
+      "title": "Nine Sum Quest"
+    },
+    {
+      "id": 1244,
+      "title": "Chopping Trilogue"
+    },
+    {
+      "id": 1245,
+      "title": "Equilibrium Toss Paradox"
+    },
+    {
+      "id": 1246,
+      "title": "Fixed Points Quest"
+    },
+    {
+      "id": 1247,
+      "title": "Odd Roll Odyssey"
+    },
+    {
+      "id": 1248,
+      "title": "Cubed Wanderer Variance"
+    },
+    {
+      "id": 1249,
+      "title": "Dice Peaks"
+    },
+    {
+      "id": 1250,
+      "title": "Sprout Feast Frenzy"
+    },
+    {
+      "id": 1251,
+      "title": "Shuffled Unions"
+    },
+    {
+      "id": 1252,
+      "title": "Final Flicker Forecast"
+    },
+    {
+      "id": 1253,
+      "title": "Binary Fifteen Quest"
+    },
+    {
+      "id": 1254,
+      "title": "Pond Paradox"
+    },
+    {
+      "id": 1255,
+      "title": "Fraction Riddle Chain"
+    },
+    {
+      "id": 1256,
+      "title": "Safe Code Puzzle"
+    },
+    {
+      "id": 1257,
+      "title": "Dice Duel Dominance"
+    },
+    {
+      "id": 1258,
+      "title": "Dice Deja Vu 2"
+    },
+    {
+      "id": 1259,
+      "title": "Dice Duel Dilemma"
+    },
+    {
+      "id": 1260,
+      "title": "Accident Odds Shrink"
+    },
+    {
+      "id": 1261,
+      "title": "Dice Coin Alchemy"
+    },
+    {
+      "id": 1262,
+      "title": "Dialing Dreams"
+    },
+    {
+      "id": 1263,
+      "title": "Clockhand Reunion"
+    },
+    {
+      "id": 1264,
+      "title": "Random Gap Chase"
+    },
+    {
+      "id": 1265,
+      "title": "Coin Flip Quartet"
+    },
+    {
+      "id": 1266,
+      "title": "Gridwalk Challenge"
+    },
+    {
+      "id": 1267,
+      "title": "Major Mystery"
+    },
+    {
+      "id": 1268,
+      "title": "Triple Heads Quest"
+    },
+    {
+      "id": 1269,
+      "title": "Weighted Dice Duet"
+    },
+    {
+      "id": 1270,
+      "title": "Unique Dates Quest"
+    },
+    {
+      "id": 1271,
+      "title": "Streak Flip Fun"
+    },
+    {
+      "id": 1272,
+      "title": "Painted Cube Puzzle"
+    },
+    {
+      "id": 1273,
+      "title": "Lilypad Countdown"
+    },
+    {
+      "id": 1274,
+      "title": "Dice Option Puzzle"
+    },
+    {
+      "id": 1275,
+      "title": "Letter Blitz Strategy"
+    },
+    {
+      "id": 1276,
+      "title": "Critter Parade"
+    },
+    {
+      "id": 1277,
+      "title": "Lucky Even Tosses"
+    },
+    {
+      "id": 1278,
+      "title": "Correlate Twins"
+    },
+    {
+      "id": 1279,
+      "title": "Dice Completion Quest"
+    },
+    {
+      "id": 1280,
+      "title": "Dice Dilemma Decision"
+    },
+    {
+      "id": 1281,
+      "title": "Ring Roulette"
+    },
+    {
+      "id": 1282,
+      "title": "Dice Profit Anticipation"
+    },
+    {
+      "id": 1283,
+      "title": "Painted Cube Mystery"
+    },
+    {
+      "id": 1284,
+      "title": "Dicey Sum Quest"
+    },
+    {
+      "id": 1285,
+      "title": "Uneven Odds"
+    },
+    {
+      "id": 1286,
+      "title": "Painted Cubes Quest"
+    },
+    {
+      "id": 1287,
+      "title": "Scaling Mysteries"
+    },
+    {
+      "id": 1288,
+      "title": "Dice Dilemma"
+    },
+    {
+      "id": 1289,
+      "title": "Tripod Balance Challenge"
+    },
+    {
+      "id": 1290,
+      "title": "Cubed Color Chance"
+    },
+    {
+      "id": 1291,
+      "title": "Pooling Paradox"
+    },
+    {
+      "id": 1292,
+      "title": "Stochastic Log Dance"
+    },
+    {
+      "id": 1293,
+      "title": "Shifted Expectation"
+    },
+    {
+      "id": 1294,
+      "title": "Leggy Livestock Logic"
+    },
+    {
+      "id": 1295,
+      "title": "Toasty Odds"
+    },
+    {
+      "id": 1296,
+      "title": "Bullet Logic Roulette"
+    },
+    {
+      "id": 1297,
+      "title": "Jar Harmony Probability"
+    },
+    {
+      "id": 1298,
+      "title": "Dice Ascendancy Exploration"
+    },
+    {
+      "id": 1299,
+      "title": "Double Trouble Dice"
+    },
+    {
+      "id": 1300,
+      "title": "Curious Coin Conundrum"
+    },
+    {
+      "id": 1301,
+      "title": "Auction Gamble"
+    },
+    {
+      "id": 1302,
+      "title": "Dice Duel Dollars"
+    },
+    {
+      "id": 1303,
+      "title": "Coprime Collection Quest"
+    },
+    {
+      "id": 1304,
+      "title": "Fraction Fibbing"
+    },
+    {
+      "id": 1305,
+      "title": "Exceeding Gaussian"
+    },
+    {
+      "id": 1306,
+      "title": "Prep Odds Mixup"
+    },
+    {
+      "id": 1307,
+      "title": "Correlation Triangles"
+    },
+    {
+      "id": 1308,
+      "title": "Basketball Decider"
+    },
+    {
+      "id": 1309,
+      "title": "Dice Logic Dance"
+    },
+    {
+      "id": 1310,
+      "title": "Card Cascade Challenge"
+    },
+    {
+      "id": 1311,
+      "title": "Concert Mystery Math"
+    },
+    {
+      "id": 1312,
+      "title": "Correlated Sum Mystery"
+    },
+    {
+      "id": 1313,
+      "title": "Ladder Slide Chase"
+    },
+    {
+      "id": 1314,
+      "title": "Power Surprise"
+    },
+    {
+      "id": 1315,
+      "title": "Circle Randomness"
+    },
+    {
+      "id": 1316,
+      "title": "Conflicted Companions"
+    },
+    {
+      "id": 1317,
+      "title": "High Rollers Expectation"
+    },
+    {
+      "id": 1318,
+      "title": "Twist Correlation"
+    },
+    {
+      "id": 1319,
+      "title": "Random Radius Ripple"
+    },
+    {
+      "id": 1320,
+      "title": "Beta Surprise Hunt"
+    },
+    {
+      "id": 1321,
+      "title": "Pizza Squad Variance"
+    },
+    {
+      "id": 1322,
+      "title": "Marble Escape Game"
+    },
+    {
+      "id": 1323,
+      "title": "Triple Ten Toss"
+    },
+    {
+      "id": 1324,
+      "title": "Bus Roulette Wait"
+    },
+    {
+      "id": 1325,
+      "title": "Age Circle Riddle"
+    },
+    {
+      "id": 1326,
+      "title": "Five Face Quest"
+    },
+    {
+      "id": 1327,
+      "title": "Dicey Dilemmas"
+    },
+    {
+      "id": 1328,
+      "title": "Prime Dice Quest"
+    },
+    {
+      "id": 1329,
+      "title": "Door Dilemma"
+    },
+    {
+      "id": 1330,
+      "title": "Betting Brilliance"
+    },
+    {
+      "id": 1331,
+      "title": "Hidden Color Paradox"
+    },
+    {
+      "id": 1332,
+      "title": "Egg Drop Challenge"
+    },
+    {
+      "id": 1333,
+      "title": "Circle in Triangle"
+    },
+    {
+      "id": 1334,
+      "title": "Triangular Square Quest"
+    },
+    {
+      "id": 1335,
+      "title": "Palindrome Puzzle"
+    },
+    {
+      "id": 1336,
+      "title": "Power Play Modulo"
+    },
+    {
+      "id": 1337,
+      "title": "Apple Countdown"
+    },
+    {
+      "id": 1338,
+      "title": "Squaring Exponents"
+    },
+    {
+      "id": 1339,
+      "title": "Pipe Trio Puzzle"
+    },
+    {
+      "id": 1340,
+      "title": "Straddle Jigsaw"
+    },
+    {
+      "id": 1341,
+      "title": "Lucky Seventh Derivative"
+    },
+    {
+      "id": 1342,
+      "title": "Orb Forecast Challenge"
+    },
+    {
+      "id": 1343,
+      "title": "Correlate Bound Quest"
+    },
+    {
+      "id": 1344,
+      "title": "Variance Twist"
+    },
+    {
+      "id": 1345,
+      "title": "Dice Difference Dream"
+    },
+    {
+      "id": 1346,
+      "title": "Even Odd Duel"
+    },
+    {
+      "id": 1347,
+      "title": "Ending with Four"
+    },
+    {
+      "id": 1348,
+      "title": "Twin Birthrate Apex"
+    },
+    {
+      "id": 1349,
+      "title": "Even Quest Rolls"
+    },
+    {
+      "id": 1350,
+      "title": "Perfect Pair Mystique"
+    },
+    {
+      "id": 1351,
+      "title": "Dice Divisibility Dance"
+    },
+    {
+      "id": 1352,
+      "title": "Triple Match Chance"
+    },
+    {
+      "id": 1353,
+      "title": "Heads Quest"
+    },
+    {
+      "id": 1354,
+      "title": "Dice Reprise"
+    },
+    {
+      "id": 1355,
+      "title": "Dice Strategy Duel"
+    },
+    {
+      "id": 1356,
+      "title": "Fixed Point Conundrum"
+    },
+    {
+      "id": 1357,
+      "title": "Heads Wins"
+    },
+    {
+      "id": 1358,
+      "title": "Dice Dissonance Sum"
+    },
+    {
+      "id": 1359,
+      "title": "Double Leap Dance"
+    },
+    {
+      "id": 1360,
+      "title": "Race of Patterns"
+    },
+    {
+      "id": 1361,
+      "title": "Crimson Roll"
+    },
+    {
+      "id": 1362,
+      "title": "Double Dice Delight"
+    },
+    {
+      "id": 1363,
+      "title": "Dice Climb"
+    },
+    {
+      "id": 1364,
+      "title": "Cyclic Multiplier Puzzle"
+    },
+    {
+      "id": 1365,
+      "title": "Gridlock Pathways"
+    },
+    {
+      "id": 1366,
+      "title": "Roadside Roulette"
+    },
+    {
+      "id": 1367,
+      "title": "Random Max Quest"
+    },
+    {
+      "id": 1368,
+      "title": "Dice Gamble Spread"
+    },
+    {
+      "id": 1369,
+      "title": "Dice Ascendancy"
+    },
+    {
+      "id": 1370,
+      "title": "Coin Clash Chase"
+    },
+    {
+      "id": 1371,
+      "title": "Stamp Sum Limit"
+    },
+    {
+      "id": 1372,
+      "title": "Exponent Showdown"
+    },
+    {
+      "id": 1373,
+      "title": "Circular Puzzle Quandary"
+    },
+    {
+      "id": 1374,
+      "title": "Dicey Dilemma"
+    },
+    {
+      "id": 1375,
+      "title": "Dice Ladder Expectation"
+    },
+    {
+      "id": 1376,
+      "title": "Colorful Choices"
+    },
+    {
+      "id": 1377,
+      "title": "Coin Flip Synchronicity"
+    },
+    {
+      "id": 1378,
+      "title": "Crash Watch Probability"
+    },
+    {
+      "id": 1379,
+      "title": "Dice Duel"
+    },
+    {
+      "id": 1380,
+      "title": "Rope Slice Puzzle"
+    },
+    {
+      "id": 1381,
+      "title": "Orbital Reunion"
+    },
+    {
+      "id": 1382,
+      "title": "Twin Spades Quest"
+    },
+    {
+      "id": 1383,
+      "title": "Factor Quandary"
+    },
+    {
+      "id": 1384,
+      "title": "Cinema Seat Shuffle"
+    },
+    {
+      "id": 1385,
+      "title": "Egg Drop Dilemma"
+    },
+    {
+      "id": 1386,
+      "title": "Liquid Swap Mystery"
+    },
+    {
+      "id": 1387,
+      "title": "Chance Boosting"
+    },
+    {
+      "id": 1388,
+      "title": "Random Tango"
+    },
+    {
+      "id": 1389,
+      "title": "Sequential Ones Quest"
+    },
+    {
+      "id": 1390,
+      "title": "Random Ant Trek"
+    },
+    {
+      "id": 1391,
+      "title": "Poison Puzzle"
+    },
+    {
+      "id": 1392,
+      "title": "Odd First Charm"
+    },
+    {
+      "id": 1393,
+      "title": "Handshake Enigma"
+    },
+    {
+      "id": 1394,
+      "title": "Dice Climb Challenge"
+    },
+    {
+      "id": 1395,
+      "title": "Dice Medley Showdown"
+    },
+    {
+      "id": 1396,
+      "title": "Odd Chase Rolls"
+    },
+    {
+      "id": 1397,
+      "title": "Odd Sphere Quest"
+    },
+    {
+      "id": 1398,
+      "title": "Dice Double Dare"
+    },
+    {
+      "id": 1399,
+      "title": "Dice Memory Repeat"
+    },
+    {
+      "id": 1400,
+      "title": "Flip of Fate"
+    },
+    {
+      "id": 1401,
+      "title": "Dice Divisor Duel"
+    },
+    {
+      "id": 1402,
+      "title": "Circle Trio Gamble"
+    },
+    {
+      "id": 1403,
+      "title": "Ace Chase Showdown"
+    },
+    {
+      "id": 1404,
+      "title": "Approaching Infinity"
+    },
+    {
+      "id": 1405,
+      "title": "Looping Labyrinth"
+    },
+    {
+      "id": 1406,
+      "title": "Lucky Streak Gamble"
+    },
+    {
+      "id": 1407,
+      "title": "Sock Grab Dilemma"
+    },
+    {
+      "id": 1408,
+      "title": "Stickered Surface Cubes"
+    },
+    {
+      "id": 1409,
+      "title": "Tennis Triumph Strategy"
+    },
+    {
+      "id": 1410,
+      "title": "Equal Flip Alchemy"
+    },
+    {
+      "id": 1411,
+      "title": "Parity Probabilities"
+    },
+    {
+      "id": 1412,
+      "title": "Ripple Radius Race"
+    },
+    {
+      "id": 1413,
+      "title": "Card Gamble Value"
+    },
+    {
+      "id": 1414,
+      "title": "Coin Flip Faceoff"
+    },
+    {
+      "id": 1415,
+      "title": "Dice Median Quest"
+    },
+    {
+      "id": 1416,
+      "title": "Grid Collapse Probability"
+    },
+    {
+      "id": 1417,
+      "title": "Coin Toss Puzzle"
+    },
+    {
+      "id": 1418,
+      "title": "Sharpshooter Showdown"
+    },
+    {
+      "id": 1419,
+      "title": "Urn Origin Mystery"
+    },
+    {
+      "id": 1420,
+      "title": "Speedy Paradox"
+    },
+    {
+      "id": 1421,
+      "title": "Bean Weight Quest"
+    },
+    {
+      "id": 1422,
+      "title": "Aging Circle Spin"
+    },
+    {
+      "id": 1423,
+      "title": "Power Mod Mavericks"
+    },
+    {
+      "id": 1424,
+      "title": "Sharpe Surge Puzzle"
+    },
+    {
+      "id": 1425,
+      "title": "Logarithmic Wonderland"
+    },
+    {
+      "id": 1426,
+      "title": "Survival Spin Gambit"
+    },
+    {
+      "id": 1427,
+      "title": "Spin to Win"
+    },
+    {
+      "id": 1428,
+      "title": "Gaussian Inequality Quest"
+    },
+    {
+      "id": 1429,
+      "title": "Ball Play Paradox"
+    },
+    {
+      "id": 1430,
+      "title": "Dice Face Quest"
+    },
+    {
+      "id": 1431,
+      "title": "Equal Coin Faceoff"
+    },
+    {
+      "id": 1432,
+      "title": "Coin Dice Quest"
+    },
+    {
+      "id": 1433,
+      "title": "Dice Gamble Worth"
+    },
+    {
+      "id": 1434,
+      "title": "Dice Dilemma 2"
+    },
+    {
+      "id": 1435,
+      "title": "Handshake Hustle"
+    },
+    {
+      "id": 1436,
+      "title": "Handshake Harmony"
+    },
+    {
+      "id": 1437,
+      "title": "Dice Mystery Solver"
+    },
+    {
+      "id": 1438,
+      "title": "Rainbow Cube Corners"
+    },
+    {
+      "id": 1439,
+      "title": "Sphere Encapsulation Challenge"
+    },
+    {
+      "id": 1440,
+      "title": "Market Bet Symmetry"
+    },
+    {
+      "id": 1441,
+      "title": "Divisor Dash"
+    },
+    {
+      "id": 1442,
+      "title": "Rolling to Twenty"
+    },
+    {
+      "id": 1443,
+      "title": "Token Tango"
+    },
+    {
+      "id": 1444,
+      "title": "Tilted Coin Rivalry"
+    },
+    {
+      "id": 1445,
+      "title": "Equal Growth Riddle"
+    },
+    {
+      "id": 1446,
+      "title": "Light Shift Chance"
+    },
+    {
+      "id": 1447,
+      "title": "Digit Dilemma Sum"
+    },
+    {
+      "id": 1448,
+      "title": "Prime Playoff"
+    },
+    {
+      "id": 1449,
+      "title": "Scaling Riddle"
+    },
+    {
+      "id": 1450,
+      "title": "Drill or Gamble"
+    },
+    {
+      "id": 1451,
+      "title": "Prime Pair Puzzle"
+    },
+    {
+      "id": 1452,
+      "title": "Lucky Door Rollers"
+    },
+    {
+      "id": 1453,
+      "title": "Boundless Barrier Race"
+    },
+    {
+      "id": 1454,
+      "title": "Factorial Zero Quest"
+    },
+    {
+      "id": 1455,
+      "title": "Flipping Fate"
+    },
+    {
+      "id": 1456,
+      "title": "Flip Oddness Quest"
+    },
+    {
+      "id": 1457,
+      "title": "Circle Twirl Calculations"
+    },
+    {
+      "id": 1458,
+      "title": "Last Roll Roulette"
+    },
+    {
+      "id": 1459,
+      "title": "Dice Trio Minima"
+    },
+    {
+      "id": 1460,
+      "title": "Sheep Paradox"
+    },
+    {
+      "id": 1461,
+      "title": "Heavy Bean Quest"
+    },
+    {
+      "id": 1462,
+      "title": "Prime Product Quest"
+    },
+    {
+      "id": 1463,
+      "title": "Coin Ratio Chase"
+    },
+    {
+      "id": 1464,
+      "title": "Cheesecake Geometry"
+    },
+    {
+      "id": 1465,
+      "title": "Dual Gamble Algebra"
+    },
+    {
+      "id": 1466,
+      "title": "Red Cube Hunt"
+    },
+    {
+      "id": 1467,
+      "title": "Infinite Power Puzzle"
+    },
+    {
+      "id": 1468,
+      "title": "Unlinked Puzzle"
+    },
+    {
+      "id": 1469,
+      "title": "Ace Probability Playoff"
+    },
+    {
+      "id": 1470,
+      "title": "Color Clump Count"
+    },
+    {
+      "id": 1471,
+      "title": "Fair Door Hunt"
+    },
+    {
+      "id": 1472,
+      "title": "Slice Speed Mystery"
+    },
+    {
+      "id": 1473,
+      "title": "Root Quest"
+    },
+    {
+      "id": 1474,
+      "title": "Bread Slice Triangles"
+    },
+    {
+      "id": 1475,
+      "title": "Dice Divisors Delight"
+    },
+    {
+      "id": 1476,
+      "title": "Bullseye Odds"
+    },
+    {
+      "id": 1477,
+      "title": "Matrix Mismatch Magic"
+    },
+    {
+      "id": 1478,
+      "title": "Triple Tails Quest"
+    },
+    {
+      "id": 1479,
+      "title": "Random Delivery Fate"
+    },
+    {
+      "id": 1480,
+      "title": "Cubist Color Clash"
+    },
+    {
+      "id": 1481,
+      "title": "Candle Conundrum"
+    },
+    {
+      "id": 1482,
+      "title": "Clockface Clash"
+    },
+    {
+      "id": 1483,
+      "title": "Cluster Count Chaos"
+    },
+    {
+      "id": 1484,
+      "title": "Illuminated Insight"
+    },
+    {
+      "id": 1485,
+      "title": "Optimal Game Gains"
+    },
+    {
+      "id": 1486,
+      "title": "Option Dice Value"
+    },
+    {
+      "id": 1487,
+      "title": "Lucky Flip Puzzle"
+    },
+    {
+      "id": 1488,
+      "title": "Intersecting Cylinders Volume"
+    },
+    {
+      "id": 1489,
+      "title": "Roots of Power"
+    },
+    {
+      "id": 1490,
+      "title": "Card Flip Maximizer"
+    },
+    {
+      "id": 1491,
+      "title": "Visible Headcount Wonders"
+    },
+    {
+      "id": 1492,
+      "title": "Coin Quest Countdown"
+    },
+    {
+      "id": 1493,
+      "title": "Blue Overload Quest"
+    },
+    {
+      "id": 1494,
+      "title": "Trilogy of Tosses"
+    },
+    {
+      "id": 1495,
+      "title": "Flip Fate Fortune"
+    },
+    {
+      "id": 1496,
+      "title": "Scissor Showdown"
+    },
+    {
+      "id": 1497,
+      "title": "Semicircle Surprise"
+    },
+    {
+      "id": 1498,
+      "title": "Digit Treasure Sum"
+    },
+    {
+      "id": 1499,
+      "title": "Dice Under Fifty"
+    },
+    {
+      "id": 1500,
+      "title": "Opposite Sum Swap"
+    },
+    {
+      "id": 1501,
+      "title": "Duplicated Data Mystery"
+    },
+    {
+      "id": 1502,
+      "title": "Seven to Ten Magic"
+    },
+    {
+      "id": 1503,
+      "title": "Coin Streak Quest"
+    },
+    {
+      "id": 1504,
+      "title": "Marble Mirage"
+    },
+    {
+      "id": 1505,
+      "title": "Fair Flip Trick"
+    },
+    {
+      "id": 1506,
+      "title": "Probability Puzzle"
+    },
+    {
+      "id": 1507,
+      "title": "Intersecting Lines Probability"
+    },
+    {
+      "id": 1508,
+      "title": "Sum and Product Puzzle"
+    },
+    {
+      "id": 1509,
+      "title": "Blue Cube Mystery"
+    },
+    {
+      "id": 1510,
+      "title": "Unhappy Countdown"
+    },
+    {
+      "id": 1511,
+      "title": "Dicey Decisions"
+    },
+    {
+      "id": 1512,
+      "title": "Mini Compounding Quest"
+    },
+    {
+      "id": 1513,
+      "title": "Dice Strategy Quest"
+    },
+    {
+      "id": 1514,
+      "title": "Victorious Pathway"
+    },
+    {
+      "id": 1515,
+      "title": "Coin Flip Balance"
+    },
+    {
+      "id": 1516,
+      "title": "Cash Grab Conundrum"
+    },
+    {
+      "id": 1517,
+      "title": "Donation Dynamics"
+    },
+    {
+      "id": 1518,
+      "title": "Triple Fastest Race"
+    },
+    {
+      "id": 1519,
+      "title": "Hefty Quest"
+    },
+    {
+      "id": 1520,
+      "title": "Square Quest"
+    },
+    {
+      "id": 1521,
+      "title": "Beta Battle Probability"
+    },
+    {
+      "id": 1522,
+      "title": "Prime Quartet Quandary"
+    },
+    {
+      "id": 1523,
+      "title": "Leap Quest"
+    },
+    {
+      "id": 1524,
+      "title": "Colorful Coincidence"
+    },
+    {
+      "id": 1525,
+      "title": "Circle Triad Tango"
+    },
+    {
+      "id": 1526,
+      "title": "Hat Gamble Strategy"
+    },
+    {
+      "id": 1527,
+      "title": "Spherical Harmony"
+    },
+    {
+      "id": 1528,
+      "title": "Dice vs Coinface"
+    },
+    {
+      "id": 1529,
+      "title": "Straddle Symmetry Shuffle"
+    },
+    {
+      "id": 1530,
+      "title": "Flip Gamble Gain"
+    },
+    {
+      "id": 1531,
+      "title": "Stone Showdown Strategy"
+    },
+    {
+      "id": 1532,
+      "title": "Regression Synergy Puzzle"
+    },
+    {
+      "id": 1533,
+      "title": "Parity Dance"
+    },
+    {
+      "id": 1534,
+      "title": "Doll Nesting Dilemma"
+    },
+    {
+      "id": 1535,
+      "title": "Remainder Riddles"
+    },
+    {
+      "id": 1536,
+      "title": "Circle Eviction Enigma"
+    },
+    {
+      "id": 1537,
+      "title": "Absolute Expectation Twist"
+    },
+    {
+      "id": 1538,
+      "title": "Twists and Turns"
+    },
+    {
+      "id": 1539,
+      "title": "Flip Symmetry"
+    },
+    {
+      "id": 1540,
+      "title": "Color Conundrum"
+    },
+    {
+      "id": 1541,
+      "title": "Ferry Flux"
+    },
+    {
+      "id": 1542,
+      "title": "Birthday Paradox Quest"
+    },
+    {
+      "id": 1543,
+      "title": "Decay Dive"
+    },
+    {
+      "id": 1544,
+      "title": "Speedy Blocks"
+    },
+    {
+      "id": 1545,
+      "title": "Handshake Puzzle"
+    },
+    {
+      "id": 1546,
+      "title": "Slope Sum Quest"
+    },
+    {
+      "id": 1547,
+      "title": "Double Heads Quest"
+    },
+    {
+      "id": 1548,
+      "title": "Cardworthy Clients"
+    },
+    {
+      "id": 1549,
+      "title": "Flipped Correlation Dance"
+    },
+    {
+      "id": 1550,
+      "title": "Above Seven Hills"
+    },
+    {
+      "id": 1551,
+      "title": "Eigenvalue Squaredogs"
+    },
+    {
+      "id": 1552,
+      "title": "Regression Dance Limits"
+    },
+    {
+      "id": 1553,
+      "title": "Fueling Odyssey"
+    },
+    {
+      "id": 1554,
+      "title": "Four of Fate"
+    },
+    {
+      "id": 1555,
+      "title": "Slope Swaperoo"
+    },
+    {
+      "id": 1556,
+      "title": "Coin Flip Alchemy"
+    },
+    {
+      "id": 1557,
+      "title": "Sock Draw Dilemma"
+    },
+    {
+      "id": 1558,
+      "title": "Chop Chance"
+    },
+    {
+      "id": 1559,
+      "title": "King Flip Countdown"
+    },
+    {
+      "id": 1560,
+      "title": "Divisor Hunt"
+    },
+    {
+      "id": 1561,
+      "title": "Double Headspin"
+    },
+    {
+      "id": 1562,
+      "title": "Errors Unveiled"
+    },
+    {
+      "id": 1563,
+      "title": "Irrational Power Paradox"
+    },
+    {
+      "id": 1564,
+      "title": "Dice Flip Fortune"
+    },
+    {
+      "id": 1565,
+      "title": "Circle Survivor"
+    },
+    {
+      "id": 1566,
+      "title": "Sine Meets Line"
+    },
+    {
+      "id": 1567,
+      "title": "Triangular Chaos Distribution"
+    },
+    {
+      "id": 1568,
+      "title": "Sock Pair Puzzle"
+    },
+    {
+      "id": 1569,
+      "title": "Dice Product Paradox"
+    },
+    {
+      "id": 1570,
+      "title": "Dual Positivity Quandary"
+    },
+    {
+      "id": 1571,
+      "title": "Triad Transport Twist"
+    },
+    {
+      "id": 1572,
+      "title": "Card Select Strategy"
+    },
+    {
+      "id": 1573,
+      "title": "Random Reward Gamble"
+    },
+    {
+      "id": 1574,
+      "title": "Marble Mindgame"
+    },
+    {
+      "id": 1575,
+      "title": "Peak Predicting"
+    },
+    {
+      "id": 1576,
+      "title": "Rating Showdown"
+    },
+    {
+      "id": 1577,
+      "title": "Shuffling Ascent"
+    },
+    {
+      "id": 1578,
+      "title": "Coin Clash"
+    },
+    {
+      "id": 1579,
+      "title": "Max Die Four"
+    },
+    {
+      "id": 1580,
+      "title": "Boundless Bunny Hops"
+    },
+    {
+      "id": 1581,
+      "title": "Dice Bet Dilemma"
+    },
+    {
+      "id": 1582,
+      "title": "Double Month Puzzle"
+    },
+    {
+      "id": 1583,
+      "title": "Uniform Puzzler"
+    },
+    {
+      "id": 1584,
+      "title": "Infant Gender Mystery"
+    },
+    {
+      "id": 1585,
+      "title": "Roll Gamble Strategy"
+    },
+    {
+      "id": 1586,
+      "title": "Die Dilemma Decision"
+    },
+    {
+      "id": 1587,
+      "title": "Equitable Odds Challenge"
+    },
+    {
+      "id": 1588,
+      "title": "Five Before Fate"
+    },
+    {
+      "id": 1589,
+      "title": "Cycle Chronicles"
+    },
+    {
+      "id": 1590,
+      "title": "Viral Gala"
+    },
+    {
+      "id": 1591,
+      "title": "Shot Swapery"
+    },
+    {
+      "id": 1592,
+      "title": "Dice Delight Value"
+    },
+    {
+      "id": 1593,
+      "title": "Line Division Puzzle"
+    },
+    {
+      "id": 1594,
+      "title": "Summing Up Surprises"
+    },
+    {
+      "id": 1595,
+      "title": "Fishy Mathematics"
+    },
+    {
+      "id": 1596,
+      "title": "Heads Every Time"
+    },
+    {
+      "id": 1597,
+      "title": "Dice Order Quest"
+    },
+    {
+      "id": 1598,
+      "title": "Six Streak Quest"
+    },
+    {
+      "id": 1599,
+      "title": "Quarter Time Twist"
+    },
+    {
+      "id": 1600,
+      "title": "Weighty Choice"
+    },
+    {
+      "id": 1601,
+      "title": "Duplicated Regression Puzzle"
+    },
+    {
+      "id": 1602,
+      "title": "Dice Gamble Quest"
+    },
+    {
+      "id": 1603,
+      "title": "Rising Hand Probability"
+    },
+    {
+      "id": 1604,
+      "title": "Dice Gamble Dilemma"
+    },
+    {
+      "id": 1605,
+      "title": "Birthday Bonanza"
+    },
+    {
+      "id": 1606,
+      "title": "Stock Valuation Mystery"
+    },
+    {
+      "id": 1607,
+      "title": "Even Roll Whispers"
+    },
+    {
+      "id": 1608,
+      "title": "Coprime Culmination"
+    },
+    {
+      "id": 1609,
+      "title": "Goat Gambit"
+    },
+    {
+      "id": 1610,
+      "title": "Wandering Falloff"
+    },
+    {
+      "id": 1611,
+      "title": "Probability Twists"
+    },
+    {
+      "id": 1612,
+      "title": "Twin Shuffle"
+    },
+    {
+      "id": 1613,
+      "title": "Diagonal Dance"
+    },
+    {
+      "id": 1614,
+      "title": "Linear Curve Quest"
+    },
+    {
+      "id": 1615,
+      "title": "Matrix Shuffle Magic"
+    },
+    {
+      "id": 1616,
+      "title": "Adjacent Duo Dance"
+    },
+    {
+      "id": 1617,
+      "title": "Dice Duel Balance"
+    },
+    {
+      "id": 1618,
+      "title": "Dice Fusion Fun"
+    },
+    {
+      "id": 1619,
+      "title": "Triple Toss Trail"
+    },
+    {
+      "id": 1620,
+      "title": "Target Tower Takedown"
+    },
+    {
+      "id": 1621,
+      "title": "Die Dilemma"
+    },
+    {
+      "id": 1622,
+      "title": "Dice Deletion Drama"
+    },
+    {
+      "id": 1623,
+      "title": "Splash Ranking Showdown"
+    },
+    {
+      "id": 1624,
+      "title": "Dice Dollar Dilemma"
+    },
+    {
+      "id": 1625,
+      "title": "Dicey Multiples"
+    },
+    {
+      "id": 1626,
+      "title": "Oil Gamble Option"
+    },
+    {
+      "id": 1627,
+      "title": "Chamber Challenge"
+    },
+    {
+      "id": 1628,
+      "title": "Sliding Angle Dynamics"
+    },
+    {
+      "id": 1629,
+      "title": "Color Clash Probability"
+    },
+    {
+      "id": 1630,
+      "title": "Covariance Conundrum"
+    },
+    {
+      "id": 1631,
+      "title": "Even Heads Challenge"
+    },
+    {
+      "id": 1632,
+      "title": "Biased Flip Picks"
+    },
+    {
+      "id": 1633,
+      "title": "Digit Jigsaw Quest"
+    },
+    {
+      "id": 1634,
+      "title": "Uniform Uncertainty"
+    },
+    {
+      "id": 1635,
+      "title": "Triple Cut Odds"
+    },
+    {
+      "id": 1636,
+      "title": "Wandering Ant Odyssey"
+    },
+    {
+      "id": 1637,
+      "title": "Digit Dawn Probability"
+    },
+    {
+      "id": 1638,
+      "title": "Hat Chaos Calculus"
+    },
+    {
+      "id": 1639,
+      "title": "Glove Harmony Quandary"
+    },
+    {
+      "id": 1640,
+      "title": "Infinite Coin Toss"
+    },
+    {
+      "id": 1641,
+      "title": "Drunken Seat Chaos"
+    },
+    {
+      "id": 1642,
+      "title": "Girlish Guesswork"
+    },
+    {
+      "id": 1643,
+      "title": "Dice Race Summit"
+    },
+    {
+      "id": 1644,
+      "title": "Speedy Trio Quest"
+    },
+    {
+      "id": 1645,
+      "title": "Coin Profit Quest"
+    },
+    {
+      "id": 1646,
+      "title": "Heads Marathon"
+    },
+    {
+      "id": 1647,
+      "title": "Prime Roll Luck"
+    },
+    {
+      "id": 1648,
+      "title": "Dice Paradox Puzzle"
+    },
+    {
+      "id": 1649,
+      "title": "Sum Surpass Quest"
+    },
+    {
+      "id": 1650,
+      "title": "Dice Dilemma Delight"
+    },
+    {
+      "id": 1651,
+      "title": "Chasing Aces"
+    },
+    {
+      "id": 1652,
+      "title": "Incredible Arbitrage Equation"
+    },
+    {
+      "id": 1653,
+      "title": "Dice Range Quest"
+    },
+    {
+      "id": 1654,
+      "title": "Flitting Fowl Flight"
+    },
+    {
+      "id": 1655,
+      "title": "Binary Sibling Puzzle"
+    },
+    {
+      "id": 1656,
+      "title": "Cube Crawl Quest"
+    },
+    {
+      "id": 1657,
+      "title": "Cylindrical Crossroads"
+    },
+    {
+      "id": 1658,
+      "title": "Dice Diversity Dive"
+    },
+    {
+      "id": 1659,
+      "title": "Rapid Growth"
+    },
+    {
+      "id": 1660,
+      "title": "Triangular Trisection"
+    },
+    {
+      "id": 1661,
+      "title": "Heads Below Five"
+    },
+    {
+      "id": 1662,
+      "title": "Speed Lap Puzzle"
+    },
+    {
+      "id": 1663,
+      "title": "Double Five Quest"
+    },
+    {
+      "id": 1664,
+      "title": "Dice Product Quest"
+    },
+    {
+      "id": 1665,
+      "title": "Lucky Card Draw"
+    },
+    {
+      "id": 1666,
+      "title": "Regression Sum Magic"
+    },
+    {
+      "id": 1667,
+      "title": "Coin Flip Dynamics"
+    },
+    {
+      "id": 1668,
+      "title": "Duel Mowers Dash"
+    },
+    {
+      "id": 1669,
+      "title": "Handshake Hoopla"
+    },
+    {
+      "id": 1670,
+      "title": "Sum Threshold Quest"
+    },
+    {
+      "id": 1671,
+      "title": "Dice Delight Dilemma"
+    },
+    {
+      "id": 1672,
+      "title": "Token Duel Strategy"
+    },
+    {
+      "id": 1673,
+      "title": "Dice Duality"
+    },
+    {
+      "id": 1674,
+      "title": "Decay Delay"
+    },
+    {
+      "id": 1675,
+      "title": "Digits Dance"
+    },
+    {
+      "id": 1676,
+      "title": "Correlation Triad Limits"
+    },
+    {
+      "id": 1677,
+      "title": "Clock Hand Tango"
+    },
+    {
+      "id": 1678,
+      "title": "Dice Showdown"
+    },
+    {
+      "id": 1679,
+      "title": "Paradox Puzzle Parade"
+    }
+  ],
+  "solution_missing_or_too_short": [
+    {
+      "id": 643,
+      "title": "Expectation of Ratio of Uniforms"
+    },
+    {
+      "id": 644,
+      "title": "Stationary Distribution of a Markov Chain"
+    },
+    {
+      "id": 647,
+      "title": "Effect of Duplicating Data on Regression Statistics"
+    },
+    {
+      "id": 648,
+      "title": "Bayesian Inference with a Bag of Coins"
+    },
+    {
+      "id": 653,
+      "title": "Linear Regression: R-squared Properties"
+    },
+    {
+      "id": 655,
+      "title": "Probability: Russian Roulette"
+    },
+    {
+      "id": 657,
+      "title": "Probability: Random Walk on a Cayley Tree"
+    },
+    {
+      "id": 665,
+      "title": "Simulation: Generating Arbitrary Probabilities"
+    },
+    {
+      "id": 667,
+      "title": "Correlation vs. Independence"
+    },
+    {
+      "id": 669,
+      "title": "Statistics: Hypothesis Testing for Sharpe Ratio"
+    },
+    {
+      "id": 674,
+      "title": "Probability: Branching Process Extinction"
+    },
+    {
+      "id": 675,
+      "title": "Probability: Expected Arc Length on a Sphere"
+    },
+    {
+      "id": 677,
+      "title": "Simulation: Unbiased Coin from a Biased Coin"
+    },
+    {
+      "id": 678,
+      "title": "Quantitative Finance: Arbitrage in Betting"
+    },
+    {
+      "id": 680,
+      "title": "Probability: Coupon Collector's Problem"
+    },
+    {
+      "id": 681,
+      "title": "Algorithm: Polynomial Coefficient Recovery"
+    },
+    {
+      "id": 1021,
+      "title": "Consecutive Coin Flips"
+    },
+    {
+      "id": 1093,
+      "title": "Prime Rollout Probability"
+    },
+    {
+      "id": 1094,
+      "title": "Three Dice Tango"
+    },
+    {
+      "id": 1095,
+      "title": "Correlation Quest"
+    },
+    {
+      "id": 1096,
+      "title": "Dice Chase Duo"
+    },
+    {
+      "id": 1097,
+      "title": "Spending Showdown"
+    },
+    {
+      "id": 1098,
+      "title": "Noodle Knot Loop"
+    },
+    {
+      "id": 1099,
+      "title": "Die Divergence Delight"
+    },
+    {
+      "id": 1100,
+      "title": "Factorial Count Quest"
+    },
+    {
+      "id": 1101,
+      "title": "Dice Duality Delight"
+    },
+    {
+      "id": 1102,
+      "title": "Digit Multiplier Quest"
+    },
+    {
+      "id": 1103,
+      "title": "Path Puzzle Paths"
+    },
+    {
+      "id": 1104,
+      "title": "Charmed Circlets"
+    },
+    {
+      "id": 1105,
+      "title": "Hidden Expectation"
+    },
+    {
+      "id": 1106,
+      "title": "Whispering Sequence"
+    },
+    {
+      "id": 1107,
+      "title": "Covariance Quest"
+    },
+    {
+      "id": 1108,
+      "title": "Risky Coin Wager"
+    },
+    {
+      "id": 1109,
+      "title": "Orderly Coin Dance"
+    },
+    {
+      "id": 1110,
+      "title": "Random Triangle Quest"
+    },
+    {
+      "id": 1111,
+      "title": "Big Mac Math"
+    },
+    {
+      "id": 1112,
+      "title": "Cone Zone Chance"
+    },
+    {
+      "id": 1113,
+      "title": "Eggsplosive Heights"
+    },
+    {
+      "id": 1114,
+      "title": "Even Leapways Challenge"
+    },
+    {
+      "id": 1115,
+      "title": "Odd Coin Flips"
+    },
+    {
+      "id": 1116,
+      "title": "Chance Snip Spread"
+    },
+    {
+      "id": 1117,
+      "title": "Median Quest"
+    },
+    {
+      "id": 1118,
+      "title": "Chordal Quadrilateral Chance"
+    },
+    {
+      "id": 1119,
+      "title": "Cube Quest"
+    },
+    {
+      "id": 1120,
+      "title": "Graph Safari Quest"
+    },
+    {
+      "id": 1121,
+      "title": "Match Madness"
+    },
+    {
+      "id": 1122,
+      "title": "Dice Delta Dance"
+    },
+    {
+      "id": 1123,
+      "title": "Dice Triad Triumph"
+    },
+    {
+      "id": 1124,
+      "title": "Sphere Triangle Maximization"
+    },
+    {
+      "id": 1125,
+      "title": "Coin Chase Duel"
+    },
+    {
+      "id": 1126,
+      "title": "Logarithmic Growth Twist"
+    },
+    {
+      "id": 1127,
+      "title": "Odd Chase Quest"
+    },
+    {
+      "id": 1128,
+      "title": "Permutation Swap Chaos"
+    },
+    {
+      "id": 1129,
+      "title": "Quadrant Surprise"
+    },
+    {
+      "id": 1130,
+      "title": "Digit Deluge"
+    },
+    {
+      "id": 1131,
+      "title": "Parity Coin Flip Enigma"
+    },
+    {
+      "id": 1132,
+      "title": "Card Chaos"
+    },
+    {
+      "id": 1133,
+      "title": "Unstable Timing Challenge"
+    },
+    {
+      "id": 1134,
+      "title": "Chance Meeting"
+    },
+    {
+      "id": 1135,
+      "title": "Triad Prime Hunt"
+    },
+    {
+      "id": 1136,
+      "title": "Stairway Sprint"
+    },
+    {
+      "id": 1137,
+      "title": "Odds Alchemy"
+    },
+    {
+      "id": 1138,
+      "title": "Heart Value Quest"
+    },
+    {
+      "id": 1139,
+      "title": "Infinite Sons Paradox"
+    },
+    {
+      "id": 1140,
+      "title": "Binary Factorial Fade"
+    },
+    {
+      "id": 1141,
+      "title": "Inner Circle Chance"
+    },
+    {
+      "id": 1142,
+      "title": "Tardy Pair Probability"
+    },
+    {
+      "id": 1143,
+      "title": "Pirate Diplomacy"
+    },
+    {
+      "id": 1144,
+      "title": "Dice Redux Quandary"
+    },
+    {
+      "id": 1145,
+      "title": "Dice Face Chase"
+    },
+    {
+      "id": 1146,
+      "title": "Area Gamble"
+    },
+    {
+      "id": 1147,
+      "title": "Square Expectation Quest"
+    },
+    {
+      "id": 1148,
+      "title": "Coin Conundrum"
+    },
+    {
+      "id": 1149,
+      "title": "Threshold Quest"
+    },
+    {
+      "id": 1150,
+      "title": "Duo Draw Drama"
+    },
+    {
+      "id": 1151,
+      "title": "Sum of Slopes"
+    },
+    {
+      "id": 1152,
+      "title": "Colorful Circle Conundrum"
+    },
+    {
+      "id": 1153,
+      "title": "Adjacent Ones Hunt"
+    },
+    {
+      "id": 1154,
+      "title": "Fishy Triples Conundrum"
+    },
+    {
+      "id": 1155,
+      "title": "Logs and Logic"
+    },
+    {
+      "id": 1156,
+      "title": "Disk Center Drift"
+    },
+    {
+      "id": 1157,
+      "title": "Triple Ring Toss"
+    },
+    {
+      "id": 1158,
+      "title": "Triple Six Quest"
+    },
+    {
+      "id": 1159,
+      "title": "Change Conundrum"
+    },
+    {
+      "id": 1160,
+      "title": "Jug Puzzle Quest"
+    },
+    {
+      "id": 1161,
+      "title": "Bowls of Destiny"
+    },
+    {
+      "id": 1162,
+      "title": "Royal Race Earnings"
+    },
+    {
+      "id": 1163,
+      "title": "Counting Ones Challenge"
+    },
+    {
+      "id": 1164,
+      "title": "Lunar Launch"
+    },
+    {
+      "id": 1165,
+      "title": "Dice Battle Royale"
+    },
+    {
+      "id": 1166,
+      "title": "Platform Plunge"
+    },
+    {
+      "id": 1167,
+      "title": "Min Sequence Magic"
+    },
+    {
+      "id": 1168,
+      "title": "Sum Shuffle"
+    },
+    {
+      "id": 1169,
+      "title": "Dice Dilemma Dee"
+    },
+    {
+      "id": 1170,
+      "title": "Brownian Escape"
+    },
+    {
+      "id": 1171,
+      "title": "Hallway Toggle Tango"
+    },
+    {
+      "id": 1172,
+      "title": "Bus Wait Paradox"
+    },
+    {
+      "id": 1173,
+      "title": "Endless Square Roots"
+    },
+    {
+      "id": 1174,
+      "title": "Hopping Odyssey"
+    },
+    {
+      "id": 1175,
+      "title": "Canoe Clock Conundrum"
+    },
+    {
+      "id": 1176,
+      "title": "Ramen Loops Counting"
+    },
+    {
+      "id": 1177,
+      "title": "Million Hunt Challenge"
+    },
+    {
+      "id": 1178,
+      "title": "Dice Dilemma Dance"
+    },
+    {
+      "id": 1179,
+      "title": "Dice Coin Cascade"
+    },
+    {
+      "id": 1180,
+      "title": "Triangular Ant Trek"
+    },
+    {
+      "id": 1181,
+      "title": "Penny Payout Puzzle"
+    },
+    {
+      "id": 1182,
+      "title": "Dice Reimagined"
+    },
+    {
+      "id": 1183,
+      "title": "Win Margin Battle"
+    },
+    {
+      "id": 1184,
+      "title": "Cubicle Crawl Quest"
+    },
+    {
+      "id": 1185,
+      "title": "Correlated Contrasts"
+    },
+    {
+      "id": 1186,
+      "title": "Lucky Six Hunt"
+    },
+    {
+      "id": 1187,
+      "title": "Windy Pedal Puzzle"
+    },
+    {
+      "id": 1188,
+      "title": "Squad Showdown Chance"
+    },
+    {
+      "id": 1189,
+      "title": "Odd Faces Quest"
+    },
+    {
+      "id": 1190,
+      "title": "Height Harmony"
+    },
+    {
+      "id": 1191,
+      "title": "Option Magic"
+    },
+    {
+      "id": 1192,
+      "title": "Corner Cube Conundrum"
+    },
+    {
+      "id": 1193,
+      "title": "Last Number Standing"
+    },
+    {
+      "id": 1194,
+      "title": "Sum Pair Puzzle"
+    },
+    {
+      "id": 1195,
+      "title": "Boundary Roulette"
+    },
+    {
+      "id": 1196,
+      "title": "Red Black Showdown"
+    },
+    {
+      "id": 1197,
+      "title": "Dice Duel Dynamics"
+    },
+    {
+      "id": 1198,
+      "title": "Dark Deck Dilemma"
+    },
+    {
+      "id": 1199,
+      "title": "Dice Parity Quest"
+    },
+    {
+      "id": 1200,
+      "title": "Hefty Hundred Showdown"
+    },
+    {
+      "id": 1201,
+      "title": "Urn Flip Payout"
+    },
+    {
+      "id": 1202,
+      "title": "Ball Color Parade"
+    },
+    {
+      "id": 1203,
+      "title": "Walkway Luck"
+    },
+    {
+      "id": 1204,
+      "title": "Charred Pancake Puzzle"
+    },
+    {
+      "id": 1205,
+      "title": "Dice Gamble Quandary"
+    },
+    {
+      "id": 1206,
+      "title": "Hidden Heads Hunt"
+    },
+    {
+      "id": 1207,
+      "title": "Melon Weight Mystery"
+    },
+    {
+      "id": 1208,
+      "title": "Color Code Quest"
+    },
+    {
+      "id": 1209,
+      "title": "Top Spot Quest"
+    },
+    {
+      "id": 1210,
+      "title": "Coin Gambit Showdown"
+    },
+    {
+      "id": 1211,
+      "title": "Maximus Expectatus"
+    },
+    {
+      "id": 1212,
+      "title": "Dice Deja Vu"
+    },
+    {
+      "id": 1213,
+      "title": "Double Trouble Regression"
+    },
+    {
+      "id": 1214,
+      "title": "Dice Dominance"
+    },
+    {
+      "id": 1215,
+      "title": "Coin Stratagem"
+    },
+    {
+      "id": 1216,
+      "title": "Diophantine Dance"
+    },
+    {
+      "id": 1217,
+      "title": "Trailing Zeros Quest"
+    },
+    {
+      "id": 1218,
+      "title": "Dice Correlation Quest"
+    },
+    {
+      "id": 1219,
+      "title": "Card Flip Gambit"
+    },
+    {
+      "id": 1220,
+      "title": "Dice Duel Choice"
+    },
+    {
+      "id": 1221,
+      "title": "Prime Roll Showdown"
+    },
+    {
+      "id": 1222,
+      "title": "Coin Flip Paradox"
+    },
+    {
+      "id": 1223,
+      "title": "Heads Prediction Puzzle"
+    },
+    {
+      "id": 1224,
+      "title": "Color Match Munch"
+    },
+    {
+      "id": 1225,
+      "title": "Light Isolation Puzzle"
+    },
+    {
+      "id": 1226,
+      "title": "Coin Toss Parity"
+    },
+    {
+      "id": 1227,
+      "title": "Roll Dollar Deeds"
+    },
+    {
+      "id": 1228,
+      "title": "Doubled Data Dilemma"
+    },
+    {
+      "id": 1229,
+      "title": "Bill Breaker Challenge"
+    },
+    {
+      "id": 1230,
+      "title": "Heads Streak Quest"
+    },
+    {
+      "id": 1231,
+      "title": "River Rush Riddle"
+    },
+    {
+      "id": 1232,
+      "title": "Dice Surpass"
+    },
+    {
+      "id": 1233,
+      "title": "Birthday Paradox Maximization"
+    },
+    {
+      "id": 1234,
+      "title": "Bearly Catching Five"
+    },
+    {
+      "id": 1235,
+      "title": "Interval Tango"
+    },
+    {
+      "id": 1236,
+      "title": "Dice Delight"
+    },
+    {
+      "id": 1237,
+      "title": "Triple Entanglement"
+    },
+    {
+      "id": 1238,
+      "title": "Fives Roulette"
+    },
+    {
+      "id": 1239,
+      "title": "Passenger Puzzle Roll"
+    },
+    {
+      "id": 1240,
+      "title": "Bacterial Roulette"
+    },
+    {
+      "id": 1241,
+      "title": "Lantern Bridge Dash"
+    },
+    {
+      "id": 1242,
+      "title": "Timewarp Call Option"
+    },
+    {
+      "id": 1243,
+      "title": "Nine Sum Quest"
+    },
+    {
+      "id": 1244,
+      "title": "Chopping Trilogue"
+    },
+    {
+      "id": 1245,
+      "title": "Equilibrium Toss Paradox"
+    },
+    {
+      "id": 1246,
+      "title": "Fixed Points Quest"
+    },
+    {
+      "id": 1247,
+      "title": "Odd Roll Odyssey"
+    },
+    {
+      "id": 1248,
+      "title": "Cubed Wanderer Variance"
+    },
+    {
+      "id": 1249,
+      "title": "Dice Peaks"
+    },
+    {
+      "id": 1250,
+      "title": "Sprout Feast Frenzy"
+    },
+    {
+      "id": 1251,
+      "title": "Shuffled Unions"
+    },
+    {
+      "id": 1252,
+      "title": "Final Flicker Forecast"
+    },
+    {
+      "id": 1253,
+      "title": "Binary Fifteen Quest"
+    },
+    {
+      "id": 1254,
+      "title": "Pond Paradox"
+    },
+    {
+      "id": 1255,
+      "title": "Fraction Riddle Chain"
+    },
+    {
+      "id": 1256,
+      "title": "Safe Code Puzzle"
+    },
+    {
+      "id": 1257,
+      "title": "Dice Duel Dominance"
+    },
+    {
+      "id": 1258,
+      "title": "Dice Deja Vu 2"
+    },
+    {
+      "id": 1259,
+      "title": "Dice Duel Dilemma"
+    },
+    {
+      "id": 1260,
+      "title": "Accident Odds Shrink"
+    },
+    {
+      "id": 1261,
+      "title": "Dice Coin Alchemy"
+    },
+    {
+      "id": 1262,
+      "title": "Dialing Dreams"
+    },
+    {
+      "id": 1263,
+      "title": "Clockhand Reunion"
+    },
+    {
+      "id": 1264,
+      "title": "Random Gap Chase"
+    },
+    {
+      "id": 1265,
+      "title": "Coin Flip Quartet"
+    },
+    {
+      "id": 1266,
+      "title": "Gridwalk Challenge"
+    },
+    {
+      "id": 1267,
+      "title": "Major Mystery"
+    },
+    {
+      "id": 1268,
+      "title": "Triple Heads Quest"
+    },
+    {
+      "id": 1269,
+      "title": "Weighted Dice Duet"
+    },
+    {
+      "id": 1270,
+      "title": "Unique Dates Quest"
+    },
+    {
+      "id": 1271,
+      "title": "Streak Flip Fun"
+    },
+    {
+      "id": 1272,
+      "title": "Painted Cube Puzzle"
+    },
+    {
+      "id": 1273,
+      "title": "Lilypad Countdown"
+    },
+    {
+      "id": 1274,
+      "title": "Dice Option Puzzle"
+    },
+    {
+      "id": 1275,
+      "title": "Letter Blitz Strategy"
+    },
+    {
+      "id": 1276,
+      "title": "Critter Parade"
+    },
+    {
+      "id": 1277,
+      "title": "Lucky Even Tosses"
+    },
+    {
+      "id": 1278,
+      "title": "Correlate Twins"
+    },
+    {
+      "id": 1279,
+      "title": "Dice Completion Quest"
+    },
+    {
+      "id": 1280,
+      "title": "Dice Dilemma Decision"
+    },
+    {
+      "id": 1281,
+      "title": "Ring Roulette"
+    },
+    {
+      "id": 1282,
+      "title": "Dice Profit Anticipation"
+    },
+    {
+      "id": 1283,
+      "title": "Painted Cube Mystery"
+    },
+    {
+      "id": 1284,
+      "title": "Dicey Sum Quest"
+    },
+    {
+      "id": 1285,
+      "title": "Uneven Odds"
+    },
+    {
+      "id": 1286,
+      "title": "Painted Cubes Quest"
+    },
+    {
+      "id": 1287,
+      "title": "Scaling Mysteries"
+    },
+    {
+      "id": 1288,
+      "title": "Dice Dilemma"
+    },
+    {
+      "id": 1289,
+      "title": "Tripod Balance Challenge"
+    },
+    {
+      "id": 1290,
+      "title": "Cubed Color Chance"
+    },
+    {
+      "id": 1291,
+      "title": "Pooling Paradox"
+    },
+    {
+      "id": 1292,
+      "title": "Stochastic Log Dance"
+    },
+    {
+      "id": 1293,
+      "title": "Shifted Expectation"
+    },
+    {
+      "id": 1294,
+      "title": "Leggy Livestock Logic"
+    },
+    {
+      "id": 1295,
+      "title": "Toasty Odds"
+    },
+    {
+      "id": 1296,
+      "title": "Bullet Logic Roulette"
+    },
+    {
+      "id": 1297,
+      "title": "Jar Harmony Probability"
+    },
+    {
+      "id": 1298,
+      "title": "Dice Ascendancy Exploration"
+    },
+    {
+      "id": 1299,
+      "title": "Double Trouble Dice"
+    },
+    {
+      "id": 1300,
+      "title": "Curious Coin Conundrum"
+    },
+    {
+      "id": 1301,
+      "title": "Auction Gamble"
+    },
+    {
+      "id": 1302,
+      "title": "Dice Duel Dollars"
+    },
+    {
+      "id": 1303,
+      "title": "Coprime Collection Quest"
+    },
+    {
+      "id": 1304,
+      "title": "Fraction Fibbing"
+    },
+    {
+      "id": 1305,
+      "title": "Exceeding Gaussian"
+    },
+    {
+      "id": 1306,
+      "title": "Prep Odds Mixup"
+    },
+    {
+      "id": 1307,
+      "title": "Correlation Triangles"
+    },
+    {
+      "id": 1308,
+      "title": "Basketball Decider"
+    },
+    {
+      "id": 1309,
+      "title": "Dice Logic Dance"
+    },
+    {
+      "id": 1310,
+      "title": "Card Cascade Challenge"
+    },
+    {
+      "id": 1311,
+      "title": "Concert Mystery Math"
+    },
+    {
+      "id": 1312,
+      "title": "Correlated Sum Mystery"
+    },
+    {
+      "id": 1313,
+      "title": "Ladder Slide Chase"
+    },
+    {
+      "id": 1314,
+      "title": "Power Surprise"
+    },
+    {
+      "id": 1315,
+      "title": "Circle Randomness"
+    },
+    {
+      "id": 1316,
+      "title": "Conflicted Companions"
+    },
+    {
+      "id": 1317,
+      "title": "High Rollers Expectation"
+    },
+    {
+      "id": 1318,
+      "title": "Twist Correlation"
+    },
+    {
+      "id": 1319,
+      "title": "Random Radius Ripple"
+    },
+    {
+      "id": 1320,
+      "title": "Beta Surprise Hunt"
+    },
+    {
+      "id": 1321,
+      "title": "Pizza Squad Variance"
+    },
+    {
+      "id": 1322,
+      "title": "Marble Escape Game"
+    },
+    {
+      "id": 1323,
+      "title": "Triple Ten Toss"
+    },
+    {
+      "id": 1324,
+      "title": "Bus Roulette Wait"
+    },
+    {
+      "id": 1325,
+      "title": "Age Circle Riddle"
+    },
+    {
+      "id": 1326,
+      "title": "Five Face Quest"
+    },
+    {
+      "id": 1327,
+      "title": "Dicey Dilemmas"
+    },
+    {
+      "id": 1328,
+      "title": "Prime Dice Quest"
+    },
+    {
+      "id": 1329,
+      "title": "Door Dilemma"
+    },
+    {
+      "id": 1330,
+      "title": "Betting Brilliance"
+    },
+    {
+      "id": 1331,
+      "title": "Hidden Color Paradox"
+    },
+    {
+      "id": 1332,
+      "title": "Egg Drop Challenge"
+    },
+    {
+      "id": 1333,
+      "title": "Circle in Triangle"
+    },
+    {
+      "id": 1334,
+      "title": "Triangular Square Quest"
+    },
+    {
+      "id": 1335,
+      "title": "Palindrome Puzzle"
+    },
+    {
+      "id": 1336,
+      "title": "Power Play Modulo"
+    },
+    {
+      "id": 1337,
+      "title": "Apple Countdown"
+    },
+    {
+      "id": 1338,
+      "title": "Squaring Exponents"
+    },
+    {
+      "id": 1339,
+      "title": "Pipe Trio Puzzle"
+    },
+    {
+      "id": 1340,
+      "title": "Straddle Jigsaw"
+    },
+    {
+      "id": 1341,
+      "title": "Lucky Seventh Derivative"
+    },
+    {
+      "id": 1342,
+      "title": "Orb Forecast Challenge"
+    },
+    {
+      "id": 1343,
+      "title": "Correlate Bound Quest"
+    },
+    {
+      "id": 1344,
+      "title": "Variance Twist"
+    },
+    {
+      "id": 1345,
+      "title": "Dice Difference Dream"
+    },
+    {
+      "id": 1346,
+      "title": "Even Odd Duel"
+    },
+    {
+      "id": 1347,
+      "title": "Ending with Four"
+    },
+    {
+      "id": 1348,
+      "title": "Twin Birthrate Apex"
+    },
+    {
+      "id": 1349,
+      "title": "Even Quest Rolls"
+    },
+    {
+      "id": 1350,
+      "title": "Perfect Pair Mystique"
+    },
+    {
+      "id": 1351,
+      "title": "Dice Divisibility Dance"
+    },
+    {
+      "id": 1352,
+      "title": "Triple Match Chance"
+    },
+    {
+      "id": 1353,
+      "title": "Heads Quest"
+    },
+    {
+      "id": 1354,
+      "title": "Dice Reprise"
+    },
+    {
+      "id": 1355,
+      "title": "Dice Strategy Duel"
+    },
+    {
+      "id": 1356,
+      "title": "Fixed Point Conundrum"
+    },
+    {
+      "id": 1357,
+      "title": "Heads Wins"
+    },
+    {
+      "id": 1358,
+      "title": "Dice Dissonance Sum"
+    },
+    {
+      "id": 1359,
+      "title": "Double Leap Dance"
+    },
+    {
+      "id": 1360,
+      "title": "Race of Patterns"
+    },
+    {
+      "id": 1361,
+      "title": "Crimson Roll"
+    },
+    {
+      "id": 1362,
+      "title": "Double Dice Delight"
+    },
+    {
+      "id": 1363,
+      "title": "Dice Climb"
+    },
+    {
+      "id": 1364,
+      "title": "Cyclic Multiplier Puzzle"
+    },
+    {
+      "id": 1365,
+      "title": "Gridlock Pathways"
+    },
+    {
+      "id": 1366,
+      "title": "Roadside Roulette"
+    },
+    {
+      "id": 1367,
+      "title": "Random Max Quest"
+    },
+    {
+      "id": 1368,
+      "title": "Dice Gamble Spread"
+    },
+    {
+      "id": 1369,
+      "title": "Dice Ascendancy"
+    },
+    {
+      "id": 1370,
+      "title": "Coin Clash Chase"
+    },
+    {
+      "id": 1371,
+      "title": "Stamp Sum Limit"
+    },
+    {
+      "id": 1372,
+      "title": "Exponent Showdown"
+    },
+    {
+      "id": 1373,
+      "title": "Circular Puzzle Quandary"
+    },
+    {
+      "id": 1374,
+      "title": "Dicey Dilemma"
+    },
+    {
+      "id": 1375,
+      "title": "Dice Ladder Expectation"
+    },
+    {
+      "id": 1376,
+      "title": "Colorful Choices"
+    },
+    {
+      "id": 1377,
+      "title": "Coin Flip Synchronicity"
+    },
+    {
+      "id": 1378,
+      "title": "Crash Watch Probability"
+    },
+    {
+      "id": 1379,
+      "title": "Dice Duel"
+    },
+    {
+      "id": 1380,
+      "title": "Rope Slice Puzzle"
+    },
+    {
+      "id": 1381,
+      "title": "Orbital Reunion"
+    },
+    {
+      "id": 1382,
+      "title": "Twin Spades Quest"
+    },
+    {
+      "id": 1383,
+      "title": "Factor Quandary"
+    },
+    {
+      "id": 1384,
+      "title": "Cinema Seat Shuffle"
+    },
+    {
+      "id": 1385,
+      "title": "Egg Drop Dilemma"
+    },
+    {
+      "id": 1386,
+      "title": "Liquid Swap Mystery"
+    },
+    {
+      "id": 1387,
+      "title": "Chance Boosting"
+    },
+    {
+      "id": 1388,
+      "title": "Random Tango"
+    },
+    {
+      "id": 1389,
+      "title": "Sequential Ones Quest"
+    },
+    {
+      "id": 1390,
+      "title": "Random Ant Trek"
+    },
+    {
+      "id": 1391,
+      "title": "Poison Puzzle"
+    },
+    {
+      "id": 1392,
+      "title": "Odd First Charm"
+    },
+    {
+      "id": 1393,
+      "title": "Handshake Enigma"
+    },
+    {
+      "id": 1394,
+      "title": "Dice Climb Challenge"
+    },
+    {
+      "id": 1395,
+      "title": "Dice Medley Showdown"
+    },
+    {
+      "id": 1396,
+      "title": "Odd Chase Rolls"
+    },
+    {
+      "id": 1397,
+      "title": "Odd Sphere Quest"
+    },
+    {
+      "id": 1398,
+      "title": "Dice Double Dare"
+    },
+    {
+      "id": 1399,
+      "title": "Dice Memory Repeat"
+    },
+    {
+      "id": 1400,
+      "title": "Flip of Fate"
+    },
+    {
+      "id": 1401,
+      "title": "Dice Divisor Duel"
+    },
+    {
+      "id": 1402,
+      "title": "Circle Trio Gamble"
+    },
+    {
+      "id": 1403,
+      "title": "Ace Chase Showdown"
+    },
+    {
+      "id": 1404,
+      "title": "Approaching Infinity"
+    },
+    {
+      "id": 1405,
+      "title": "Looping Labyrinth"
+    },
+    {
+      "id": 1406,
+      "title": "Lucky Streak Gamble"
+    },
+    {
+      "id": 1407,
+      "title": "Sock Grab Dilemma"
+    },
+    {
+      "id": 1408,
+      "title": "Stickered Surface Cubes"
+    },
+    {
+      "id": 1409,
+      "title": "Tennis Triumph Strategy"
+    },
+    {
+      "id": 1410,
+      "title": "Equal Flip Alchemy"
+    },
+    {
+      "id": 1411,
+      "title": "Parity Probabilities"
+    },
+    {
+      "id": 1412,
+      "title": "Ripple Radius Race"
+    },
+    {
+      "id": 1413,
+      "title": "Card Gamble Value"
+    },
+    {
+      "id": 1414,
+      "title": "Coin Flip Faceoff"
+    },
+    {
+      "id": 1415,
+      "title": "Dice Median Quest"
+    },
+    {
+      "id": 1416,
+      "title": "Grid Collapse Probability"
+    },
+    {
+      "id": 1417,
+      "title": "Coin Toss Puzzle"
+    },
+    {
+      "id": 1418,
+      "title": "Sharpshooter Showdown"
+    },
+    {
+      "id": 1419,
+      "title": "Urn Origin Mystery"
+    },
+    {
+      "id": 1420,
+      "title": "Speedy Paradox"
+    },
+    {
+      "id": 1421,
+      "title": "Bean Weight Quest"
+    },
+    {
+      "id": 1422,
+      "title": "Aging Circle Spin"
+    },
+    {
+      "id": 1423,
+      "title": "Power Mod Mavericks"
+    },
+    {
+      "id": 1424,
+      "title": "Sharpe Surge Puzzle"
+    },
+    {
+      "id": 1425,
+      "title": "Logarithmic Wonderland"
+    },
+    {
+      "id": 1426,
+      "title": "Survival Spin Gambit"
+    },
+    {
+      "id": 1427,
+      "title": "Spin to Win"
+    },
+    {
+      "id": 1428,
+      "title": "Gaussian Inequality Quest"
+    },
+    {
+      "id": 1429,
+      "title": "Ball Play Paradox"
+    },
+    {
+      "id": 1430,
+      "title": "Dice Face Quest"
+    },
+    {
+      "id": 1431,
+      "title": "Equal Coin Faceoff"
+    },
+    {
+      "id": 1432,
+      "title": "Coin Dice Quest"
+    },
+    {
+      "id": 1433,
+      "title": "Dice Gamble Worth"
+    },
+    {
+      "id": 1434,
+      "title": "Dice Dilemma 2"
+    },
+    {
+      "id": 1435,
+      "title": "Handshake Hustle"
+    },
+    {
+      "id": 1436,
+      "title": "Handshake Harmony"
+    },
+    {
+      "id": 1437,
+      "title": "Dice Mystery Solver"
+    },
+    {
+      "id": 1438,
+      "title": "Rainbow Cube Corners"
+    },
+    {
+      "id": 1439,
+      "title": "Sphere Encapsulation Challenge"
+    },
+    {
+      "id": 1440,
+      "title": "Market Bet Symmetry"
+    },
+    {
+      "id": 1441,
+      "title": "Divisor Dash"
+    },
+    {
+      "id": 1442,
+      "title": "Rolling to Twenty"
+    },
+    {
+      "id": 1443,
+      "title": "Token Tango"
+    },
+    {
+      "id": 1444,
+      "title": "Tilted Coin Rivalry"
+    },
+    {
+      "id": 1445,
+      "title": "Equal Growth Riddle"
+    },
+    {
+      "id": 1446,
+      "title": "Light Shift Chance"
+    },
+    {
+      "id": 1447,
+      "title": "Digit Dilemma Sum"
+    },
+    {
+      "id": 1448,
+      "title": "Prime Playoff"
+    },
+    {
+      "id": 1449,
+      "title": "Scaling Riddle"
+    },
+    {
+      "id": 1450,
+      "title": "Drill or Gamble"
+    },
+    {
+      "id": 1451,
+      "title": "Prime Pair Puzzle"
+    },
+    {
+      "id": 1452,
+      "title": "Lucky Door Rollers"
+    },
+    {
+      "id": 1453,
+      "title": "Boundless Barrier Race"
+    },
+    {
+      "id": 1454,
+      "title": "Factorial Zero Quest"
+    },
+    {
+      "id": 1455,
+      "title": "Flipping Fate"
+    },
+    {
+      "id": 1456,
+      "title": "Flip Oddness Quest"
+    },
+    {
+      "id": 1457,
+      "title": "Circle Twirl Calculations"
+    },
+    {
+      "id": 1458,
+      "title": "Last Roll Roulette"
+    },
+    {
+      "id": 1459,
+      "title": "Dice Trio Minima"
+    },
+    {
+      "id": 1460,
+      "title": "Sheep Paradox"
+    },
+    {
+      "id": 1461,
+      "title": "Heavy Bean Quest"
+    },
+    {
+      "id": 1462,
+      "title": "Prime Product Quest"
+    },
+    {
+      "id": 1463,
+      "title": "Coin Ratio Chase"
+    },
+    {
+      "id": 1464,
+      "title": "Cheesecake Geometry"
+    },
+    {
+      "id": 1465,
+      "title": "Dual Gamble Algebra"
+    },
+    {
+      "id": 1466,
+      "title": "Red Cube Hunt"
+    },
+    {
+      "id": 1467,
+      "title": "Infinite Power Puzzle"
+    },
+    {
+      "id": 1468,
+      "title": "Unlinked Puzzle"
+    },
+    {
+      "id": 1469,
+      "title": "Ace Probability Playoff"
+    },
+    {
+      "id": 1470,
+      "title": "Color Clump Count"
+    },
+    {
+      "id": 1471,
+      "title": "Fair Door Hunt"
+    },
+    {
+      "id": 1472,
+      "title": "Slice Speed Mystery"
+    },
+    {
+      "id": 1473,
+      "title": "Root Quest"
+    },
+    {
+      "id": 1474,
+      "title": "Bread Slice Triangles"
+    },
+    {
+      "id": 1475,
+      "title": "Dice Divisors Delight"
+    },
+    {
+      "id": 1476,
+      "title": "Bullseye Odds"
+    },
+    {
+      "id": 1477,
+      "title": "Matrix Mismatch Magic"
+    },
+    {
+      "id": 1478,
+      "title": "Triple Tails Quest"
+    },
+    {
+      "id": 1479,
+      "title": "Random Delivery Fate"
+    },
+    {
+      "id": 1480,
+      "title": "Cubist Color Clash"
+    },
+    {
+      "id": 1481,
+      "title": "Candle Conundrum"
+    },
+    {
+      "id": 1482,
+      "title": "Clockface Clash"
+    },
+    {
+      "id": 1483,
+      "title": "Cluster Count Chaos"
+    },
+    {
+      "id": 1484,
+      "title": "Illuminated Insight"
+    },
+    {
+      "id": 1485,
+      "title": "Optimal Game Gains"
+    },
+    {
+      "id": 1486,
+      "title": "Option Dice Value"
+    },
+    {
+      "id": 1487,
+      "title": "Lucky Flip Puzzle"
+    },
+    {
+      "id": 1488,
+      "title": "Intersecting Cylinders Volume"
+    },
+    {
+      "id": 1489,
+      "title": "Roots of Power"
+    },
+    {
+      "id": 1490,
+      "title": "Card Flip Maximizer"
+    },
+    {
+      "id": 1491,
+      "title": "Visible Headcount Wonders"
+    },
+    {
+      "id": 1492,
+      "title": "Coin Quest Countdown"
+    },
+    {
+      "id": 1493,
+      "title": "Blue Overload Quest"
+    },
+    {
+      "id": 1494,
+      "title": "Trilogy of Tosses"
+    },
+    {
+      "id": 1495,
+      "title": "Flip Fate Fortune"
+    },
+    {
+      "id": 1496,
+      "title": "Scissor Showdown"
+    },
+    {
+      "id": 1497,
+      "title": "Semicircle Surprise"
+    },
+    {
+      "id": 1498,
+      "title": "Digit Treasure Sum"
+    },
+    {
+      "id": 1499,
+      "title": "Dice Under Fifty"
+    },
+    {
+      "id": 1500,
+      "title": "Opposite Sum Swap"
+    },
+    {
+      "id": 1501,
+      "title": "Duplicated Data Mystery"
+    },
+    {
+      "id": 1502,
+      "title": "Seven to Ten Magic"
+    },
+    {
+      "id": 1503,
+      "title": "Coin Streak Quest"
+    },
+    {
+      "id": 1504,
+      "title": "Marble Mirage"
+    },
+    {
+      "id": 1505,
+      "title": "Fair Flip Trick"
+    },
+    {
+      "id": 1506,
+      "title": "Probability Puzzle"
+    },
+    {
+      "id": 1507,
+      "title": "Intersecting Lines Probability"
+    },
+    {
+      "id": 1508,
+      "title": "Sum and Product Puzzle"
+    },
+    {
+      "id": 1509,
+      "title": "Blue Cube Mystery"
+    },
+    {
+      "id": 1510,
+      "title": "Unhappy Countdown"
+    },
+    {
+      "id": 1511,
+      "title": "Dicey Decisions"
+    },
+    {
+      "id": 1512,
+      "title": "Mini Compounding Quest"
+    },
+    {
+      "id": 1513,
+      "title": "Dice Strategy Quest"
+    },
+    {
+      "id": 1514,
+      "title": "Victorious Pathway"
+    },
+    {
+      "id": 1515,
+      "title": "Coin Flip Balance"
+    },
+    {
+      "id": 1516,
+      "title": "Cash Grab Conundrum"
+    },
+    {
+      "id": 1517,
+      "title": "Donation Dynamics"
+    },
+    {
+      "id": 1518,
+      "title": "Triple Fastest Race"
+    },
+    {
+      "id": 1519,
+      "title": "Hefty Quest"
+    },
+    {
+      "id": 1520,
+      "title": "Square Quest"
+    },
+    {
+      "id": 1521,
+      "title": "Beta Battle Probability"
+    },
+    {
+      "id": 1522,
+      "title": "Prime Quartet Quandary"
+    },
+    {
+      "id": 1523,
+      "title": "Leap Quest"
+    },
+    {
+      "id": 1524,
+      "title": "Colorful Coincidence"
+    },
+    {
+      "id": 1525,
+      "title": "Circle Triad Tango"
+    },
+    {
+      "id": 1526,
+      "title": "Hat Gamble Strategy"
+    },
+    {
+      "id": 1527,
+      "title": "Spherical Harmony"
+    },
+    {
+      "id": 1528,
+      "title": "Dice vs Coinface"
+    },
+    {
+      "id": 1529,
+      "title": "Straddle Symmetry Shuffle"
+    },
+    {
+      "id": 1530,
+      "title": "Flip Gamble Gain"
+    },
+    {
+      "id": 1531,
+      "title": "Stone Showdown Strategy"
+    },
+    {
+      "id": 1532,
+      "title": "Regression Synergy Puzzle"
+    },
+    {
+      "id": 1533,
+      "title": "Parity Dance"
+    },
+    {
+      "id": 1534,
+      "title": "Doll Nesting Dilemma"
+    },
+    {
+      "id": 1535,
+      "title": "Remainder Riddles"
+    },
+    {
+      "id": 1536,
+      "title": "Circle Eviction Enigma"
+    },
+    {
+      "id": 1537,
+      "title": "Absolute Expectation Twist"
+    },
+    {
+      "id": 1538,
+      "title": "Twists and Turns"
+    },
+    {
+      "id": 1539,
+      "title": "Flip Symmetry"
+    },
+    {
+      "id": 1540,
+      "title": "Color Conundrum"
+    },
+    {
+      "id": 1541,
+      "title": "Ferry Flux"
+    },
+    {
+      "id": 1542,
+      "title": "Birthday Paradox Quest"
+    },
+    {
+      "id": 1543,
+      "title": "Decay Dive"
+    },
+    {
+      "id": 1544,
+      "title": "Speedy Blocks"
+    },
+    {
+      "id": 1545,
+      "title": "Handshake Puzzle"
+    },
+    {
+      "id": 1546,
+      "title": "Slope Sum Quest"
+    },
+    {
+      "id": 1547,
+      "title": "Double Heads Quest"
+    },
+    {
+      "id": 1548,
+      "title": "Cardworthy Clients"
+    },
+    {
+      "id": 1549,
+      "title": "Flipped Correlation Dance"
+    },
+    {
+      "id": 1550,
+      "title": "Above Seven Hills"
+    },
+    {
+      "id": 1551,
+      "title": "Eigenvalue Squaredogs"
+    },
+    {
+      "id": 1552,
+      "title": "Regression Dance Limits"
+    },
+    {
+      "id": 1553,
+      "title": "Fueling Odyssey"
+    },
+    {
+      "id": 1554,
+      "title": "Four of Fate"
+    },
+    {
+      "id": 1555,
+      "title": "Slope Swaperoo"
+    },
+    {
+      "id": 1556,
+      "title": "Coin Flip Alchemy"
+    },
+    {
+      "id": 1557,
+      "title": "Sock Draw Dilemma"
+    },
+    {
+      "id": 1558,
+      "title": "Chop Chance"
+    },
+    {
+      "id": 1559,
+      "title": "King Flip Countdown"
+    },
+    {
+      "id": 1560,
+      "title": "Divisor Hunt"
+    },
+    {
+      "id": 1561,
+      "title": "Double Headspin"
+    },
+    {
+      "id": 1562,
+      "title": "Errors Unveiled"
+    },
+    {
+      "id": 1563,
+      "title": "Irrational Power Paradox"
+    },
+    {
+      "id": 1564,
+      "title": "Dice Flip Fortune"
+    },
+    {
+      "id": 1565,
+      "title": "Circle Survivor"
+    },
+    {
+      "id": 1566,
+      "title": "Sine Meets Line"
+    },
+    {
+      "id": 1567,
+      "title": "Triangular Chaos Distribution"
+    },
+    {
+      "id": 1568,
+      "title": "Sock Pair Puzzle"
+    },
+    {
+      "id": 1569,
+      "title": "Dice Product Paradox"
+    },
+    {
+      "id": 1570,
+      "title": "Dual Positivity Quandary"
+    },
+    {
+      "id": 1571,
+      "title": "Triad Transport Twist"
+    },
+    {
+      "id": 1572,
+      "title": "Card Select Strategy"
+    },
+    {
+      "id": 1573,
+      "title": "Random Reward Gamble"
+    },
+    {
+      "id": 1574,
+      "title": "Marble Mindgame"
+    },
+    {
+      "id": 1575,
+      "title": "Peak Predicting"
+    },
+    {
+      "id": 1576,
+      "title": "Rating Showdown"
+    },
+    {
+      "id": 1577,
+      "title": "Shuffling Ascent"
+    },
+    {
+      "id": 1578,
+      "title": "Coin Clash"
+    },
+    {
+      "id": 1579,
+      "title": "Max Die Four"
+    },
+    {
+      "id": 1580,
+      "title": "Boundless Bunny Hops"
+    },
+    {
+      "id": 1581,
+      "title": "Dice Bet Dilemma"
+    },
+    {
+      "id": 1582,
+      "title": "Double Month Puzzle"
+    },
+    {
+      "id": 1583,
+      "title": "Uniform Puzzler"
+    },
+    {
+      "id": 1584,
+      "title": "Infant Gender Mystery"
+    },
+    {
+      "id": 1585,
+      "title": "Roll Gamble Strategy"
+    },
+    {
+      "id": 1586,
+      "title": "Die Dilemma Decision"
+    },
+    {
+      "id": 1587,
+      "title": "Equitable Odds Challenge"
+    },
+    {
+      "id": 1588,
+      "title": "Five Before Fate"
+    },
+    {
+      "id": 1589,
+      "title": "Cycle Chronicles"
+    },
+    {
+      "id": 1590,
+      "title": "Viral Gala"
+    },
+    {
+      "id": 1591,
+      "title": "Shot Swapery"
+    },
+    {
+      "id": 1592,
+      "title": "Dice Delight Value"
+    },
+    {
+      "id": 1593,
+      "title": "Line Division Puzzle"
+    },
+    {
+      "id": 1594,
+      "title": "Summing Up Surprises"
+    },
+    {
+      "id": 1595,
+      "title": "Fishy Mathematics"
+    },
+    {
+      "id": 1596,
+      "title": "Heads Every Time"
+    },
+    {
+      "id": 1597,
+      "title": "Dice Order Quest"
+    },
+    {
+      "id": 1598,
+      "title": "Six Streak Quest"
+    },
+    {
+      "id": 1599,
+      "title": "Quarter Time Twist"
+    },
+    {
+      "id": 1600,
+      "title": "Weighty Choice"
+    },
+    {
+      "id": 1601,
+      "title": "Duplicated Regression Puzzle"
+    },
+    {
+      "id": 1602,
+      "title": "Dice Gamble Quest"
+    },
+    {
+      "id": 1603,
+      "title": "Rising Hand Probability"
+    },
+    {
+      "id": 1604,
+      "title": "Dice Gamble Dilemma"
+    },
+    {
+      "id": 1605,
+      "title": "Birthday Bonanza"
+    },
+    {
+      "id": 1606,
+      "title": "Stock Valuation Mystery"
+    },
+    {
+      "id": 1607,
+      "title": "Even Roll Whispers"
+    },
+    {
+      "id": 1608,
+      "title": "Coprime Culmination"
+    },
+    {
+      "id": 1609,
+      "title": "Goat Gambit"
+    },
+    {
+      "id": 1610,
+      "title": "Wandering Falloff"
+    },
+    {
+      "id": 1611,
+      "title": "Probability Twists"
+    },
+    {
+      "id": 1612,
+      "title": "Twin Shuffle"
+    },
+    {
+      "id": 1613,
+      "title": "Diagonal Dance"
+    },
+    {
+      "id": 1614,
+      "title": "Linear Curve Quest"
+    },
+    {
+      "id": 1615,
+      "title": "Matrix Shuffle Magic"
+    },
+    {
+      "id": 1616,
+      "title": "Adjacent Duo Dance"
+    },
+    {
+      "id": 1617,
+      "title": "Dice Duel Balance"
+    },
+    {
+      "id": 1618,
+      "title": "Dice Fusion Fun"
+    },
+    {
+      "id": 1619,
+      "title": "Triple Toss Trail"
+    },
+    {
+      "id": 1620,
+      "title": "Target Tower Takedown"
+    },
+    {
+      "id": 1621,
+      "title": "Die Dilemma"
+    },
+    {
+      "id": 1622,
+      "title": "Dice Deletion Drama"
+    },
+    {
+      "id": 1623,
+      "title": "Splash Ranking Showdown"
+    },
+    {
+      "id": 1624,
+      "title": "Dice Dollar Dilemma"
+    },
+    {
+      "id": 1625,
+      "title": "Dicey Multiples"
+    },
+    {
+      "id": 1626,
+      "title": "Oil Gamble Option"
+    },
+    {
+      "id": 1627,
+      "title": "Chamber Challenge"
+    },
+    {
+      "id": 1628,
+      "title": "Sliding Angle Dynamics"
+    },
+    {
+      "id": 1629,
+      "title": "Color Clash Probability"
+    },
+    {
+      "id": 1630,
+      "title": "Covariance Conundrum"
+    },
+    {
+      "id": 1631,
+      "title": "Even Heads Challenge"
+    },
+    {
+      "id": 1632,
+      "title": "Biased Flip Picks"
+    },
+    {
+      "id": 1633,
+      "title": "Digit Jigsaw Quest"
+    },
+    {
+      "id": 1634,
+      "title": "Uniform Uncertainty"
+    },
+    {
+      "id": 1635,
+      "title": "Triple Cut Odds"
+    },
+    {
+      "id": 1636,
+      "title": "Wandering Ant Odyssey"
+    },
+    {
+      "id": 1637,
+      "title": "Digit Dawn Probability"
+    },
+    {
+      "id": 1638,
+      "title": "Hat Chaos Calculus"
+    },
+    {
+      "id": 1639,
+      "title": "Glove Harmony Quandary"
+    },
+    {
+      "id": 1640,
+      "title": "Infinite Coin Toss"
+    },
+    {
+      "id": 1641,
+      "title": "Drunken Seat Chaos"
+    },
+    {
+      "id": 1642,
+      "title": "Girlish Guesswork"
+    },
+    {
+      "id": 1643,
+      "title": "Dice Race Summit"
+    },
+    {
+      "id": 1644,
+      "title": "Speedy Trio Quest"
+    },
+    {
+      "id": 1645,
+      "title": "Coin Profit Quest"
+    },
+    {
+      "id": 1646,
+      "title": "Heads Marathon"
+    },
+    {
+      "id": 1647,
+      "title": "Prime Roll Luck"
+    },
+    {
+      "id": 1648,
+      "title": "Dice Paradox Puzzle"
+    },
+    {
+      "id": 1649,
+      "title": "Sum Surpass Quest"
+    },
+    {
+      "id": 1650,
+      "title": "Dice Dilemma Delight"
+    },
+    {
+      "id": 1651,
+      "title": "Chasing Aces"
+    },
+    {
+      "id": 1652,
+      "title": "Incredible Arbitrage Equation"
+    },
+    {
+      "id": 1653,
+      "title": "Dice Range Quest"
+    },
+    {
+      "id": 1654,
+      "title": "Flitting Fowl Flight"
+    },
+    {
+      "id": 1655,
+      "title": "Binary Sibling Puzzle"
+    },
+    {
+      "id": 1656,
+      "title": "Cube Crawl Quest"
+    },
+    {
+      "id": 1657,
+      "title": "Cylindrical Crossroads"
+    },
+    {
+      "id": 1658,
+      "title": "Dice Diversity Dive"
+    },
+    {
+      "id": 1659,
+      "title": "Rapid Growth"
+    },
+    {
+      "id": 1660,
+      "title": "Triangular Trisection"
+    },
+    {
+      "id": 1661,
+      "title": "Heads Below Five"
+    },
+    {
+      "id": 1662,
+      "title": "Speed Lap Puzzle"
+    },
+    {
+      "id": 1663,
+      "title": "Double Five Quest"
+    },
+    {
+      "id": 1664,
+      "title": "Dice Product Quest"
+    },
+    {
+      "id": 1665,
+      "title": "Lucky Card Draw"
+    },
+    {
+      "id": 1666,
+      "title": "Regression Sum Magic"
+    },
+    {
+      "id": 1667,
+      "title": "Coin Flip Dynamics"
+    },
+    {
+      "id": 1668,
+      "title": "Duel Mowers Dash"
+    },
+    {
+      "id": 1669,
+      "title": "Handshake Hoopla"
+    },
+    {
+      "id": 1670,
+      "title": "Sum Threshold Quest"
+    },
+    {
+      "id": 1671,
+      "title": "Dice Delight Dilemma"
+    },
+    {
+      "id": 1672,
+      "title": "Token Duel Strategy"
+    },
+    {
+      "id": 1673,
+      "title": "Dice Duality"
+    },
+    {
+      "id": 1674,
+      "title": "Decay Delay"
+    },
+    {
+      "id": 1675,
+      "title": "Digits Dance"
+    },
+    {
+      "id": 1676,
+      "title": "Correlation Triad Limits"
+    },
+    {
+      "id": 1677,
+      "title": "Clock Hand Tango"
+    },
+    {
+      "id": 1678,
+      "title": "Dice Showdown"
+    },
+    {
+      "id": 1679,
+      "title": "Paradox Puzzle Parade"
+    }
+  ],
+  "statement_missing_or_too_short": [
+    {
+      "id": 1103,
+      "title": "Path Puzzle Paths"
+    },
+    {
+      "id": 1160,
+      "title": "Jug Puzzle Quest"
+    },
+    {
+      "id": 1172,
+      "title": "Bus Wait Paradox"
+    },
+    {
+      "id": 1181,
+      "title": "Penny Payout Puzzle"
+    },
+    {
+      "id": 1187,
+      "title": "Windy Pedal Puzzle"
+    },
+    {
+      "id": 1194,
+      "title": "Sum Pair Puzzle"
+    },
+    {
+      "id": 1231,
+      "title": "River Rush Riddle"
+    },
+    {
+      "id": 1254,
+      "title": "Pond Paradox"
+    },
+    {
+      "id": 1256,
+      "title": "Safe Code Puzzle"
+    },
+    {
+      "id": 1291,
+      "title": "Pooling Paradox"
+    },
+    {
+      "id": 1335,
+      "title": "Palindrome Puzzle"
+    },
+    {
+      "id": 1339,
+      "title": "Pipe Trio Puzzle"
+    },
+    {
+      "id": 1380,
+      "title": "Rope Slice Puzzle"
+    },
+    {
+      "id": 1391,
+      "title": "Poison Puzzle"
+    },
+    {
+      "id": 1420,
+      "title": "Speedy Paradox"
+    },
+    {
+      "id": 1429,
+      "title": "Ball Play Paradox"
+    },
+    {
+      "id": 1445,
+      "title": "Equal Growth Riddle"
+    },
+    {
+      "id": 1449,
+      "title": "Scaling Riddle"
+    },
+    {
+      "id": 1451,
+      "title": "Prime Pair Puzzle"
+    },
+    {
+      "id": 1460,
+      "title": "Sheep Paradox"
+    },
+    {
+      "id": 1468,
+      "title": "Unlinked Puzzle"
+    },
+    {
+      "id": 1506,
+      "title": "Probability Puzzle"
+    },
+    {
+      "id": 1535,
+      "title": "Remainder Riddles"
+    },
+    {
+      "id": 1545,
+      "title": "Handshake Puzzle"
+    },
+    {
+      "id": 1568,
+      "title": "Sock Pair Puzzle"
+    },
+    {
+      "id": 1582,
+      "title": "Double Month Puzzle"
+    },
+    {
+      "id": 1583,
+      "title": "Uniform Puzzler"
+    },
+    {
+      "id": 1662,
+      "title": "Speed Lap Puzzle"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "count": 23,
+  "families": [
+    {
+      "id": 1379,
+      "near_duplicate_neighbors": [
+        1197,
+        1205,
+        1220,
+        1257,
+        1259,
+        1302,
+        1355,
+        1368,
+        1401,
+        1513,
+        1581,
+        1602,
+        1604,
+        1617
+      ]
+    },
+    {
+      "id": 1236,
+      "near_duplicate_neighbors": [
+        1101,
+        1375,
+        1433,
+        1475,
+        1592,
+        1650,
+        1671
+      ]
+    },
+    {
+      "id": 1617,
+      "near_duplicate_neighbors": [
+        1197,
+        1220,
+        1257,
+        1259,
+        1302,
+        1379
+      ]
+    },
+    {
+      "id": 1302,
+      "near_duplicate_neighbors": [
+        1197,
+        1220,
+        1257,
+        1259,
+        1379,
+        1617
+      ]
+    },
+    {
+      "id": 1259,
+      "near_duplicate_neighbors": [
+        1197,
+        1220,
+        1257,
+        1302,
+        1379,
+        1617
+      ]
+    },
+    {
+      "id": 1257,
+      "near_duplicate_neighbors": [
+        1197,
+        1220,
+        1259,
+        1302,
+        1379,
+        1617
+      ]
+    },
+    {
+      "id": 1220,
+      "near_duplicate_neighbors": [
+        1197,
+        1257,
+        1259,
+        1302,
+        1379,
+        1617
+      ]
+    },
+    {
+      "id": 1197,
+      "near_duplicate_neighbors": [
+        1220,
+        1257,
+        1259,
+        1302,
+        1379,
+        1617
+      ]
+    },
+    {
+      "id": 1556,
+      "near_duplicate_neighbors": [
+        1222,
+        1265,
+        1377,
+        1414,
+        1515,
+        1667
+      ]
+    },
+    {
+      "id": 1667,
+      "near_duplicate_neighbors": [
+        1222,
+        1265,
+        1377,
+        1414,
+        1515,
+        1556
+      ]
+    },
+    {
+      "id": 1515,
+      "near_duplicate_neighbors": [
+        1222,
+        1265,
+        1377,
+        1414,
+        1556,
+        1667
+      ]
+    },
+    {
+      "id": 1414,
+      "near_duplicate_neighbors": [
+        1222,
+        1265,
+        1377,
+        1515,
+        1556,
+        1667
+      ]
+    },
+    {
+      "id": 1377,
+      "near_duplicate_neighbors": [
+        1222,
+        1265,
+        1414,
+        1515,
+        1556,
+        1667
+      ]
+    },
+    {
+      "id": 1265,
+      "near_duplicate_neighbors": [
+        1222,
+        1377,
+        1414,
+        1515,
+        1556,
+        1667
+      ]
+    },
+    {
+      "id": 1222,
+      "near_duplicate_neighbors": [
+        1265,
+        1377,
+        1414,
+        1515,
+        1556,
+        1667
+      ]
+    },
+    {
+      "id": 1602,
+      "near_duplicate_neighbors": [
+        1205,
+        1368,
+        1379,
+        1604
+      ]
+    },
+    {
+      "id": 1604,
+      "near_duplicate_neighbors": [
+        1205,
+        1368,
+        1379,
+        1602
+      ]
+    },
+    {
+      "id": 1368,
+      "near_duplicate_neighbors": [
+        1205,
+        1379,
+        1602,
+        1604
+      ]
+    },
+    {
+      "id": 1205,
+      "near_duplicate_neighbors": [
+        1368,
+        1379,
+        1602,
+        1604
+      ]
+    },
+    {
+      "id": 1671,
+      "near_duplicate_neighbors": [
+        1236,
+        1592
+      ]
+    },
+    {
+      "id": 1592,
+      "near_duplicate_neighbors": [
+        1236,
+        1671
+      ]
+    },
+    {
+      "id": 1355,
+      "near_duplicate_neighbors": [
+        1379,
+        1513
+      ]
+    },
+    {
+      "id": 1513,
+      "near_duplicate_neighbors": [
+        1355,
+        1379
+      ]
+    }
+  ]
+}
