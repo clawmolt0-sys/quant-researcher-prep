@@ -1085,7 +1085,7 @@ const Problems = (() => {
         <td class="td-status">${locked ? '<span class="lock-icon">\u{1F512}</span>' : statusIcon}</td>
         <td class="td-num">${p.id}</td>
         <td>
-          <a class="td-title-link" href="problems.html?id=${p.id}" target="_blank">${App.escapeHtml(p.title)}</a>
+          <a class="td-title-link" href="problems.html?id=${p.id}">${App.escapeHtml(p.title)}</a>
           ${isStub ? '<span class="stub-badge">draft</span>' : ''}
           ${isTitleOnly ? '<span class="stub-badge" style="background:#f59e0b22;color:#d97706">Coming Soon</span>' : ''}
           <div class="td-tags">${tagHtml}</div>
