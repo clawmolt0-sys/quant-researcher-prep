@@ -1,6 +1,6 @@
 # QR Prep
 
-A static GitHub Pages platform for quant researcher interview preparation.
+A static GitHub Pages platform for comprehensive quant interview preparation.
 
 Live site: https://alacrity2001.github.io/quant-researcher-prep/
 
