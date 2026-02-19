@@ -1,0 +1,969 @@
+{
+  "generated_at_utc": "2026-02-19T04:15:00Z",
+  "class_count": 77,
+  "classes": [
+    {
+      "class_id": "EQ-001",
+      "problem_ids": [
+        35,
+        46,
+        55,
+        238,
+        245,
+        254,
+        261,
+        306,
+        324,
+        436,
+        529,
+        533,
+        548,
+        568,
+        617,
+        705,
+        718,
+        720,
+        731,
+        794,
+        796,
+        803,
+        817,
+        823,
+        828,
+        928,
+        941,
+        989,
+        1012,
+        1017,
+        1053,
+        1075,
+        1087,
+        1681,
+        1698,
+        1699,
+        1700,
+        1701,
+        1704,
+        1706,
+        1707,
+        1708,
+        1709,
+        1715,
+        1716,
+        1718,
+        1719,
+        1734,
+        1753,
+        1756,
+        1757,
+        1759,
+        1790,
+        1805,
+        1806,
+        1807,
+        1820,
+        1837,
+        1842,
+        1856,
+        1860,
+        1865,
+        1866,
+        1867,
+        1868,
+        1874,
+        1884,
+        1886,
+        1887,
+        1895,
+        1910,
+        1911,
+        1912,
+        1926,
+        1934,
+        1935,
+        1944,
+        1945,
+        1954,
+        1967,
+        1969,
+        1975,
+        1995,
+        2021,
+        2027,
+        2029,
+        2031,
+        2041,
+        2049,
+        2050,
+        2059,
+        2060,
+        2067,
+        2068,
+        2084,
+        2085,
+        2089,
+        2090,
+        2091,
+        2093,
+        2094,
+        2095,
+        2102,
+        2115,
+        2149,
+        2150,
+        2151,
+        2173,
+        2180,
+        2186,
+        2193,
+        2219,
+        2220,
+        2221,
+        2227,
+        2228,
+        2243,
+        2257,
+        2258,
+        2261,
+        2292,
+        2293,
+        2380,
+        2403,
+        2505,
+        2517,
+        2523,
+        2524,
+        2525,
+        2527,
+        2536,
+        2538,
+        2540,
+        2545,
+        2546,
+        2557,
+        2558,
+        2560,
+        2562,
+        2563,
+        2564,
+        2565,
+        2569,
+        2589,
+        2611,
+        2622,
+        2628,
+        2633,
+        2634,
+        2654,
+        2667,
+        2672,
+        2673,
+        2679,
+        2680,
+        2681,
+        2683,
+        2691,
+        2693,
+        2694,
+        2705,
+        2713,
+        2720,
+        2746,
+        2760,
+        2771,
+        2772,
+        2777,
+        2781,
+        2789,
+        2793,
+        2796,
+        2824,
+        2825,
+        2826,
+        2829,
+        2831,
+        2832,
+        2850
+      ],
+      "suggested_series_name": "Breaking a Stick into a Triangle"
+    },
+    {
+      "class_id": "EQ-002",
+      "problem_ids": [
+        1876,
+        1882,
+        1909,
+        1927,
+        1928,
+        1964,
+        1989,
+        1992,
+        1993,
+        2001,
+        2007,
+        2010,
+        2014,
+        2018,
+        2028,
+        2045,
+        2046,
+        2063,
+        2066,
+        2075,
+        2086,
+        2087,
+        2092,
+        2098,
+        2120,
+        2127,
+        2131,
+        2132,
+        2133,
+        2136,
+        2137,
+        2156,
+        2172,
+        2177,
+        2198,
+        2214,
+        2215,
+        2246,
+        2280,
+        2283,
+        2465,
+        2466
+      ],
+      "suggested_series_name": "BOOLAH"
+    },
+    {
+      "class_id": "EQ-003",
+      "problem_ids": [
+        1892,
+        1922,
+        1923,
+        1979,
+        1999,
+        2039,
+        2040,
+        2071,
+        2078,
+        2101,
+        2107,
+        2141,
+        2142,
+        2144,
+        2174,
+        2260,
+        2388,
+        2396,
+        2397,
+        2485,
+        2488
+      ],
+      "suggested_series_name": "Scholastic Books"
+    },
+    {
+      "class_id": "EQ-004",
+      "problem_ids": [
+        101,
+        103,
+        107,
+        108,
+        110,
+        114,
+        330,
+        806,
+        960,
+        1091,
+        2503,
+        2533,
+        2664,
+        2738,
+        2807
+      ],
+      "suggested_series_name": "Eigenvalue of Rank-1 Matrix"
+    },
+    {
+      "class_id": "EQ-005",
+      "problem_ids": [
+        1924,
+        1997,
+        2005,
+        2024,
+        2069,
+        2070,
+        2157,
+        2158,
+        2185,
+        2398,
+        2493
+      ],
+      "suggested_series_name": "Standard Deviation Sum"
+    },
+    {
+      "class_id": "EQ-006",
+      "problem_ids": [
+        1981,
+        2152,
+        2202,
+        2203,
+        2204,
+        2205,
+        2207,
+        2208,
+        2209,
+        2211,
+        2212
+      ],
+      "suggested_series_name": "Brown Conditions I"
+    },
+    {
+      "class_id": "EQ-007",
+      "problem_ids": [
+        1,
+        227,
+        230,
+        359,
+        360,
+        390,
+        397,
+        582,
+        604
+      ],
+      "suggested_series_name": "Sum of Gaussians: Distribution"
+    },
+    {
+      "class_id": "EQ-008",
+      "problem_ids": [
+        2410,
+        2413,
+        2415,
+        2420,
+        2421,
+        2422,
+        2427,
+        2428,
+        2430
+      ],
+      "suggested_series_name": "House Prices II"
+    },
+    {
+      "class_id": "EQ-009",
+      "problem_ids": [
+        1893,
+        2030,
+        2035,
+        2222,
+        2223,
+        2290,
+        2394,
+        2496
+      ],
+      "suggested_series_name": "Contained Origin"
+    },
+    {
+      "class_id": "EQ-010",
+      "problem_ids": [
+        2551,
+        2626,
+        2639,
+        2646,
+        2688,
+        2706,
+        2725,
+        2736
+      ],
+      "suggested_series_name": "In A Length N Array, A Number"
+    },
+    {
+      "class_id": "EQ-011",
+      "problem_ids": [
+        109,
+        274,
+        553,
+        581,
+        976,
+        1041,
+        1059
+      ],
+      "suggested_series_name": "Eigenvalue Interpretation in PCA"
+    },
+    {
+      "class_id": "EQ-012",
+      "problem_ids": [
+        260,
+        285,
+        379,
+        455,
+        462,
+        531,
+        635
+      ],
+      "suggested_series_name": "Expected throws to see all six die faces once"
+    },
+    {
+      "class_id": "EQ-013",
+      "problem_ids": [
+        30,
+        32,
+        485,
+        565,
+        826,
+        1073
+      ],
+      "suggested_series_name": "P(X + 3Y > 0 | X > 0)"
+    },
+    {
+      "class_id": "EQ-014",
+      "problem_ids": [
+        1983,
+        1984,
+        1985,
+        1986,
+        1987,
+        1988
+      ],
+      "suggested_series_name": "Russian Roulette I"
+    },
+    {
+      "class_id": "EQ-015",
+      "problem_ids": [
+        83,
+        743,
+        746,
+        2434,
+        2438
+      ],
+      "suggested_series_name": "M&M Hypothesis Testing"
+    },
+    {
+      "class_id": "EQ-016",
+      "problem_ids": [
+        1881,
+        1939,
+        1940,
+        2119,
+        2216
+      ],
+      "suggested_series_name": "Disco Squares I"
+    },
+    {
+      "class_id": "EQ-017",
+      "problem_ids": [
+        24,
+        231,
+        294,
+        895
+      ],
+      "suggested_series_name": "Biased Coin to Fair Coin (Von Neumann)"
+    },
+    {
+      "class_id": "EQ-018",
+      "problem_ids": [
+        2412,
+        2417,
+        2419,
+        2436
+      ],
+      "suggested_series_name": "Ridge Bias-Variance"
+    },
+    {
+      "class_id": "EQ-019",
+      "problem_ids": [
+        2537,
+        2561,
+        2623,
+        2625
+      ],
+      "suggested_series_name": "How Can You Play A Game That"
+    },
+    {
+      "class_id": "EQ-020",
+      "problem_ids": [
+        2554,
+        2682,
+        2715,
+        2759
+      ],
+      "suggested_series_name": "What Kind Of Data Mining/Machine Learning Techniques"
+    },
+    {
+      "class_id": "EQ-021",
+      "problem_ids": [
+        20,
+        1007,
+        1010
+      ],
+      "suggested_series_name": "Expected Distance Between Points on a Circle"
+    },
+    {
+      "class_id": "EQ-022",
+      "problem_ids": [
+        37,
+        53,
+        495
+      ],
+      "suggested_series_name": "Uniform Disk Sampling"
+    },
+    {
+      "class_id": "EQ-023",
+      "problem_ids": [
+        63,
+        77,
+        1088
+      ],
+      "suggested_series_name": "Expected Handshakes in a Circle"
+    },
+    {
+      "class_id": "EQ-024",
+      "problem_ids": [
+        155,
+        1045,
+        1057
+      ],
+      "suggested_series_name": "Portfolio Allocation by Sharpe Ratio"
+    },
+    {
+      "class_id": "EQ-025",
+      "problem_ids": [
+        157,
+        220,
+        423
+      ],
+      "suggested_series_name": "Portfolio Optimization with Alpha Signals"
+    },
+    {
+      "class_id": "EQ-026",
+      "problem_ids": [
+        165,
+        166,
+        368
+      ],
+      "suggested_series_name": "Bid-Ask Spread in Market Making"
+    },
+    {
+      "class_id": "EQ-027",
+      "problem_ids": [
+        197,
+        2375,
+        2379
+      ],
+      "suggested_series_name": "Divisibility Puzzle with Dice"
+    },
+    {
+      "class_id": "EQ-028",
+      "problem_ids": [
+        266,
+        822,
+        957
+      ],
+      "suggested_series_name": "Game: Roll a 100-sided die"
+    },
+    {
+      "class_id": "EQ-029",
+      "problem_ids": [
+        317,
+        370,
+        516
+      ],
+      "suggested_series_name": "Team Formation Game with Four Dice"
+    },
+    {
+      "class_id": "EQ-030",
+      "problem_ids": [
+        408,
+        488,
+        859
+      ],
+      "suggested_series_name": "Sharpe Ratio Aggregation and Annualization"
+    },
+    {
+      "class_id": "EQ-031",
+      "problem_ids": [
+        561,
+        2593,
+        2685
+      ],
+      "suggested_series_name": "OLS Confidence Intervals"
+    },
+    {
+      "class_id": "EQ-032",
+      "problem_ids": [
+        590,
+        717,
+        851
+      ],
+      "suggested_series_name": "Standard Deviation of a Sum of Correlated Gaussians"
+    },
+    {
+      "class_id": "EQ-033",
+      "problem_ids": [
+        949,
+        2529,
+        2803
+      ],
+      "suggested_series_name": "Expected Adjacent Pairs of Different Colors"
+    },
+    {
+      "class_id": "EQ-034",
+      "problem_ids": [
+        1011,
+        1016,
+        1722
+      ],
+      "suggested_series_name": "Probability of Adjacent Seating"
+    },
+    {
+      "class_id": "EQ-035",
+      "problem_ids": [
+        1013,
+        2687,
+        2823
+      ],
+      "suggested_series_name": "Probability of Both Travels Being International"
+    },
+    {
+      "class_id": "EQ-036",
+      "problem_ids": [
+        1933,
+        1962,
+        1963
+      ],
+      "suggested_series_name": "Carpenter Errors I"
+    },
+    {
+      "class_id": "EQ-037",
+      "problem_ids": [
+        1941,
+        2192,
+        2592
+      ],
+      "suggested_series_name": "Minimizing Variance"
+    },
+    {
+      "class_id": "EQ-038",
+      "problem_ids": [
+        2416,
+        2429,
+        2452
+      ],
+      "suggested_series_name": "Adjusted R2 and AIC I"
+    },
+    {
+      "class_id": "EQ-039",
+      "problem_ids": [
+        2426,
+        2431,
+        2432
+      ],
+      "suggested_series_name": "R-Squared Drawbacks"
+    },
+    {
+      "class_id": "EQ-040",
+      "problem_ids": [
+        2446,
+        2447,
+        2448
+      ],
+      "suggested_series_name": "Exponential MLE"
+    },
+    {
+      "class_id": "EQ-041",
+      "problem_ids": [
+        2449,
+        2451,
+        2477
+      ],
+      "suggested_series_name": "Exponential Fisher Information"
+    },
+    {
+      "class_id": "EQ-042",
+      "problem_ids": [
+        2455,
+        2456,
+        2457
+      ],
+      "suggested_series_name": "Rat Poison I"
+    },
+    {
+      "class_id": "EQ-043",
+      "problem_ids": [
+        11,
+        47
+      ],
+      "suggested_series_name": "Stock Price State Transition Model"
+    },
+    {
+      "class_id": "EQ-044",
+      "problem_ids": [
+        22,
+        1056
+      ],
+      "suggested_series_name": "Markov Chain Stationary Distribution"
+    },
+    {
+      "class_id": "EQ-045",
+      "problem_ids": [
+        78,
+        1720
+      ],
+      "suggested_series_name": "Positive Integer Triple Counting"
+    },
+    {
+      "class_id": "EQ-046",
+      "problem_ids": [
+        105,
+        513
+      ],
+      "suggested_series_name": "Vector Projection and Gram-Schmidt"
+    },
+    {
+      "class_id": "EQ-047",
+      "problem_ids": [
+        118,
+        454
+      ],
+      "suggested_series_name": "Ito's Lemma: Geometric Brownian Motion"
+    },
+    {
+      "class_id": "EQ-048",
+      "problem_ids": [
+        120,
+        121
+      ],
+      "suggested_series_name": "Martingale Property of Brownian Motion"
+    },
+    {
+      "class_id": "EQ-049",
+      "problem_ids": [
+        212,
+        219
+      ],
+      "suggested_series_name": "GARCH(1,1) Model"
+    },
+    {
+      "class_id": "EQ-050",
+      "problem_ids": [
+        248,
+        940
+      ],
+      "suggested_series_name": "(1) $X \\sim N(0,1)$, $Y \\sim N(0,4)$, flip a fair coin: $Z=X$ if heads, $Z=Y$ if tails"
+    },
+    {
+      "class_id": "EQ-051",
+      "problem_ids": [
+        259,
+        310
+      ],
+      "suggested_series_name": "Bidding game: A box contains money equal to number of heads in 200 coin tosses"
+    },
+    {
+      "class_id": "EQ-052",
+      "problem_ids": [
+        278,
+        336
+      ],
+      "suggested_series_name": "Covariance of Min and Max of Uniform Variables"
+    },
+    {
+      "class_id": "EQ-053",
+      "problem_ids": [
+        369,
+        373
+      ],
+      "suggested_series_name": "Ascending Order Probability for Drawn Cards"
+    },
+    {
+      "class_id": "EQ-054",
+      "problem_ids": [
+        471,
+        2708
+      ],
+      "suggested_series_name": "Effect of Duplicating Data on Regression"
+    },
+    {
+      "class_id": "EQ-055",
+      "problem_ids": [
+        520,
+        2700
+      ],
+      "suggested_series_name": "Machine Learning General Questions"
+    },
+    {
+      "class_id": "EQ-056",
+      "problem_ids": [
+        540,
+        991
+      ],
+      "suggested_series_name": "Regularization and Prediction Horizon"
+    },
+    {
+      "class_id": "EQ-057",
+      "problem_ids": [
+        591,
+        865
+      ],
+      "suggested_series_name": "Machine Learning: Kernel Methods and Gaussian Processes"
+    },
+    {
+      "class_id": "EQ-058",
+      "problem_ids": [
+        592,
+        869
+      ],
+      "suggested_series_name": "Reinforcement Learning: Q-Learning vs. Policy Gradients"
+    },
+    {
+      "class_id": "EQ-059",
+      "problem_ids": [
+        623,
+        854
+      ],
+      "suggested_series_name": "Probability: Conditional Bernoulli Sums"
+    },
+    {
+      "class_id": "EQ-060",
+      "problem_ids": [
+        728,
+        824
+      ],
+      "suggested_series_name": "Drawing Balls from Three Boxes"
+    },
+    {
+      "class_id": "EQ-061",
+      "problem_ids": [
+        773,
+        813
+      ],
+      "suggested_series_name": "Fraction of Time Spent in State 1"
+    },
+    {
+      "class_id": "EQ-062",
+      "problem_ids": [
+        834,
+        1792
+      ],
+      "suggested_series_name": "/LC 121: Best Time to Buy and Sell Stock I"
+    },
+    {
+      "class_id": "EQ-063",
+      "problem_ids": [
+        951,
+        1782
+      ],
+      "suggested_series_name": "Probability of Subsum Sequence Reaching n"
+    },
+    {
+      "class_id": "EQ-064",
+      "problem_ids": [
+        1036,
+        2579
+      ],
+      "suggested_series_name": "Derivation of Linear Regression Formula"
+    },
+    {
+      "class_id": "EQ-065",
+      "problem_ids": [
+        1772,
+        1836
+      ],
+      "suggested_series_name": "Sample Duplication"
+    },
+    {
+      "class_id": "EQ-066",
+      "problem_ids": [
+        1890,
+        1891
+      ],
+      "suggested_series_name": "Sturdy Roof I"
+    },
+    {
+      "class_id": "EQ-067",
+      "problem_ids": [
+        1957,
+        2483
+      ],
+      "suggested_series_name": "Maximin"
+    },
+    {
+      "class_id": "EQ-068",
+      "problem_ids": [
+        2032,
+        2492
+      ],
+      "suggested_series_name": "Conditional Bivariate"
+    },
+    {
+      "class_id": "EQ-069",
+      "problem_ids": [
+        2042,
+        2171
+      ],
+      "suggested_series_name": "Larger Value"
+    },
+    {
+      "class_id": "EQ-070",
+      "problem_ids": [
+        2138,
+        2194
+      ],
+      "suggested_series_name": "Discrete-Time Memorylessness"
+    },
+    {
+      "class_id": "EQ-071",
+      "problem_ids": [
+        2146,
+        2147
+      ],
+      "suggested_series_name": "Carousel Box I"
+    },
+    {
+      "class_id": "EQ-072",
+      "problem_ids": [
+        2187,
+        2189
+      ],
+      "suggested_series_name": "Game Off I"
+    },
+    {
+      "class_id": "EQ-073",
+      "problem_ids": [
+        2199,
+        2200
+      ],
+      "suggested_series_name": "Transposition Trier I"
+    },
+    {
+      "class_id": "EQ-074",
+      "problem_ids": [
+        2267,
+        2268
+      ],
+      "suggested_series_name": "Start or Not I"
+    },
+    {
+      "class_id": "EQ-075",
+      "problem_ids": [
+        2269,
+        2270
+      ],
+      "suggested_series_name": "Stone Pick I"
+    },
+    {
+      "class_id": "EQ-076",
+      "problem_ids": [
+        2424,
+        2443
+      ],
+      "suggested_series_name": "Detecting Multicollinearity"
+    },
+    {
+      "class_id": "EQ-077",
+      "problem_ids": [
+        2458,
+        2459
+      ],
+      "suggested_series_name": "Testing Eggs I"
+    }
+  ]
+}
