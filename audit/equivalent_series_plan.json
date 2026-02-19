@@ -1,0 +1,2973 @@
+{
+  "generated_at_utc": "2026-02-19T04:45:00Z",
+  "series_count": 77,
+  "series": [
+    {
+      "class_id": "EQ-001",
+      "series_name": "Probability 2 Heads 4 Coins Probability Even Number",
+      "members": [
+        {
+          "id": 35,
+          "title": "Breaking a Stick into a Triangle",
+          "variant_hint": "base"
+        },
+        {
+          "id": 46,
+          "title": "Acute Triangle from Random Points on Circle",
+          "variant_hint": "base"
+        },
+        {
+          "id": 55,
+          "title": "People in a Circle: Who Can See?",
+          "variant_hint": "base"
+        },
+        {
+          "id": 238,
+          "title": "Pick 5 points uniformly on a sphere",
+          "variant_hint": "base"
+        },
+        {
+          "id": 245,
+          "title": "Probability Power of Two Starts with Digit One",
+          "variant_hint": "base"
+        },
+        {
+          "id": 254,
+          "title": "Weekend Rain Probability Computation",
+          "variant_hint": "base"
+        },
+        {
+          "id": 261,
+          "title": "Probability of 2 heads with 4 coins; probability of even number of heads with 4 coins",
+          "variant_hint": "base"
+        },
+        {
+          "id": 306,
+          "title": "Weekend Rain Probability with Dependence",
+          "variant_hint": "base"
+        },
+        {
+          "id": 324,
+          "title": "Pick a random positive integer $n$",
+          "variant_hint": "base"
+        },
+        {
+          "id": 436,
+          "title": "Probability: Bounds on P(B)",
+          "variant_hint": "base"
+        },
+        {
+          "id": 529,
+          "title": "N Points in a Semicircle",
+          "variant_hint": "base"
+        },
+        {
+          "id": 533,
+          "title": "Conditional Probability of Arrivals",
+          "variant_hint": "base"
+        },
+        {
+          "id": 548,
+          "title": "Two Players Guessing Coin Flips",
+          "variant_hint": "base"
+        },
+        {
+          "id": 568,
+          "title": "Polya's Urn Model",
+          "variant_hint": "base"
+        },
+        {
+          "id": 617,
+          "title": "Probability: Bayesian Detector Accuracy",
+          "variant_hint": "base"
+        },
+        {
+          "id": 705,
+          "title": "Bayesian Statistics",
+          "variant_hint": "base"
+        },
+        {
+          "id": 718,
+          "title": "Surface Color of a Cube",
+          "variant_hint": "base"
+        },
+        {
+          "id": 720,
+          "title": "Probability of More Heads",
+          "variant_hint": "base"
+        },
+        {
+          "id": 731,
+          "title": "Stick Cutting and Forming a Triangle",
+          "variant_hint": "base"
+        },
+        {
+          "id": 794,
+          "title": "Generate Uniformly Distributed Points in a Unit Circle",
+          "variant_hint": "base"
+        },
+        {
+          "id": 796,
+          "title": "Additional Probability Problems",
+          "variant_hint": "base"
+        },
+        {
+          "id": 803,
+          "title": "Geometry and Probability in a Revolver Game",
+          "variant_hint": "base"
+        },
+        {
+          "id": 817,
+          "title": "Stick Cutting Problem",
+          "variant_hint": "base"
+        },
+        {
+          "id": 823,
+          "title": "People Standing in a Circle",
+          "variant_hint": "base"
+        },
+        {
+          "id": 828,
+          "title": "CDF of a Random Variable Generated from a Unit Circle",
+          "variant_hint": "base"
+        },
+        {
+          "id": 928,
+          "title": "Polynomial Computation Complexity",
+          "variant_hint": "base"
+        },
+        {
+          "id": 941,
+          "title": "Probability of Forming a Triangle",
+          "variant_hint": "base"
+        },
+        {
+          "id": 989,
+          "title": "Coin Toss Game - Probability of Winning",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1012,
+          "title": "Probability of Acute Triangle",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1017,
+          "title": "Coin Toss Sequence Probability",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1053,
+          "title": "Regression on Uniformly Distributed Points",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1075,
+          "title": "Lie Probability",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1087,
+          "title": "Random Integer Divisibility by 2 or 3",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1681,
+          "title": "Even Before Odd",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1698,
+          "title": "Three Rings",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1699,
+          "title": "Fruit Basket",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1700,
+          "title": "King of Hearts",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1701,
+          "title": "How Many Heads",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1704,
+          "title": "More Heads",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1706,
+          "title": "Biased Coin Sequence",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1707,
+          "title": "Three Sticks",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1708,
+          "title": "Samuel Flips",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1709,
+          "title": "Expected Value of Highest Die",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1715,
+          "title": "Even Flips",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1716,
+          "title": "Odd Flips",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1718,
+          "title": "Exactly 6",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1719,
+          "title": "Good Grid",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1734,
+          "title": "Orb Draws",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1753,
+          "title": "Triple Coin",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1756,
+          "title": "Red Rubik's cube",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1757,
+          "title": "Even Prime Sum",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1759,
+          "title": "Uniform Quotient",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1790,
+          "title": "Last Marble Standing",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1805,
+          "title": "Free Sundae",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1806,
+          "title": "Random Subsets",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1807,
+          "title": "Tic-Tac-Toe Sum",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1820,
+          "title": "Same Arc",
+          "variant_hint": "n=4"
+        },
+        {
+          "id": 1837,
+          "title": "Ant on a Simplex",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1842,
+          "title": "Flipped in Succession",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1856,
+          "title": "Uniform Sum Probability",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1860,
+          "title": "Dice Coin Paradigm",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1865,
+          "title": "4Head I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1866,
+          "title": "4Head II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1867,
+          "title": "4Head III",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1868,
+          "title": "4Head IV",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1874,
+          "title": "Coinsecutive II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1884,
+          "title": "Blind Die",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1886,
+          "title": "Die Expected Value",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1887,
+          "title": "Picky Subset",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1895,
+          "title": "Group Project I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1910,
+          "title": "Excluded Number I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1911,
+          "title": "Unchanged Die Pair",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1912,
+          "title": "Unchanged Die Trio",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1926,
+          "title": "Greater Dice",
+          "variant_hint": "n=30"
+        },
+        {
+          "id": 1934,
+          "title": "Three Die Sum",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1935,
+          "title": "60 Heads I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1944,
+          "title": "Prior Event I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1945,
+          "title": "Prior Event II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1954,
+          "title": "Prime Dice",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1967,
+          "title": "Coin Swap I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1969,
+          "title": "Coin Swap III",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1975,
+          "title": "Consecutive 1",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1995,
+          "title": "Maximal Dice",
+          "variant_hint": "n=6"
+        },
+        {
+          "id": 2021,
+          "title": "Big 6",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2027,
+          "title": "Equal Unequal Dice",
+          "variant_hint": "n=4"
+        },
+        {
+          "id": 2029,
+          "title": "Fair and Unfair Die",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2031,
+          "title": "Tricky Die",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2041,
+          "title": "Die Diff",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2049,
+          "title": "Opposite Parity Heads I",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2050,
+          "title": "Opposite Parity Heads II",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2059,
+          "title": "Equiside",
+          "variant_hint": "n=5"
+        },
+        {
+          "id": 2060,
+          "title": "Prime Roll",
+          "variant_hint": "n=8"
+        },
+        {
+          "id": 2067,
+          "title": "Too Much Match I",
+          "variant_hint": "n=7"
+        },
+        {
+          "id": 2068,
+          "title": "Too Much Match II",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2084,
+          "title": "Subtract 1 I",
+          "variant_hint": "n=12"
+        },
+        {
+          "id": 2085,
+          "title": "Subtract 1 II",
+          "variant_hint": "n=11"
+        },
+        {
+          "id": 2089,
+          "title": "Set Combo I",
+          "variant_hint": "n=8"
+        },
+        {
+          "id": 2090,
+          "title": "Set Combo II",
+          "variant_hint": "n=8"
+        },
+        {
+          "id": 2091,
+          "title": "Equal Ends",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2093,
+          "title": "Consecutive Heads I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2094,
+          "title": "Consecutive Heads II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2095,
+          "title": "Consecutive Heads III",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2102,
+          "title": "Forehead",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2115,
+          "title": "All Values Represented",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2149,
+          "title": "Heads Before Tails",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2150,
+          "title": "Limited Hitter I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2151,
+          "title": "Both Show",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2173,
+          "title": "One Then Two",
+          "variant_hint": "n=8"
+        },
+        {
+          "id": 2180,
+          "title": "Die Duo I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2186,
+          "title": "Non-Transitive Dice I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2193,
+          "title": "Summed Dice I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2219,
+          "title": "Palindromey I",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2220,
+          "title": "Palindromey II",
+          "variant_hint": "n=9"
+        },
+        {
+          "id": 2221,
+          "title": "Palindromey III",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2227,
+          "title": "Strictly Increasing Dice",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2228,
+          "title": "Product of 6",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2243,
+          "title": "Firsts and Lasts",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2257,
+          "title": "Skilled Flipper I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2258,
+          "title": "Skilled Flipper II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2261,
+          "title": "Runny Runs I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2292,
+          "title": "Million Product",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2293,
+          "title": "Sequence Building",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2380,
+          "title": "Odd Divisor",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2403,
+          "title": "Last Value Two",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2505,
+          "title": "Probability of getting a red marble is maximized",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2517,
+          "title": "I Flip A Coin Three Times, And",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2523,
+          "title": "3X3x3 Cube; Paint The Outside",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2524,
+          "title": "For An Odd Number Of Fair Coin",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2525,
+          "title": "Two Teams A And B Played Football Twice",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2527,
+          "title": "Probability of a torpedo hits the target is 3/7",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2536,
+          "title": "Probability of the number is divisible by 2",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2538,
+          "title": "Sitting On The Side Of The Road",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2540,
+          "title": "Probability of both X and X+Y are positive",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2545,
+          "title": "A Stick Is Broken Into 3 Parts",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2546,
+          "title": "How Can You Use A Fair 6-Sided",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2557,
+          "title": "You Have A Stick And You Cut",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2558,
+          "title": "Probability of the other one is not red",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2560,
+          "title": "A Man Has A One Dollars, What",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2562,
+          "title": "You Flip 10 Coins, Half Fair Half",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2563,
+          "title": "What Is The Probability Of Getting Even",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2564,
+          "title": "One Bus Leaves",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2565,
+          "title": "Fermi Problems, Quick Math Estimations (Probability Of",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2569,
+          "title": "Probability of they will not collide",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2589,
+          "title": "Probability of your answers",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2611,
+          "title": "A Robot Moves With A Certain Probability",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2622,
+          "title": "Ping Pong Game, There Is 10-10, I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2628,
+          "title": "If There Is A 0",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2633,
+          "title": "Conditional Probability Questions E",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2634,
+          "title": "If N People Put Their Hat In",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2654,
+          "title": "Probability of they are both boys",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2667,
+          "title": "You Have 1000 Coins, 999 Of Which",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2672,
+          "title": "What Is The Probability Of Getting Hht",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2673,
+          "title": "Throw Three Marbles At A Tic-Tac-Toe Board",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2679,
+          "title": "find all over the internet",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2680,
+          "title": "How Much Would You Pay To Play",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2681,
+          "title": "How Do You Make A Probability Of",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2683,
+          "title": "What Is The Probability If You Chose",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2691,
+          "title": "Throw Dice Until The Sum Over 100",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2693,
+          "title": "You And Your Friend Each Have A",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2694,
+          "title": "Probability & Statistics Questions And You Need",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2705,
+          "title": "value of the Hang Seng Index or CSI",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2713,
+          "title": "Probability of a win on first try",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2720,
+          "title": "Probability of the coin you are fliping is biased one",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2746,
+          "title": "What Are The First Three Digits After",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2760,
+          "title": "Rolling A Fair Dice, What Is The",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2771,
+          "title": "You Roll Two Fair Six-Sided Dice",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2772,
+          "title": "What Is The Probability Of Getting An",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2777,
+          "title": "Probability of you win",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2781,
+          "title": "The Number 20 Has A Total Of",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2789,
+          "title": "Probability of the 3 new parts will form a triangle",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2793,
+          "title": "Hr : Where Do You See Yourself",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2796,
+          "title": "We Roll A 6-Sided Die N Times",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2824,
+          "title": "If You Have A 3X3 Grid And",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2825,
+          "title": "value of the second roll. Why SIG? Why Trading",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2826,
+          "title": "Pick Three Numbers Between 1 And 20",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2829,
+          "title": "Find A Range [N,2N] Such That It",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2831,
+          "title": "Probability of I win",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2832,
+          "title": "Probability of them happening together",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2850,
+          "title": "What Was The Probability Of Getting A",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-002",
+      "series_name": "Arithmetic Progression Ii",
+      "members": [
+        {
+          "id": 1876,
+          "title": "BOOLAH",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1882,
+          "title": "Birthday Squad",
+          "variant_hint": "n=6"
+        },
+        {
+          "id": 1909,
+          "title": "Rainbow Socks",
+          "variant_hint": "n=12"
+        },
+        {
+          "id": 1927,
+          "title": "Sum of Primes I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1928,
+          "title": "Sum of Primes II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1964,
+          "title": "Random Fixed Point",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1989,
+          "title": "Missing Money I",
+          "variant_hint": "n=5"
+        },
+        {
+          "id": 1992,
+          "title": "Colorful M&M",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1993,
+          "title": "Spotify Music",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2001,
+          "title": "3 Consecutive Cards II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2007,
+          "title": "Poker Pair",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2010,
+          "title": "Marble Transfer I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2014,
+          "title": "Three of a Kind",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2018,
+          "title": "Quick Blue",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2028,
+          "title": "Bad Dealer",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2045,
+          "title": "Hat Matcher II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2046,
+          "title": "Largest Selector",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2063,
+          "title": "Socky Drawer",
+          "variant_hint": "n=6"
+        },
+        {
+          "id": 2066,
+          "title": "Point Picker I",
+          "variant_hint": "n=8"
+        },
+        {
+          "id": 2075,
+          "title": "Polygonal Placement",
+          "variant_hint": "n=5"
+        },
+        {
+          "id": 2086,
+          "title": "Prime Sum I",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2087,
+          "title": "Prime Sum II",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2092,
+          "title": "Monty Hall I",
+          "variant_hint": "n=8"
+        },
+        {
+          "id": 2098,
+          "title": "Missing Subset",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2120,
+          "title": "Include The Element!",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2127,
+          "title": "Modified Full House I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2131,
+          "title": "The Fixed One I",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2132,
+          "title": "Powerball Winner I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2133,
+          "title": "Powerball Winner II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2136,
+          "title": "Multisocks",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2137,
+          "title": "Sample Space Reduction",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2156,
+          "title": "Rank and Suit Diff",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2172,
+          "title": "All and None",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2177,
+          "title": "Arc Up I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2198,
+          "title": "Removed Portion",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2214,
+          "title": "Arithmetic Progression II",
+          "variant_hint": "n=15"
+        },
+        {
+          "id": 2215,
+          "title": "Scotty Bugatti",
+          "variant_hint": "n=15"
+        },
+        {
+          "id": 2246,
+          "title": "Distinct Gloves",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2280,
+          "title": "One Given Increasing",
+          "variant_hint": "n=100"
+        },
+        {
+          "id": 2283,
+          "title": "Three From Set",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2465,
+          "title": "Triangular Selection",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2466,
+          "title": "Rizz Party Deck",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-003",
+      "series_name": "Uniformly Decreasing Chain",
+      "members": [
+        {
+          "id": 1892,
+          "title": "Scholastic Books",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1922,
+          "title": "Triangular Angle I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1923,
+          "title": "Triangular Angle II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1979,
+          "title": "Products of Uniforms II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1999,
+          "title": "Figure Collector",
+          "variant_hint": "n=40"
+        },
+        {
+          "id": 2039,
+          "title": "Less Than Exponential",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2040,
+          "title": "Sum Diff Normal",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2071,
+          "title": "Soccer Shop",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2078,
+          "title": "Mean Absolute Normal",
+          "variant_hint": "n=8"
+        },
+        {
+          "id": 2101,
+          "title": "Exponential Gamma Variance",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2107,
+          "title": "Uniformly Decreasing Chain",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2141,
+          "title": "Flight Duration I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2142,
+          "title": "Flight Duration II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2144,
+          "title": "Flight Duration III",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2174,
+          "title": "Nearest Diagonal I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2260,
+          "title": "Quadratic Normal",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2388,
+          "title": "Boy Ratio",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2396,
+          "title": "Exponential and Uniform",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2397,
+          "title": "Rayleigh Root",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2485,
+          "title": "Tokyo Trains I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2488,
+          "title": "Center Square",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-004",
+      "series_name": "Computational Package Design Correlation Matrix",
+      "members": [
+        {
+          "id": 101,
+          "title": "Eigenvalue of Rank-1 Matrix",
+          "variant_hint": "base"
+        },
+        {
+          "id": 103,
+          "title": "Trace and Determinant from Eigenvalues",
+          "variant_hint": "base"
+        },
+        {
+          "id": 107,
+          "title": "Eigenvalue-Determinant-Trace Relationship",
+          "variant_hint": "base"
+        },
+        {
+          "id": 108,
+          "title": "Equicorrelation Matrix with Equal Off-Diagonal",
+          "variant_hint": "base"
+        },
+        {
+          "id": 110,
+          "title": "Equicorrelation Matrix: Valid Range of rho",
+          "variant_hint": "base"
+        },
+        {
+          "id": 114,
+          "title": "Range of Equicorrelation Matrix",
+          "variant_hint": "base"
+        },
+        {
+          "id": 330,
+          "title": "Correlation Matrix Eigenvalue Characterization",
+          "variant_hint": "base"
+        },
+        {
+          "id": 806,
+          "title": "Probability of Odd Sums in a 3x3 Matrix",
+          "variant_hint": "base"
+        },
+        {
+          "id": 960,
+          "title": "Eigenvalues of a 3x3 Matrix Filled with Ones",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1091,
+          "title": "Finding Eigenvalue Using Trace",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2503,
+          "title": "Suppose You Have Two Covariance Matrices A",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2533,
+          "title": "Quantitative Problem",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2664,
+          "title": "Matrix With 0S On Diagonal, 1S Everywhere Else",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2738,
+          "title": "They Gave You An Initial Market Share",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2807,
+          "title": "Computational Package Design Of Correlation Matrix For",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-005",
+      "series_name": "Standard Deviation Sum",
+      "members": [
+        {
+          "id": 1924,
+          "title": "Standard Deviation Sum",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1997,
+          "title": "Maximum Covariance",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2005,
+          "title": "Summy Cov",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2024,
+          "title": "One Correlation I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2069,
+          "title": "Correlation Shift I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2070,
+          "title": "Correlation Shift II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2157,
+          "title": "Dart Covariance",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2158,
+          "title": "Correlated Indicators",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2185,
+          "title": "Mean Point",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2398,
+          "title": "Trippy Zeta",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2493,
+          "title": "Last Correlation",
+          "variant_hint": "n=50"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-006",
+      "series_name": "Absolute Brownian Conditions",
+      "members": [
+        {
+          "id": 1981,
+          "title": "Brown Conditions I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2152,
+          "title": "Absolute Brownian Conditions",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2202,
+          "title": "Autocorrelation of BM",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2203,
+          "title": "Brownian Martingale I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2204,
+          "title": "Ito Variance I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2205,
+          "title": "Ito Variance II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2207,
+          "title": "Brownian Hitting II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2208,
+          "title": "Powered Brownian",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2209,
+          "title": "Variance of BM Sum",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2211,
+          "title": "Vasicek Model",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2212,
+          "title": "Variable Starting Brownian",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-007",
+      "series_name": "Statistics Conditional Expectation Multivariate Normal",
+      "members": [
+        {
+          "id": 1,
+          "title": "Sum of Gaussians: Distribution",
+          "variant_hint": "base"
+        },
+        {
+          "id": 227,
+          "title": "Joint Normal Conditional Estimation and Confidence",
+          "variant_hint": "base"
+        },
+        {
+          "id": 230,
+          "title": "Simulating Correlated Normal Variables via Cholesky",
+          "variant_hint": "base"
+        },
+        {
+          "id": 359,
+          "title": "Statistics: Conditional distribution of bivariate normal",
+          "variant_hint": "base"
+        },
+        {
+          "id": 360,
+          "title": "Simulating Equicorrelated Normal Variables",
+          "variant_hint": "base"
+        },
+        {
+          "id": 390,
+          "title": "Spectral Decomposition for Multivariate Normal",
+          "variant_hint": "base"
+        },
+        {
+          "id": 397,
+          "title": "Estimation with Equicorrelated Normal Samples",
+          "variant_hint": "base"
+        },
+        {
+          "id": 582,
+          "title": "Simulating Correlated Random Variables",
+          "variant_hint": "base"
+        },
+        {
+          "id": 604,
+          "title": "Statistics: Conditional Expectation of Multivariate Normal",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-008",
+      "series_name": "Lasso Constraint Formulation",
+      "members": [
+        {
+          "id": 2410,
+          "title": "House Prices II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2413,
+          "title": "Estimator Equality I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2415,
+          "title": "Lasso Constraint Formulation",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2420,
+          "title": "Quantity Minimizer",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2421,
+          "title": "Dog Weight I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2422,
+          "title": "Dog Weight II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2427,
+          "title": "One R-Squared",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2428,
+          "title": "Zero R-Squared",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2430,
+          "title": "Limitations of One-Hot Encoding",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-009",
+      "series_name": "Andrew Tate S Elevator I",
+      "members": [
+        {
+          "id": 1893,
+          "title": "Contained Origin",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2030,
+          "title": "Floor Equality",
+          "variant_hint": "n=100"
+        },
+        {
+          "id": 2035,
+          "title": "Cookie Cruncher",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2222,
+          "title": "Uniform Probability I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2223,
+          "title": "Uniforms Contained",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2290,
+          "title": "Large Maxima",
+          "variant_hint": "n=4"
+        },
+        {
+          "id": 2394,
+          "title": "Split Uniforms",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2496,
+          "title": "Andrew Tate's Elevator I",
+          "variant_hint": "n=100"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-010",
+      "series_name": "Some Classical Brainteasers Programming Questions Includ",
+      "members": [
+        {
+          "id": 2551,
+          "title": "In A Length N Array, A Number",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2626,
+          "title": "Some Linear Algebra, Probability, And Algorithm Questions; E",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2639,
+          "title": "Which Would You Use Xyz Algorithm Or",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2646,
+          "title": "A Lot About Comp Sci Basics, Data",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2688,
+          "title": "What's The Time Complexity Of This Algorithm",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2706,
+          "title": "Some Classical Brainteasers, Programming Questions Includ...",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2725,
+          "title": "Describe An Algorithm To Approximate Zero Of",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2736,
+          "title": "price series of stock",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-011",
+      "series_name": "Inverting High Dimensional Covariance Matrix",
+      "members": [
+        {
+          "id": 109,
+          "title": "Eigenvalue Interpretation in PCA",
+          "variant_hint": "base"
+        },
+        {
+          "id": 274,
+          "title": "Covariance Matrix Eigenvalue Interpretation",
+          "variant_hint": "base"
+        },
+        {
+          "id": 553,
+          "title": "Covariance Bounds",
+          "variant_hint": "base"
+        },
+        {
+          "id": 581,
+          "title": "Inverting a High-Dimensional Covariance Matrix",
+          "variant_hint": "base"
+        },
+        {
+          "id": 976,
+          "title": "Effect of Adding a Feature on PCA Variance",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1041,
+          "title": "Eigenvector of a Covariance Matrix",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1059,
+          "title": "PCA on Covariance vs Correlation Matrix",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-012",
+      "series_name": "Probability That Sum N Fair Dice Is Divisible",
+      "members": [
+        {
+          "id": 260,
+          "title": "Expected throws to see all six die faces once",
+          "variant_hint": "base"
+        },
+        {
+          "id": 285,
+          "title": "Probability that the sum of $n$ fair dice is divisible by $6$; and by $7$",
+          "variant_hint": "base"
+        },
+        {
+          "id": 379,
+          "title": "Cumulative Dice Sum Threshold Distribution",
+          "variant_hint": "base"
+        },
+        {
+          "id": 455,
+          "title": "Probability: Distinct Outcomes in Dice Rolls",
+          "variant_hint": "base"
+        },
+        {
+          "id": 462,
+          "title": "Comparing Rolls of Different Sided Dice",
+          "variant_hint": "base"
+        },
+        {
+          "id": 531,
+          "title": "Probability of Strictly Increasing Dice Rolls",
+          "variant_hint": "base"
+        },
+        {
+          "id": 635,
+          "title": "Probability: Dice Roll Comparison",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-013",
+      "series_name": "Sum Independence Gaussian Variables",
+      "members": [
+        {
+          "id": 30,
+          "title": "P(X + 3Y > 0 | X > 0)",
+          "variant_hint": "base"
+        },
+        {
+          "id": 32,
+          "title": "Normal Distribution: Fourth Moment",
+          "variant_hint": "base"
+        },
+        {
+          "id": 485,
+          "title": "Sum and Independence of Gaussian Variables",
+          "variant_hint": "base"
+        },
+        {
+          "id": 565,
+          "title": "Generating Normal from Uniform",
+          "variant_hint": "base"
+        },
+        {
+          "id": 826,
+          "title": "Sum of Gaussian Random Variables",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1073,
+          "title": "Integral Calculation",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-014",
+      "series_name": "Russian Roulette Iii",
+      "members": [
+        {
+          "id": 1983,
+          "title": "Russian Roulette I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1984,
+          "title": "Russian Roulette II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1985,
+          "title": "Russian Roulette III",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1986,
+          "title": "Russian Roulette IV",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1987,
+          "title": "Russian Roulette V",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1988,
+          "title": "Russian Roulette VI",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-015",
+      "series_name": "Hypothesis Testing M M Tasting",
+      "members": [
+        {
+          "id": 83,
+          "title": "M&M Hypothesis Testing",
+          "variant_hint": "base"
+        },
+        {
+          "id": 743,
+          "title": "Significance vs Power",
+          "variant_hint": "base"
+        },
+        {
+          "id": 746,
+          "title": "Hypothesis Testing with M\\&M Tasting",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2434,
+          "title": "Beverage Flavors",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2438,
+          "title": "No Power",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-016",
+      "series_name": "Disco Squares I",
+      "members": [
+        {
+          "id": 1881,
+          "title": "Disco Squares I",
+          "variant_hint": "n=100"
+        },
+        {
+          "id": 1939,
+          "title": "Red Cube I",
+          "variant_hint": "n=12"
+        },
+        {
+          "id": 1940,
+          "title": "Red Cube II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2119,
+          "title": "Subby Choice I",
+          "variant_hint": "n=15"
+        },
+        {
+          "id": 2216,
+          "title": "Boy-Girl Line",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-017",
+      "series_name": "Fair Outcome From Extremely Biased Coin",
+      "members": [
+        {
+          "id": 24,
+          "title": "Biased Coin to Fair Coin (Von Neumann)",
+          "variant_hint": "base"
+        },
+        {
+          "id": 231,
+          "title": "Simulating Fair Coin from Biased Coin",
+          "variant_hint": "base"
+        },
+        {
+          "id": 294,
+          "title": "Fair Outcome from Extremely Biased Coin",
+          "variant_hint": "base"
+        },
+        {
+          "id": 895,
+          "title": "Fair Game with a Biased Coin",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-018",
+      "series_name": "Required Ols Assumptions",
+      "members": [
+        {
+          "id": 2412,
+          "title": "Ridge Bias-Variance",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2417,
+          "title": "Required OLS Assumptions",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2419,
+          "title": "Common Point II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2436,
+          "title": "Mean Differences",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-019",
+      "series_name": "You Guess Number N From 1 6",
+      "members": [
+        {
+          "id": 2537,
+          "title": "How Can You Play A Game That",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2561,
+          "title": "You Guess A Number \"N\" From 1-6",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2623,
+          "title": "2 Players Play A Game",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2625,
+          "title": "You Play A Game Where You Get",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-020",
+      "series_name": "What Kind Data Mining Machine Learning Techniques",
+      "members": [
+        {
+          "id": 2554,
+          "title": "What Kind Of Data Mining/Machine Learning Techniques",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2682,
+          "title": "What Machine Learning Technique Do You Know",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2715,
+          "title": "What Are Some Names Of Machine Learning",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2759,
+          "title": "What Machine Learning Models You Know",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-021",
+      "series_name": "Expectation Chord Length Between Two Points Circle",
+      "members": [
+        {
+          "id": 20,
+          "title": "Expected Distance Between Points on a Circle",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1007,
+          "title": "Expected Distance on a Unit Circle",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1010,
+          "title": "Expectation of Chord Length Between Two Points on a Circle",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-022",
+      "series_name": "Sampling Uniformly From 3d Unit Sphere",
+      "members": [
+        {
+          "id": 37,
+          "title": "Uniform Disk Sampling",
+          "variant_hint": "base"
+        },
+        {
+          "id": 53,
+          "title": "Sampling Uniformly from a 3D Unit Sphere",
+          "variant_hint": "base"
+        },
+        {
+          "id": 495,
+          "title": "Uniform Sampling from a Sphere's Surface",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-023",
+      "series_name": "Expected Chord Intersections Circle",
+      "members": [
+        {
+          "id": 63,
+          "title": "Expected Handshakes in a Circle",
+          "variant_hint": "base"
+        },
+        {
+          "id": 77,
+          "title": "Expected Chord Intersections",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1088,
+          "title": "Expected Chord Intersections on a Circle",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-024",
+      "series_name": "Portfolio Allocation By Sharpe Ratio",
+      "members": [
+        {
+          "id": 155,
+          "title": "Portfolio Allocation by Sharpe Ratio",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1045,
+          "title": "Probability of Negative Return for Asset",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1057,
+          "title": "Probability with Sharpe Ratio",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-025",
+      "series_name": "Portfolio Optimization Alpha Signals",
+      "members": [
+        {
+          "id": 157,
+          "title": "Portfolio Optimization with Alpha Signals",
+          "variant_hint": "base"
+        },
+        {
+          "id": 220,
+          "title": "Open question: Portfolio optimization",
+          "variant_hint": "base"
+        },
+        {
+          "id": 423,
+          "title": "Portfolio theory: Reducing volatility",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-026",
+      "series_name": "Market Making Interval Bidding Game",
+      "members": [
+        {
+          "id": 165,
+          "title": "Bid-Ask Spread in Market Making",
+          "variant_hint": "base"
+        },
+        {
+          "id": 166,
+          "title": "Market Making Interval Bidding Game",
+          "variant_hint": "base"
+        },
+        {
+          "id": 368,
+          "title": "Market Making on Country Altitude",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-027",
+      "series_name": "Divisibility Puzzle Dice",
+      "members": [
+        {
+          "id": 197,
+          "title": "Divisibility Puzzle with Dice",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2375,
+          "title": "Exponential Digits I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2379,
+          "title": "Added Digits I",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-028",
+      "series_name": "Expected Value Smallest Die Roll",
+      "members": [
+        {
+          "id": 266,
+          "title": "Game: Roll a 100-sided die",
+          "variant_hint": "base"
+        },
+        {
+          "id": 822,
+          "title": "Expected Value of the Smallest Die Roll",
+          "variant_hint": "base"
+        },
+        {
+          "id": 957,
+          "title": "Dice Rolling Expectation",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-029",
+      "series_name": "Expected Payoff Max Difference Dice",
+      "members": [
+        {
+          "id": 317,
+          "title": "Team Formation Game with Four Dice",
+          "variant_hint": "base"
+        },
+        {
+          "id": 370,
+          "title": "Expected Payoff of Max Difference of Dice",
+          "variant_hint": "base"
+        },
+        {
+          "id": 516,
+          "title": "Dice Game Expectation",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-030",
+      "series_name": "Annualizing Sharpe Ratio",
+      "members": [
+        {
+          "id": 408,
+          "title": "Sharpe Ratio Aggregation and Annualization",
+          "variant_hint": "base"
+        },
+        {
+          "id": 488,
+          "title": "Annualizing Sharpe Ratio",
+          "variant_hint": "base"
+        },
+        {
+          "id": 859,
+          "title": "Annualizing the Sharpe Ratio",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-031",
+      "series_name": "Explain What Linear Regression Is",
+      "members": [
+        {
+          "id": 561,
+          "title": "OLS Confidence Intervals",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2593,
+          "title": "estimate parameters, when to use it",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2685,
+          "title": "Explain What Linear Regression Is, And The",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-032",
+      "series_name": "Standard Deviation Sum Correlated Gaussians",
+      "members": [
+        {
+          "id": 590,
+          "title": "Standard Deviation of a Sum of Correlated Gaussians",
+          "variant_hint": "base"
+        },
+        {
+          "id": 717,
+          "title": "Probability in Normal Distribution",
+          "variant_hint": "base"
+        },
+        {
+          "id": 851,
+          "title": "Standard Deviation of Sum of Normal Variables",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-033",
+      "series_name": "Expected Adjacent Pairs Different Colors",
+      "members": [
+        {
+          "id": 949,
+          "title": "Expected Adjacent Pairs of Different Colors",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2529,
+          "title": "Expected Number Of Rolls To See Each",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2803,
+          "title": "value question",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-034",
+      "series_name": "Probability Two People Sitting Together",
+      "members": [
+        {
+          "id": 1011,
+          "title": "Probability of Adjacent Seating",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1016,
+          "title": "Probability of Two People Sitting Together",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1722,
+          "title": "Expected Couples",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-035",
+      "series_name": "Probability Both Travels Being International",
+      "members": [
+        {
+          "id": 1013,
+          "title": "Probability of Both Travels Being International",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2687,
+          "title": "What Is Your Sr And How Much",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2823,
+          "title": "Tell Me Where Your Current Firm Is",
+          "variant_hint": "parameterized-n"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-036",
+      "series_name": "Carpenter Errors Iii",
+      "members": [
+        {
+          "id": 1933,
+          "title": "Carpenter Errors I",
+          "variant_hint": "n=2"
+        },
+        {
+          "id": 1962,
+          "title": "Carpenter Errors II",
+          "variant_hint": "n=2"
+        },
+        {
+          "id": 1963,
+          "title": "Carpenter Errors III",
+          "variant_hint": "n=2"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-037",
+      "series_name": "Show That Variance Sum",
+      "members": [
+        {
+          "id": 1941,
+          "title": "Minimizing Variance",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2192,
+          "title": "Mixed Coin",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2592,
+          "title": "Show That The Variance Of The Sum",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-038",
+      "series_name": "Motivation Adjusted R Squared",
+      "members": [
+        {
+          "id": 2416,
+          "title": "Adjusted R2 and AIC I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2429,
+          "title": "Motivation of Adjusted R-Squared",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2452,
+          "title": "Adjusted R2 and AIC II",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-039",
+      "series_name": "R Squared Drawbacks",
+      "members": [
+        {
+          "id": 2426,
+          "title": "R-Squared Drawbacks",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2431,
+          "title": "Known Weights I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2432,
+          "title": "Lasso Equals OLS",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-040",
+      "series_name": "Exponential Mle",
+      "members": [
+        {
+          "id": 2446,
+          "title": "Exponential MLE",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2447,
+          "title": "Pareto MLE",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2448,
+          "title": "Normal MLE I",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-041",
+      "series_name": "Exponential Fisher Information",
+      "members": [
+        {
+          "id": 2449,
+          "title": "Exponential Fisher Information",
+          "variant_hint": "n=16"
+        },
+        {
+          "id": 2451,
+          "title": "Beta Fisher Information II",
+          "variant_hint": "n=32"
+        },
+        {
+          "id": 2477,
+          "title": "Pareto Fisher Information",
+          "variant_hint": "n=7"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-042",
+      "series_name": "Rat Poison Iii",
+      "members": [
+        {
+          "id": 2455,
+          "title": "Rat Poison I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2456,
+          "title": "Rat Poison II",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2457,
+          "title": "Rat Poison III",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-043",
+      "series_name": "Stock Price State Transition Model",
+      "members": [
+        {
+          "id": 11,
+          "title": "Stock Price State Transition Model",
+          "variant_hint": "base"
+        },
+        {
+          "id": 47,
+          "title": "Umbrella Markov Chain",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-044",
+      "series_name": "Markov Chain Stationary Distribution",
+      "members": [
+        {
+          "id": 22,
+          "title": "Markov Chain Stationary Distribution",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1056,
+          "title": "Finding Stationary Distribution",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-045",
+      "series_name": "Positive Integer Triple Counting",
+      "members": [
+        {
+          "id": 78,
+          "title": "Positive Integer Triple Counting",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1720,
+          "title": "Four Integers",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-046",
+      "series_name": "Vector Projection Gram Schmidt",
+      "members": [
+        {
+          "id": 105,
+          "title": "Vector Projection and Gram-Schmidt",
+          "variant_hint": "base"
+        },
+        {
+          "id": 513,
+          "title": "Vector Projection",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-047",
+      "series_name": "Difference Geometric Brownian Motions",
+      "members": [
+        {
+          "id": 118,
+          "title": "Ito's Lemma: Geometric Brownian Motion",
+          "variant_hint": "base"
+        },
+        {
+          "id": 454,
+          "title": "Difference of Geometric Brownian Motions",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-048",
+      "series_name": "Martingale Property Brownian Motion",
+      "members": [
+        {
+          "id": 120,
+          "title": "Martingale Property of Brownian Motion",
+          "variant_hint": "base"
+        },
+        {
+          "id": 121,
+          "title": "Brownian Motion Hitting Boundary",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-049",
+      "series_name": "Garch Vs Har Rv Volatility Forecasting",
+      "members": [
+        {
+          "id": 212,
+          "title": "GARCH(1,1) Model",
+          "variant_hint": "base"
+        },
+        {
+          "id": 219,
+          "title": "GARCH vs HAR-RV for Volatility Forecasting",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-050",
+      "series_name": "Distribution Z From X Y",
+      "members": [
+        {
+          "id": 248,
+          "title": "(1) $X \\sim N(0,1)$, $Y \\sim N(0,4)$, flip a fair coin: $Z=X$ if heads, $Z=Y$ if tails",
+          "variant_hint": "base"
+        },
+        {
+          "id": 940,
+          "title": "Distribution of Z from X and Y",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-051",
+      "series_name": "Bidding Game Box Contains Money Equal Number Heads",
+      "members": [
+        {
+          "id": 259,
+          "title": "Bidding game: A box contains money equal to number of heads in 200 coin tosses",
+          "variant_hint": "base"
+        },
+        {
+          "id": 310,
+          "title": "Sealed-Bid Auction for Coin Flip Payoff",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-052",
+      "series_name": "Covariance Min Max Uniform Variables",
+      "members": [
+        {
+          "id": 278,
+          "title": "Covariance of Min and Max of Uniform Variables",
+          "variant_hint": "base"
+        },
+        {
+          "id": 336,
+          "title": "Covariance of Min and Max of Uniforms",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-053",
+      "series_name": "Probability Expected Cards Draw First Ace",
+      "members": [
+        {
+          "id": 369,
+          "title": "Ascending Order Probability for Drawn Cards",
+          "variant_hint": "base"
+        },
+        {
+          "id": 373,
+          "title": "Probability: Expected cards to draw for first Ace",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-054",
+      "series_name": "Effect Duplicating Data Regression",
+      "members": [
+        {
+          "id": 471,
+          "title": "Effect of Duplicating Data on Regression",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2708,
+          "title": "value change",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-055",
+      "series_name": "Machine Learning General Questions",
+      "members": [
+        {
+          "id": 520,
+          "title": "Machine Learning General Questions",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2700,
+          "title": "What's Your Favourite Project",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-056",
+      "series_name": "Regularization Autonomous Driving Neural Networks",
+      "members": [
+        {
+          "id": 540,
+          "title": "Regularization and Prediction Horizon",
+          "variant_hint": "base"
+        },
+        {
+          "id": 991,
+          "title": "Regularization in Autonomous Driving Neural Networks",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-057",
+      "series_name": "Machine Learning Kernel Methods Gaussian Processes",
+      "members": [
+        {
+          "id": 591,
+          "title": "Machine Learning: Kernel Methods and Gaussian Processes",
+          "variant_hint": "base"
+        },
+        {
+          "id": 865,
+          "title": "Kernel Methods and Gaussian Processes",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-058",
+      "series_name": "Reinforcement Learning Q Learning Vs Policy Gradients",
+      "members": [
+        {
+          "id": 592,
+          "title": "Reinforcement Learning: Q-Learning vs. Policy Gradients",
+          "variant_hint": "base"
+        },
+        {
+          "id": 869,
+          "title": "Relation Between Q-Learning and Policy Gradient Methods",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-059",
+      "series_name": "Probability Uniform Distribution Until Sum Exceeds 1",
+      "members": [
+        {
+          "id": 623,
+          "title": "Probability: Conditional Bernoulli Sums",
+          "variant_hint": "base"
+        },
+        {
+          "id": 854,
+          "title": "Probability with Uniform Distribution Until Sum Exceeds 1",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-060",
+      "series_name": "Drawing Balls From Three Boxes",
+      "members": [
+        {
+          "id": 728,
+          "title": "Drawing Balls from Three Boxes",
+          "variant_hint": "base"
+        },
+        {
+          "id": 824,
+          "title": "Drawing Balls Until Two Remain",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-061",
+      "series_name": "Coin Flipping Robot Markov Chain",
+      "members": [
+        {
+          "id": 773,
+          "title": "Fraction of Time Spent in State 1",
+          "variant_hint": "base"
+        },
+        {
+          "id": 813,
+          "title": "Coin Flipping Robot and Markov Chain",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-062",
+      "series_name": "Lc 121 Best Time Buy Sell Stock I",
+      "members": [
+        {
+          "id": 834,
+          "title": "/LC 121: Best Time to Buy and Sell Stock I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1792,
+          "title": "Buy and Sell Stock",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-063",
+      "series_name": "Probability Subsum Sequence Reaching N",
+      "members": [
+        {
+          "id": 951,
+          "title": "Probability of Subsum Sequence Reaching n",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1782,
+          "title": "Median Probability",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-064",
+      "series_name": "Derivation Linear Regression Formula",
+      "members": [
+        {
+          "id": 1036,
+          "title": "Derivation of Linear Regression Formula",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2579,
+          "title": "What Is The Maximum Likelihood Estimator For",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-065",
+      "series_name": "Defining Correlation",
+      "members": [
+        {
+          "id": 1772,
+          "title": "Sample Duplication",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1836,
+          "title": "Defining Correlation",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-066",
+      "series_name": "Sturdy Roof Ii",
+      "members": [
+        {
+          "id": 1890,
+          "title": "Sturdy Roof I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 1891,
+          "title": "Sturdy Roof II",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-067",
+      "series_name": "Number Bernoulli",
+      "members": [
+        {
+          "id": 1957,
+          "title": "Maximin",
+          "variant_hint": "n=15"
+        },
+        {
+          "id": 2483,
+          "title": "Number of Bernoulli",
+          "variant_hint": "n=3"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-068",
+      "series_name": "Kai Cenat S Investment",
+      "members": [
+        {
+          "id": 2032,
+          "title": "Conditional Bivariate",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2492,
+          "title": "Kai Cenat's Investment",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-069",
+      "series_name": "Larger Value",
+      "members": [
+        {
+          "id": 2042,
+          "title": "Larger Value",
+          "variant_hint": "n=20"
+        },
+        {
+          "id": 2171,
+          "title": "Big Up Chip",
+          "variant_hint": "n=10"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-070",
+      "series_name": "Discrete Time Memorylessness",
+      "members": [
+        {
+          "id": 2138,
+          "title": "Discrete-Time Memorylessness",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2194,
+          "title": "Gamma Coding I",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-071",
+      "series_name": "Carousel Box Ii",
+      "members": [
+        {
+          "id": 2146,
+          "title": "Carousel Box I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2147,
+          "title": "Carousel Box II",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-072",
+      "series_name": "Game Off Iii",
+      "members": [
+        {
+          "id": 2187,
+          "title": "Game Off I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2189,
+          "title": "Game Off III",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-073",
+      "series_name": "Transposition Trier Ii",
+      "members": [
+        {
+          "id": 2199,
+          "title": "Transposition Trier I",
+          "variant_hint": "n=10"
+        },
+        {
+          "id": 2200,
+          "title": "Transposition Trier II",
+          "variant_hint": "n=10"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-074",
+      "series_name": "Start Or Not Ii",
+      "members": [
+        {
+          "id": 2267,
+          "title": "Start or Not I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2268,
+          "title": "Start or Not II",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-075",
+      "series_name": "Stone Pick Ii",
+      "members": [
+        {
+          "id": 2269,
+          "title": "Stone Pick I",
+          "variant_hint": "n=101"
+        },
+        {
+          "id": 2270,
+          "title": "Stone Pick II",
+          "variant_hint": "n=101"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-076",
+      "series_name": "Multicollinearity Consequences",
+      "members": [
+        {
+          "id": 2424,
+          "title": "Detecting Multicollinearity",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2443,
+          "title": "Multicollinearity Consequences",
+          "variant_hint": "base"
+        }
+      ]
+    },
+    {
+      "class_id": "EQ-077",
+      "series_name": "Testing Eggs Ii",
+      "members": [
+        {
+          "id": 2458,
+          "title": "Testing Eggs I",
+          "variant_hint": "base"
+        },
+        {
+          "id": 2459,
+          "title": "Testing Eggs II",
+          "variant_hint": "base"
+        }
+      ]
+    }
+  ]
+}
